@@ -21,4 +21,10 @@ Professor: Ismar Frango
 <hr />
 <a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a><br>
 <a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
-
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #10 - Tendências multivariadas</a><br>
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #11 - Tendências multivariadas</a><br>
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #12 - Tendências multivariadas</a><br>
+<hr />
