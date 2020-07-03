@@ -22,9 +22,21 @@ Professor: Ismar Frango
 <a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a><br>
 <a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #10 - Tendências multivariadas</a><br>
+<a href="tarefas/temporal/temporal.html">Tarefa #10 - Cartograma(FALTA)</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #11 - Tendências multivariadas</a><br>
+<a href="tarefas/temporal/temporal.html">Tarefa #11 - Visualização espaço-temporal (FALTA)</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #12 - Tendências multivariadas</a><br>
+<a href="tarefas/temporal/temporal.html">Tarefa #12 - !!FALTOU!!</a><br>
+Gere uma visualização sobre um corpus de texto (preferencialmente
+aderente à sua área de pesquisa). A estratégia e o objetivo da
+visualização ficam à sua escolha (exceto wordcloud) .
+Recomenda-se inspirar-se no catálogo de técnicas de visualização de
+texto http://textvis.lnu.se/.
 <hr />
+<a href="tarefas/Treemap/tree.html">Tarefa #13 - TreeMap</a><br>
+<hr />
+<a href="tarefas/Treemap/voronoi.html">Tarefa #14 - Voronoi Treemap</a><br>
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #15 - Tendências multivariadas</a><br>
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #16 - Tendências multivariadas</a><br>
