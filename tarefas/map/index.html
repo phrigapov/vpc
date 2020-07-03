@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <title>Mapeamento dos caminhos de aprendizagem</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v3.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+        svg {
+            border: 1px solid #ccc;
+        }
+        
+        body {
+            font: 10px sans-serif;
+        }
+        
+        circle.node {
+            fill: lightsteelblue;
+            stroke: #555;
+            stroke-width: 3px;
+        }
+        
+        circle.leaf {
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+        
+        path.hull {
+            fill: lightsteelblue;
+            fill-opacity: 0.3;
+        }
+        
+        line.link {
+            stroke: #333;
+            stroke-opacity: 0.5;
+            pointer-events: none;
+        }
+        
+        .selectUsuarios {
+            border: 1px solid #607d8b !important;
+            border-radius: 4px;
+            background: #eeeeee;
+            background-image: none;
+            width: 100%;
+            height: 30px;
+            color: black;
+            font-size: 13px;
+            padding: 5px;
+        }
+        
+        div.tooltip {
+            position: absolute;
+            text-align: center;
+            /* vertical-align: middle; */
+            width: 160px;
+            height: 38px;
+            /* padding: 2px 2px 2px 2px; */
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+            padding-top: 10px;
+            font-size: 14px;
+            font-weight: 600;
+        }
+        
+        .accordion {
+            background-color: #eee;
+            color: #444;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+            transition: 0.4s;
+        }
+        
+        .active,
+        .accordion:hover {
+            background-color: #ccc;
+        }
+        
+        .panel {
+            padding: 0 18px;
+            display: none;
+            background-color: white;
+            overflow: hidden;
+        }
+        
+        .tituloPedagogico {
+            padding-top: 112px;
+            font-size: 14px;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+        
+        .circulo {
+            border-radius: 50px;
+            border: 2px solid #555555;
+            height: 30px;
+            width: 30px;
+            margin-left: 10px;
+        }
+        
+        .circulos {
+            border-radius: 50px;
+            border: 2px solid #555555;
+            height: 15px;
+            width: 15px;
+            margin-left: 20px;
+        }
+        
+        .institucional {
+            background-color: #1f77b4;
+        }
+        
+        .bncc {
+            background-color: #aec7e8;
+        }
+        
+        .mf {
+            background-color: #ffbb78;
+        }
+        
+        .cosmovisao {
+            background-color: #ff7f0e;
+        }
+        
+        .titulop {
+            padding-left: 10px;
+            padding-top: 7px;
+        }
+        
+        .titulos {
+            padding-left: 10px;
+            padding-top: 3px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-10">
+                <div class="d-flex align-items-center p-3 my-3 text-white-50 rounded box-shadow" style="background-color: #607D8B;">
+                    <img class="mr-3" src="../logo.png" alt="" width="48" height="48">
+                    <div class="lh-100">
+                        <h6 class="mb-0 text-white lh-100">Mapeamento dos caminhos de aprendizagem</h6>
+                        <small>TÓPICOS EM BIG DATA - Prof. Leandro Augusto</small>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-2">
+                <div class="d-flex align-items-center p-3 my-3 text-white-50 rounded box-shadow" style="background-color: #607D8B; height:80px;">
+                    <div class="lh-100">
+                        <h6 class="mb-0 text-white lh-100">Configurações</h6>
+                        <small>PAINEL</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-10">
+                <div id="my_dataviz"></div>
+            </div>
+            <div class="col-md-2">
+                <div style="font-size: 14px;padding-bottom: 5px; text-align: center;">Selecione o usuário:</div>
+                <select class="selectUsuarios" id="selectButton"></select>
+
+                <div class="tituloPedagogico">Modelo Pedagógico</div>
+                <button class="accordion">
+                    <div class="row">
+                        <div class="circulo institucional"></div> 
+                        <div class="titulop">Institucional</div>
+                    </div>
+                </button>
+                <div class="panel">
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos institucional"></div>
+                        <div class="titulos">1.1 - Diretrizes</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos institucional"></div>
+                        <div class="titulos">1.2 - Material</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos institucional"></div>
+                        <div class="titulos">1.3 - 10 Razões</div>
+                    </div>
+                </div>
+
+                <button class="accordion">
+                    <div class="row">
+                    <div class="circulo bncc"></div> 
+                    <div class="titulop">BNCC</div>
+                </div>
+            </button>
+                <div class="panel">
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos bncc"></div>
+                        <div class="titulos">2.1 - BNCC na Escola</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos bncc"></div>
+                        <div class="titulos">2.2 - Plano Curricular</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos bncc"></div>
+                        <div class="titulos">2.3 - Módulos BNCC</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos bncc"></div>
+                        <div class="titulos">2.4 - Mais que BNCC</div>
+                    </div>
+                </div>
+
+                <button class="accordion">
+                    <div class="row">
+                    <div class="circulo cosmovisao"></div> 
+                    <div class="titulop">CosmoVisão</div>
+                </div>
+            </button>
+                <div class="panel">
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos cosmovisao"></div>
+                        <div class="titulos">3.1 - Textos</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos cosmovisao"></div>
+                        <div class="titulos">3.2 - Vídeos</div>
+                    </div>
+                </div>
+
+                <button class="accordion">
+                    <div class="row">
+                    <div class="circulo mf"></div> 
+                    <div class="titulop">Método Fônico</div>
+                </div>
+            </button>
+                <div class="panel">
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos mf"></div>
+                        <div class="titulos">4.1 - Textos</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos mf"></div>
+                        <div class="titulos">4.2 - Vídeos</div>
+                    </div>
+                    <div class="row" style="padding: 5px;">
+                        <div class="circulos mf"></div>
+                        <div class="titulos">4.3 - Curso</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</body>
+
+</html>
+
+<script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+                panel.style.display = "none";
+            } else {
+                panel.style.display = "block";
+            }
+        });
+    }
+</script>
+<script type="text/javascript">
+    d3.json("dados.json", function(json) {
+        data = json;
+
+        //console.log(data.usuario);
+        var nomes = [];
+        for (var i = 0; i < data.usuario.length; ++i) {
+            nomes.push(data.usuario[i].nome);
+        }
+        console.log(nomes);
+
+        var allGroup = nomes;
+
+        // add the options to the button
+        //d3.select("#selectButton.option").remove();
+
+
+        d3.select("#selectButton")
+            .selectAll('myOptions')
+            .data(allGroup)
+            .enter()
+            .append('option')
+            .text(function(d) {
+                return d;
+            }) // text showed in the menu
+            .attr("value", function(d) {
+                return allGroup.indexOf(d);;
+            }) // corresponding value returned by the button
+    });
+
+
+    function cria() {
+
+        const heightValue = 500;
+        const widthValue = 700;
+        d3.selectAll("svg").remove();
+        var dr = 6, // default point radius
+            off = 15, // cluster hull offset
+            expand = {}, // expanded clusters
+            data, net, force, hullg, hull, linkg, link, nodeg, node, data2;
+
+        var curve = d3.svg.line()
+            .interpolate("cardinal-closed")
+            .tension(.85);
+
+        var fill = d3.scale.category20();
+
+        function noop() {
+            return false;
+        }
+
+        function nodeid(n) {
+            return n.size ? "_g_" + n.group : n.name;
+        }
+
+        function linkid(l) {
+            var u = nodeid(l.source),
+                v = nodeid(l.target);
+            return u < v ? u + "|" + v : v + "|" + u;
+        }
+
+        function getGroup(n) {
+            return n.group;
+        }
+
+        // constructs the network to visualize
+        function network(data, prev, index, expand) {
+            expand = expand || {};
+            var gm = {}, // group map
+                nm = {}, // node map
+                lm = {}, // link map
+                gn = {}, // previous group nodes
+                gc = {}, // previous group centroids
+                nodes = [], // output nodes
+                links = []; // output links
+
+            // process previous nodes for reuse or centroid calculation
+            if (prev) {
+                prev.nodes.forEach(function(n) {
+                    var i = index(n),
+                        o;
+                    if (n.size > 0) {
+                        gn[i] = n;
+                        n.size = 0;
+                    } else {
+                        o = gc[i] || (gc[i] = {
+                            x: 0,
+                            y: 0,
+                            count: 0
+                        });
+                        o.x += n.x;
+                        o.y += n.y;
+                        o.count += 1;
+                    }
+                });
+            }
+
+            // determine nodes
+            for (var k = 0; k < data.nodes.length; ++k) {
+                var n = data.nodes[k],
+                    i = index(n),
+                    l = gm[i] || (gm[i] = gn[i]) || (gm[i] = {
+                        group: i,
+                        size: 0,
+                        nodes: []
+                    });
+
+                if (expand[i]) {
+                    // the node should be directly visible
+                    nm[n.name] = nodes.length;
+                    nodes.push(n);
+                    if (gn[i]) {
+                        // place new nodes at cluster location (plus jitter)
+                        n.x = gn[i].x + Math.random();
+                        n.y = gn[i].y + Math.random();
+                    }
+                } else {
+                    // the node is part of a collapsed cluster
+                    if (l.size == 0) {
+                        // if new cluster, add to set and position at centroid of leaf nodes
+                        nm[i] = nodes.length;
+                        nodes.push(l);
+                        if (gc[i]) {
+                            l.x = gc[i].x / gc[i].count;
+                            l.y = gc[i].y / gc[i].count;
+                        }
+                    }
+                    l.nodes.push(n);
+                }
+                // always count group size as we also use it to tweak the force graph strengths/distances
+                //aqui que multipliquei o tamanho
+                l.size += 3;
+                n.group_data = l;
+            }
+
+            for (i in gm) {
+                gm[i].link_count = 0;
+            }
+
+            // determine links
+            for (k = 0; k < data.links.length; ++k) {
+                var e = data.links[k],
+                    u = index(e.source),
+                    v = index(e.target);
+                if (u != v) {
+                    gm[u].link_count++;
+                    gm[v].link_count++;
+                }
+                u = expand[u] ? nm[e.source.name] : nm[u];
+                v = expand[v] ? nm[e.target.name] : nm[v];
+                var i = (u < v ? u + "|" + v : v + "|" + u),
+                    l = lm[i] || (lm[i] = {
+                        source: u,
+                        target: v,
+                        size: 0
+                    });
+                l.size += 1;
+            }
+            for (i in lm) {
+                links.push(lm[i]);
+            }
+
+            return {
+                nodes: nodes,
+                links: links
+            };
+        }
+
+        function convexHulls(nodes, index, offset) {
+            var hulls = {};
+
+            // create point sets
+            for (var k = 0; k < nodes.length; ++k) {
+                var n = nodes[k];
+                if (n.size) continue;
+                var i = index(n),
+                    l = hulls[i] || (hulls[i] = []);
+                l.push([n.x - offset, n.y - offset]);
+                l.push([n.x - offset, n.y + offset]);
+                l.push([n.x + offset, n.y - offset]);
+                l.push([n.x + offset, n.y + offset]);
+            }
+
+            // create convex hulls
+            var hullset = [];
+            for (i in hulls) {
+                hullset.push({
+                    group: i,
+                    path: d3.geom.hull(hulls[i])
+                });
+            }
+
+            return hullset;
+        }
+
+        function drawCluster(d) {
+            return curve(d.path); // 0.8
+        }
+
+        // --------------------------------------------------------
+
+        var svg = d3.select("#my_dataviz");
+
+        var vis = svg
+            .append("svg")
+            .attr("viewBox", `-40 -20 ${widthValue} ${heightValue}`);
+
+        const strokeWidth = 1.5;
+        const margin = {
+            top: 0,
+            bottom: 20,
+            left: 30,
+            right: 20
+        };
+
+        const chart = svg.append("g").attr("transform", `translate(${margin.left},0)`);
+        const width = 600 - margin.left - margin.right - (strokeWidth * 2);
+        const height = 300 - margin.top - margin.bottom;
+        const grp = chart
+            .append("g")
+            .attr("transform", `translate(-${margin.left - strokeWidth},-${margin.top})`);
+
+        d3.json("dados.json", function(json) {
+            data = json;
+            data2 = json;
+
+
+
+            console.log(d3.select("#selectButton").property("value"));
+            data = json['usuario'][d3.select("#selectButton").property("value")];
+
+            console.log(json);
+            for (var i = 0; i < data.links.length; ++i) {
+                o = data.links[i];
+                o.source = data.nodes[o.source];
+                o.target = data.nodes[o.target];
+            }
+
+            hullg = vis.append("g");
+            linkg = vis.append("g");
+            nodeg = vis.append("g");
+
+            init();
+
+
+            // List of groups (here I have one group per column)
+
+            vis.attr("opacity", 1e-6)
+                .transition()
+                .duration(1000)
+                .attr("opacity", 1);
+        });
+
+        function init() {
+            if (force) force.stop();
+
+
+
+            //console.log(data2);
+            data = data2['usuario'][d3.select("#selectButton").property("value")];
+
+            net = network(data, net, getGroup, expand);
+
+
+
+            force = d3.layout.force()
+                .nodes(net.nodes)
+                .links(net.links)
+                .size([width, height])
+                .linkDistance(function(l, i) {
+                    var n1 = l.source,
+                        n2 = l.target;
+                    // larger distance for bigger groups:
+                    // both between single nodes and _other_ groups (where size of own node group still counts),
+                    // and between two group nodes.
+                    //
+                    // reduce distance for groups with very few outer links,
+                    // again both in expanded and grouped form, i.e. between individual nodes of a group and
+                    // nodes of another group or other group node or between two group nodes.
+                    //
+                    // The latter was done to keep the single-link groups ('blue', rose, ...) close.
+                    return 30 +
+                        Math.min(20 * Math.min((n1.size || (n1.group != n2.group ? n1.group_data.size : 0)),
+                                (n2.size || (n1.group != n2.group ? n2.group_data.size : 0))), -30 +
+                            30 * Math.min((n1.link_count || (n1.group != n2.group ? n1.group_data.link_count : 0)),
+                                (n2.link_count || (n1.group != n2.group ? n2.group_data.link_count : 0))),
+                            100);
+                    //return 150;
+                })
+                .linkStrength(function(l, i) {
+                    return 1;
+                })
+                .gravity(0.07) // gravity+charge tweaked to ensure good 'grouped' view (e.g. green group not smack between blue&orange, ...
+                .charge(-600) // ... charge is important to turn single-linked groups to the outside
+                .friction(0.5) // friction adjusted to get dampened display: less bouncy bouncy ball [Swedish Chef, anyone?]
+                .start();
+
+
+
+
+            hullg.selectAll("path.hull").remove();
+            hull = hullg.selectAll("path.hull")
+                .data(convexHulls(net.nodes, getGroup, off))
+                .enter().append("path")
+                .attr("class", "hull")
+                .attr("d", drawCluster)
+                .attr("xlink:href", function(d, i) {
+                    return "#path_" + i;
+                })
+                .text(function(d, i) {
+                    return "path_" + i;
+                })
+                .style("fill", function(d) {
+                    return fill(d.group);
+                })
+                .on("click", function(d) {
+
+                    //d3.select("body").remove();
+                    console.log("hull click", d, arguments, this, expand[d.group]);
+                    expand[d.group] = false;
+                    init();
+
+
+
+                });
+
+            // build the arrow.
+            vis.append("svg:defs").selectAll("marker")
+                .data(["end"]) // Different link/path types can be defined here
+                .enter().append("svg:marker") // This section adds in the arrows
+                .attr("id", String)
+                .attr("viewBox", "0 -5 10 10")
+                .attr("refX", function(d) {
+                    return 25
+                })
+                .attr("refY", 0)
+                .attr("markerWidth", 6)
+                .attr("markerHeight", 6)
+                .attr("orient", "auto")
+                .append("svg:path")
+                .attr("d", "M0,-5L10,0L0,5")
+                .on("ready", function(d) {
+                    //console.log(d);
+
+                });
+
+            // Define the div for the tooltip
+            var div = d3.select("body").append("div")
+                .attr("class", "tooltip")
+                .style("opacity", 0);
+
+
+            link = linkg.selectAll("line.link").data(net.links, linkid);
+            link.exit().remove();
+            link.enter().append("line")
+                .attr("class", "link")
+                .attr("marker-end", function(d) {
+                    if (d.size < 2) {
+                        return "url(#end)"
+                    }
+                })
+                .attr("x1", function(d) {
+                    return d.source.x;
+                })
+                .attr("y1", function(d) {
+                    return d.source.y;
+                })
+                .attr("x2", function(d) {
+                    return d.target.x;
+                })
+                .attr("y2", function(d) {
+                    return d.target.y;
+                })
+                .style("stroke-width", function(d) {
+                    return d.size || 1;
+                });
+
+            node = nodeg.selectAll("circle.node").data(net.nodes, nodeid);
+            node.exit().remove();
+            node.enter().append("circle")
+                // if (d.size) -- d.size > 0 when d is a group node.
+                .attr("class", function(d) {
+                    return "node" + (d.size ? "" : " leaf");
+                })
+                .attr("r", function(d) {
+                    return d.size ? d.size + dr : dr + 1;
+                })
+                .attr("cx", function(d) {
+                    return d.x;
+                })
+                .attr("cy", function(d) {
+                    return d.y;
+                })
+                .style("fill", function(d) {
+                    return fill(d.group);
+                })
+                .on("click", function(d) {
+
+
+                    console.log("node click", d, arguments, this, expand[d.group]);
+                    expand[d.group] = !expand[d.group];
+                    init();
+                })
+                .on("mouseover", function(d) {
+                    console.log(d);
+                    if (d.id) {
+                        div.transition()
+                            .duration(200)
+                            .style("opacity", .8);
+                        div.html(d.name)
+                            .style("background", fill(d.group))
+                            .style("left", (d3.event.pageX) + "px")
+                            .style("top", (d3.event.pageY - 28) + "px");
+                    }
+
+                })
+                .on("mouseout", function(d) {
+                    div.transition()
+                        .duration(500)
+                        .style("opacity", 0);
+                });
+
+            node.append("title")
+                .text(function(d) {
+                    return d.name;
+                });
+
+            node.call(force.drag);
+
+            force.on("tick", function() {
+                if (!hull.empty()) {
+                    hull.data(convexHulls(net.nodes, getGroup, off))
+                        .attr("d", drawCluster);
+                }
+
+                link.attr("x1", function(d) {
+                        return d.source.x;
+                    })
+                    .attr("y1", function(d) {
+                        return d.source.y;
+                    })
+                    .attr("x2", function(d) {
+                        return d.target.x;
+                    })
+                    .attr("y2", function(d) {
+                        return d.target.y;
+                    });
+
+                node.attr("cx", function(d) {
+                        return d.x;
+                    })
+                    .attr("cy", function(d) {
+                        return d.y;
+                    });
+            });
+        }
+
+        d3.select("#selectButton").on("change", function(d) {
+            // recover the option that has been chosen
+            var selectedOption = d3.select(this).property("value")
+                // run the updateChart function with this selected option
+                //update(selectedOption)
+
+
+            cria();
+
+        });
+    }
+
+    $(document).ready(function() {
+        cria();
+    });
+</script>
