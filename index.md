@@ -4,4 +4,4 @@ Professor: Ismar Frango
 
 ### Tarefas
 
-<a href="teste.html">teste</a>
+<a href="ismar/choropleth/sme_map_sp.html">Tarefa #2</a>
