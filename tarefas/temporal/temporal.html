@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style> /* set the CSS */
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+</style>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<body>
+
+<div id="temp"></div> 	
+
+
+</body>
+
+<script>
+
+    var dados =  [
+      { data: '1-03-20', qtd: 50, qtd2: 10, qtd3: 10},
+      { data: '2-03-20', qtd: 53, qtd2: 20, qtd3: 20},
+      { data: '3-03-20', qtd: 53, qtd2: 30, qtd3: 10},
+      { data: '4-03-20', qtd: 63, qtd2: 50, qtd3: 30},
+      { data: '5-03-20', qtd: 73, qtd2: 70, qtd3: 40},
+      { data: '6-03-20', qtd: 83, qtd2: 90, qtd3: 50},
+      { data: '7-03-20', qtd: 53, qtd2: 120, qtd3: 10},
+      { data: '8-03-20', qtd: 113, qtd2: 80, qtd3: 10},
+      { data: '9-03-20', qtd: 153, qtd2: 50, qtd3: 10},
+      { data: '10-03-20', qtd: 63, qtd2: 20, qtd3: 40},
+      { data: '11-03-20', qtd: 83, qtd2: 50, qtd3: 10},
+      { data: '12-03-20', qtd: 63, qtd2: 30, qtd3: 30},
+      { data: '13-03-20', qtd: 53, qtd2: 20, qtd3: 10},
+      { data: '14-03-20', qtd: 33, qtd2: 10, qtd3: 20},
+      { data: '15-03-20', qtd: 23, qtd2: 40, qtd3: 10}
+    ];
+    
+    
+    // set the dimensions and margins of the graph
+    var margin = {top: 20, right: 20, bottom: 30, left: 50},
+        width = 960 - margin.left - margin.right,
+        height = 500 - margin.top - margin.bottom;
+    
+    // parse the date / time
+    
+    var parseTime = d3.timeParse("%d-%m-%y");
+    
+    // set the ranges
+    var x = d3.scaleTime().range([0, width]);
+    var y = d3.scaleLinear().range([height, 0]);
+    
+    // define the line
+    var valueline = d3.line()
+        .x(function(d) { return x(d.data); })
+        .y(function(d) { return y(d.qtd); });
+    
+        // define the 2nd line
+    var valueline2 = d3.line()
+        .x(function(d) { return x(d.data); })
+        .y(function(d) { return y(d.qtd2); });
+    
+        // define the 3nd line
+    var valueline3 = d3.line()
+        .x(function(d) { return x(d.data); })
+        .y(function(d) { return y(d.qtd3); });
+    
+    // append the svg obgect to the body of the page
+    // appends a 'group' element to 'svg'
+    // moves the 'group' element to the top left margin
+    var svg = d3.select("#temp").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+    
+    // Get the data
+    
+    
+      // format the data
+      dados.forEach(function(d) {
+          d.data = parseTime(d.data);
+          d.qtd = +d.qtd;
+          d.qtd2 = +d.qtd2;
+          d.qtd3 = +d.qtd3;
+      });
+    
+      // Scale the range of the data
+      x.domain(d3.extent(dados, function(d) { return d.data; }));
+      y.domain([0, d3.max(dados, function(d) { return d.qtd; })]);
+    
+      // Add the valueline path.
+      svg.append("path")
+          .data([dados])
+          .attr("class", "line")
+          .attr("d", valueline);
+    
+      // Add the valueline2 path.
+      svg.append("path")
+          .data([dados])
+          .attr("class", "line")
+          .style("stroke", "red")
+          .attr("d", valueline2);
+    
+          // Add the valueline3 path.
+      svg.append("path")
+          .data([dados])
+          .attr("class", "line")
+          .style("stroke", "green")
+          .attr("d", valueline3);
+    
+      // Add the X Axis
+      svg.append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+    
+      // Add the Y Axis
+      svg.append("g")
+          .call(d3.axisLeft(y));
+    
+    
+    
+    </script>
