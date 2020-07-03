@@ -11,7 +11,7 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/boxplot.html">Tarefa #4 - Boxplot</a><br>
 <hr />
-<a href="tarefas/">Tarefa #5 - choropleth</a><br>
+<a href="tarefas/scatterplot/trafego_total.html">Tarefa #5 - Dispersão</a><br>
 <hr />
 <a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a><br>
 <a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
