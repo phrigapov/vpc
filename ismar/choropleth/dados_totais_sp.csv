@@ -1,0 +1,646 @@
+state,id,name,qtd_usuarios,qtd_acessos_unicos,qtd_acessos_totais
+São Paulo,3500105,Adamantina,0,0,0
+São Paulo,3500204,Adolfo,0,0,0
+São Paulo,3500303,Aguaí,0,0,0
+São Paulo,3500402,Águas da Prata,0,0,0
+São Paulo,3500501,Águas de Lindóia,0,0,0
+São Paulo,3500550,Águas de Santa Bárbara,0,0,0
+São Paulo,3500600,Águas de São Pedro,0,0,0
+São Paulo,3500709,Agudos,0,0,0
+São Paulo,3500758,Alambari,0,0,0
+São Paulo,3500808,Alfredo Marcondes,0,0,0
+São Paulo,3500907,Altair,0,0,0
+São Paulo,3501004,Altinópolis,0,0,0
+São Paulo,3501103,Alto Alegre,0,0,0
+São Paulo,3501152,Alumínio,0,0,0
+São Paulo,3501202,Álvares Florence,0,0,0
+São Paulo,3501301,Álvares Machado,0,0,0
+São Paulo,3501400,Álvaro de Carvalho,0,0,0
+São Paulo,3501509,Alvinlândia,0,0,0
+São Paulo,3501608,Americana,33,10,610
+São Paulo,3501707,Américo Brasiliense,0,0,0
+São Paulo,3501806,Américo de Campos,0,0,0
+São Paulo,3501905,Amparo,0,0,0
+São Paulo,3502002,Analândia,0,0,0
+São Paulo,3502101,Andradina,0,0,0
+São Paulo,3502200,Angatuba,0,0,0
+São Paulo,3502309,Anhembi,0,0,0
+São Paulo,3502408,Anhumas,0,0,0
+São Paulo,3502507,Aparecida,0,0,0
+São Paulo,3502606,Aparecida d'Oeste,0,0,0
+São Paulo,3502705,Apiaí,0,0,0
+São Paulo,3502754,Araçariguama,0,0,0
+São Paulo,3502804,Araçatuba,0,0,0
+São Paulo,3502903,Araçoiaba da Serra,0,0,0
+São Paulo,3503000,Aramina,0,0,0
+São Paulo,3503109,Arandu,0,0,0
+São Paulo,3503158,Arapeí,0,0,0
+São Paulo,3503208,Araraquara,1,1,3
+São Paulo,3503307,Araras,47,2,85
+São Paulo,3503356,Arco-Íris,0,0,0
+São Paulo,3503406,Arealva,0,0,0
+São Paulo,3503505,Areias,0,0,0
+São Paulo,3503604,Areiópolis,0,0,0
+São Paulo,3503703,Ariranha,0,0,0
+São Paulo,3503802,Artur Nogueira,0,0,0
+São Paulo,3503901,Arujá,0,0,0
+São Paulo,3503950,Aspásia,0,0,0
+São Paulo,3504008,Assis,63,6,147
+São Paulo,3504107,Atibaia,237,45,1279
+São Paulo,3504206,Auriflama,0,0,0
+São Paulo,3504305,Avaí,0,0,0
+São Paulo,3504404,Avanhandava,0,0,0
+São Paulo,3504503,Avaré,509,33,1873
+São Paulo,3504602,Bady Bassitt,0,0,0
+São Paulo,3504701,Balbinos,0,0,0
+São Paulo,3504800,Bálsamo,0,0,0
+São Paulo,3504909,Bananal,0,0,0
+São Paulo,3505005,Barão de Antonina,0,0,0
+São Paulo,3505104,Barbosa,0,0,0
+São Paulo,3505203,Bariri,0,0,0
+São Paulo,3505302,Barra Bonita,0,0,0
+São Paulo,3505351,Barra do Chapéu,0,0,0
+São Paulo,3505401,Barra do Turvo,0,0,0
+São Paulo,3505500,Barretos,49,42,1293
+São Paulo,3505609,Barrinha,0,0,0
+São Paulo,3505708,Barueri,45,27,1055
+São Paulo,3505807,Bastos,0,0,0
+São Paulo,3505906,Batatais,67,15,489
+São Paulo,3506003,Bauru,1536,87,3222
+São Paulo,3506102,Bebedouro,0,0,0
+São Paulo,3506201,Bento de Abreu,0,0,0
+São Paulo,3506300,Bernardino de Campos,0,0,0
+São Paulo,3506359,Bertioga,0,0,0
+São Paulo,3506409,Bilac,0,0,0
+São Paulo,3506508,Birigui,0,0,0
+São Paulo,3506607,Biritiba Mirim,0,0,0
+São Paulo,3506706,Boa Esperança do Sul,0,0,0
+São Paulo,3506805,Bocaina,0,0,0
+São Paulo,3506904,Bofete,0,0,0
+São Paulo,3507001,Boituva,0,0,0
+São Paulo,3507100,Bom Jesus dos Perdões,0,0,0
+São Paulo,3507159,Bom Sucesso de Itararé,0,0,0
+São Paulo,3507209,Borá,0,0,0
+São Paulo,3507308,Boracéia,0,0,0
+São Paulo,3507407,Borborema,0,0,0
+São Paulo,3507456,Borebi,0,0,0
+São Paulo,3507506,Botucatu,210,42,1491
+São Paulo,3507605,Bragança Paulista,355,40,2491
+São Paulo,3507704,Braúna,0,0,0
+São Paulo,3507753,Brejo Alegre,0,0,0
+São Paulo,3507803,Brodowski,0,0,0
+São Paulo,3507902,Brotas,23,17,473
+São Paulo,3508009,Buri,0,0,0
+São Paulo,3508108,Buritama,0,0,0
+São Paulo,3508207,Buritizal,0,0,0
+São Paulo,3508306,Cabrália Paulista,0,0,0
+São Paulo,3508405,Cabreúva,0,0,0
+São Paulo,3508504,Caçapava,0,0,0
+São Paulo,3508603,Cachoeira Paulista,0,0,0
+São Paulo,3508702,Caconde,0,0,0
+São Paulo,3508801,Cafelândia,0,0,0
+São Paulo,3508900,Caiabu,0,0,0
+São Paulo,3509007,Caieiras,369,31,984
+São Paulo,3509106,Caiuá,0,0,0
+São Paulo,3509205,Cajamar,18,11,827
+São Paulo,3509254,Cajati,0,0,0
+São Paulo,3509304,Cajobi,0,0,0
+São Paulo,3509403,Cajuru,0,0,0
+São Paulo,3509452,Campina do Monte Alegre,0,0,0
+São Paulo,3509502,Campinas,1682,133,4183
+São Paulo,3509601,Campo Limpo Paulista,89,26,793
+São Paulo,3509700,Campos do Jordão,0,0,0
+São Paulo,3509809,Campos Novos Paulista,0,0,0
+São Paulo,3509908,Cananéia,0,0,0
+São Paulo,3509957,Canas,0,0,0
+São Paulo,3510005,Cândido Mota,0,0,0
+São Paulo,3510104,Cândido Rodrigues,0,0,0
+São Paulo,3510153,Canitar,0,0,0
+São Paulo,3510203,Capão Bonito,6,6,259
+São Paulo,3510302,Capela do Alto,0,0,0
+São Paulo,3510401,Capivari,0,0,0
+São Paulo,3510500,Caraguatatuba,0,0,0
+São Paulo,3510609,Carapicuíba,80,44,2166
+São Paulo,3510708,Cardoso,0,0,0
+São Paulo,3510807,Casa Branca,29,2,5
+São Paulo,3510906,Cássia dos Coqueiros,0,0,0
+São Paulo,3511003,Castilho,0,0,0
+São Paulo,3511102,Catanduva,165,64,3123
+São Paulo,3511201,Catiguá,0,0,0
+São Paulo,3511300,Cedral,0,0,0
+São Paulo,3511409,Cerqueira César,0,0,0
+São Paulo,3511508,Cerquilho,0,0,0
+São Paulo,3511607,Cesário Lange,0,0,0
+São Paulo,3511706,Charqueada,0,0,0
+São Paulo,3511904,Clementina,0,0,0
+São Paulo,3512001,Colina,0,0,0
+São Paulo,3512100,Colômbia,0,0,0
+São Paulo,3512209,Conchal,0,0,0
+São Paulo,3512308,Conchas,0,0,0
+São Paulo,3512407,Cordeirópolis,0,0,0
+São Paulo,3512506,Coroados,0,0,0
+São Paulo,3512605,Coronel Macedo,0,0,0
+São Paulo,3512704,Corumbataí,0,0,0
+São Paulo,3512803,Cosmópolis,0,0,0
+São Paulo,3512902,Cosmorama,0,0,0
+São Paulo,3513009,Cotia,688,112,4611
+São Paulo,3513108,Cravinhos,0,0,0
+São Paulo,3513207,Cristais Paulista,0,0,0
+São Paulo,3513306,Cruzália,0,0,0
+São Paulo,3513405,Cruzeiro,116,32,1424
+São Paulo,3513504,Cubatão,109,15,568
+São Paulo,3513603,Cunha,0,0,0
+São Paulo,3513702,Descalvado,0,0,0
+São Paulo,3513801,Diadema,0,0,0
+São Paulo,3513850,Dirce Reis,0,0,0
+São Paulo,3513900,Divinolândia,0,0,0
+São Paulo,3514007,Dobrada,0,0,0
+São Paulo,3514106,Dois Córregos,0,0,0
+São Paulo,3514205,Dolcinópolis,0,0,0
+São Paulo,3514304,Dourado,0,0,0
+São Paulo,3514403,Dracena,77,5,298
+São Paulo,3514502,Duartina,0,0,0
+São Paulo,3514601,Dumont,0,0,0
+São Paulo,3514700,Echaporã,0,0,0
+São Paulo,3514809,Eldorado,0,0,0
+São Paulo,3514908,Elias Fausto,0,0,0
+São Paulo,3514924,Elisiário,0,0,0
+São Paulo,3514957,Embaúba,0,0,0
+São Paulo,3515004,Embu das Artes,832,82,2541
+São Paulo,3515103,Embu-Guaçu,0,0,0
+São Paulo,3515129,Emilianópolis,0,0,0
+São Paulo,3515152,Engenheiro Coelho,0,0,0
+São Paulo,3515186,Espírito Santo do Pinhal,0,0,0
+São Paulo,3515194,Espírito Santo do Turvo,0,0,0
+São Paulo,3515202,Estrela d'Oeste,0,0,0
+São Paulo,3515301,Estrela do Norte,0,0,0
+São Paulo,3515350,Euclides da Cunha Paulista,0,0,0
+São Paulo,3515400,Fartura,0,0,0
+São Paulo,3515509,Fernandópolis,57,14,796
+São Paulo,3515608,Fernando Prestes,0,0,0
+São Paulo,3515657,Fernão,0,0,0
+São Paulo,3515707,Ferraz de Vasconcelos,0,0,0
+São Paulo,3515806,Flora Rica,0,0,0
+São Paulo,3515905,Floreal,0,0,0
+São Paulo,3516002,Flórida Paulista,0,0,0
+São Paulo,3516101,Florínea,0,0,0
+São Paulo,3516200,Franca,177,15,902
+São Paulo,3516309,Francisco Morato,0,0,0
+São Paulo,3516408,Franco da Rocha,0,0,0
+São Paulo,3516507,Gabriel Monteiro,0,0,0
+São Paulo,3516606,Gália,0,0,0
+São Paulo,3516705,Garça,0,0,0
+São Paulo,3516804,Gastão Vidigal,0,0,0
+São Paulo,3516853,Gavião Peixoto,0,0,0
+São Paulo,3516903,General Salgado,0,0,0
+São Paulo,3517000,Getulina,0,0,0
+São Paulo,3517109,Glicério,0,0,0
+São Paulo,3517208,Guaiçara,0,0,0
+São Paulo,3517307,Guaimbê,0,0,0
+São Paulo,3517406,Guaíra,0,0,0
+São Paulo,3517505,Guapiaçu,0,0,0
+São Paulo,3517604,Guapiara,0,0,0
+São Paulo,3517703,Guará,0,0,0
+São Paulo,3517802,Guaraçaí,0,0,0
+São Paulo,3517901,Guaraci,0,0,0
+São Paulo,3518008,Guarani d'Oeste,0,0,0
+São Paulo,3518107,Guarantã,0,0,0
+São Paulo,3518206,Guararapes,458,12,1637
+São Paulo,3518305,Guararema,0,0,0
+São Paulo,3518404,Guaratinguetá,0,0,0
+São Paulo,3518503,Guareí,0,0,0
+São Paulo,3518602,Guariba,0,0,0
+São Paulo,3518701,Guarujá,0,0,0
+São Paulo,3518800,Guarulhos,521,99,2786
+São Paulo,3518859,Guatapará,0,0,0
+São Paulo,3518909,Guzolândia,0,0,0
+São Paulo,3519006,Herculândia,0,0,0
+São Paulo,3519055,Holambra,0,0,0
+São Paulo,3519071,Hortolândia,130,51,2113
+São Paulo,3519105,Iacanga,0,0,0
+São Paulo,3519204,Iacri,0,0,0
+São Paulo,3519253,Iaras,0,0,0
+São Paulo,3519303,Ibaté,0,0,0
+São Paulo,3519402,Ibirá,0,0,0
+São Paulo,3519501,Ibirarema,0,0,0
+São Paulo,3519600,Ibitinga,0,0,0
+São Paulo,3519709,Ibiúna,0,0,0
+São Paulo,3519808,Icém,189,60,1502
+São Paulo,3519907,Iepê,0,0,0
+São Paulo,3520004,Igaraçu do Tietê,0,0,0
+São Paulo,3520103,Igarapava,0,0,0
+São Paulo,3520202,Igaratá,0,0,0
+São Paulo,3520301,Iguape,0,0,0
+São Paulo,3520400,Ilhabela,0,0,0
+São Paulo,3520426,Ilha Comprida,0,0,0
+São Paulo,3520442,Ilha Solteira,0,0,0
+São Paulo,3520509,Indaiatuba,0,0,0
+São Paulo,3520608,Indiana,0,0,0
+São Paulo,3520707,Indiaporã,0,0,0
+São Paulo,3520806,Inúbia Paulista,0,0,0
+São Paulo,3520905,Ipaussu,0,0,0
+São Paulo,3521002,Iperó,0,0,0
+São Paulo,3521101,Ipeúna,0,0,0
+São Paulo,3521150,Ipiguá,0,0,0
+São Paulo,3521200,Iporanga,0,0,0
+São Paulo,3521309,Ipuã,0,0,0
+São Paulo,3521408,Iracemápolis,0,0,0
+São Paulo,3521507,Irapuã,0,0,0
+São Paulo,3521606,Irapuru,0,0,0
+São Paulo,3521705,Itaberá,0,0,0
+São Paulo,3521804,Itaí,0,0,0
+São Paulo,3521903,Itajobi,0,0,0
+São Paulo,3522000,Itaju,0,0,0
+São Paulo,3522109,Itanhaém,8,7,379
+São Paulo,3522158,Itaoca,0,0,0
+São Paulo,3522208,Itapecerica da Serra,77,20,1115
+São Paulo,3522307,Itapetininga,0,0,0
+São Paulo,3522406,Itapeva,0,0,0
+São Paulo,3522505,Itapevi,12,14,450
+São Paulo,3522604,Itapira,0,0,0
+São Paulo,3522653,Itapirapuã Paulista,0,0,0
+São Paulo,3522703,Itápolis,0,0,0
+São Paulo,3522802,Itaporanga,0,0,0
+São Paulo,3522901,Itapuí,0,0,0
+São Paulo,3523008,Itapura,0,0,0
+São Paulo,3523107,Itaquaquecetuba,160,27,1044
+São Paulo,3523206,Itararé,0,0,0
+São Paulo,3523305,Itariri,0,0,0
+São Paulo,3523404,Itatiba,14,14,649
+São Paulo,3523503,Itatinga,0,0,0
+São Paulo,3523602,Itirapina,0,0,0
+São Paulo,3523701,Itirapuã,0,0,0
+São Paulo,3523800,Itobi,0,0,0
+São Paulo,3523909,Itu,123,1,30
+São Paulo,3524006,Itupeva,0,0,0
+São Paulo,3524105,Ituverava,47,18,741
+São Paulo,3524204,Jaborandi,0,0,0
+São Paulo,3524303,Jaboticabal,0,0,0
+São Paulo,3524402,Jacareí,43,2,210
+São Paulo,3524501,Jaci,0,0,0
+São Paulo,3524600,Jacupiranga,0,0,0
+São Paulo,3524709,Jaguariúna,0,0,0
+São Paulo,3524808,Jales,0,0,0
+São Paulo,3524907,Jambeiro,0,0,0
+São Paulo,3525003,Jandira,228,24,1365
+São Paulo,3525102,Jardinópolis,0,0,0
+São Paulo,3525201,Jarinu,0,0,0
+São Paulo,3525300,Jaú,284,39,820
+São Paulo,3525409,Jeriquara,0,0,0
+São Paulo,3525508,Joanópolis,0,0,0
+São Paulo,3525607,João Ramalho,0,0,0
+São Paulo,3525706,José Bonifácio,0,0,0
+São Paulo,3525805,Júlio Mesquita,0,0,0
+São Paulo,3525854,Jumirim,0,0,0
+São Paulo,3525904,Jundiaí,315,91,3173
+São Paulo,3526001,Junqueirópolis,0,0,0
+São Paulo,3526100,Juquiá,0,0,0
+São Paulo,3526209,Juquitiba,0,0,0
+São Paulo,3526308,Lagoinha,0,0,0
+São Paulo,3526407,Laranjal Paulista,0,0,0
+São Paulo,3526506,Lavínia,0,0,0
+São Paulo,3526605,Lavrinhas,0,0,0
+São Paulo,3526704,Leme,0,0,0
+São Paulo,3526803,Lençóis Paulista,0,0,0
+São Paulo,3526902,Limeira,1221,122,2959
+São Paulo,3527009,Lindóia,0,0,0
+São Paulo,3527108,Lins,19,17,1113
+São Paulo,3527207,Lorena,12,12,394
+São Paulo,3527256,Lourdes,0,0,0
+São Paulo,3527306,Louveira,57,9,459
+São Paulo,3527405,Lucélia,0,0,0
+São Paulo,3527504,Lucianópolis,0,0,0
+São Paulo,3527603,Luís Antônio,0,0,0
+São Paulo,3527702,Luiziânia,0,0,0
+São Paulo,3527801,Lupércio,0,0,0
+São Paulo,3527900,Lutécia,0,0,0
+São Paulo,3528007,Macatuba,0,0,0
+São Paulo,3528106,Macaubal,0,0,0
+São Paulo,3528205,Macedônia,0,0,0
+São Paulo,3528304,Magda,0,0,0
+São Paulo,3528403,Mairinque,0,0,0
+São Paulo,3528502,Mairiporã,451,91,3059
+São Paulo,3528601,Manduri,0,0,0
+São Paulo,3528700,Marabá Paulista,0,0,0
+São Paulo,3528809,Maracaí,0,0,0
+São Paulo,3528858,Marapoama,0,0,0
+São Paulo,3528908,Mariápolis,0,0,0
+São Paulo,3529005,Marília,0,0,0
+São Paulo,3529104,Marinópolis,0,0,0
+São Paulo,3529203,Martinópolis,0,0,0
+São Paulo,3529302,Matão,0,0,0
+São Paulo,3529401,Mauá,20,18,800
+São Paulo,3529500,Mendonça,0,0,0
+São Paulo,3529609,Meridiano,0,0,0
+São Paulo,3529658,Mesópolis,0,0,0
+São Paulo,3529708,Miguelópolis,0,0,0
+São Paulo,3529807,Mineiros do Tietê,0,0,0
+São Paulo,3529906,Miracatu,0,0,0
+São Paulo,3530003,Mira Estrela,0,0,0
+São Paulo,3530102,Mirandópolis,0,0,0
+São Paulo,3530201,Mirante do Paranapanema,0,0,0
+São Paulo,3530300,Mirassol,3,1,212
+São Paulo,3530409,Mirassolândia,0,0,0
+São Paulo,3530508,Mococa,0,0,0
+São Paulo,3530607,Mogi das Cruzes,16,15,179
+São Paulo,3530706,Mogi Guaçu,284,76,2480
+São Paulo,3530805,Mogi Mirim,0,0,0
+São Paulo,3530904,Mombuca,0,0,0
+São Paulo,3531001,Monções,0,0,0
+São Paulo,3531100,Mongaguá,0,0,0
+São Paulo,3531209,Monte Alegre do Sul,0,0,0
+São Paulo,3531308,Monte Alto,0,0,0
+São Paulo,3531407,Monte Aprazível,0,0,0
+São Paulo,3531506,Monte Azul Paulista,0,0,0
+São Paulo,3531605,Monte Castelo,0,0,0
+São Paulo,3531704,Monteiro Lobato,0,0,0
+São Paulo,3531803,Monte Mor,156,21,857
+São Paulo,3531902,Morro Agudo,0,0,0
+São Paulo,3532009,Morungaba,0,0,0
+São Paulo,3532058,Motuca,0,0,0
+São Paulo,3532108,Murutinga do Sul,0,0,0
+São Paulo,3532157,Nantes,0,0,0
+São Paulo,3532207,Narandiba,0,0,0
+São Paulo,3532306,Natividade da Serra,0,0,0
+São Paulo,3532405,Nazaré Paulista,0,0,0
+São Paulo,3532504,Neves Paulista,0,0,0
+São Paulo,3532603,Nhandeara,0,0,0
+São Paulo,3532702,Nipoã,0,0,0
+São Paulo,3532801,Nova Aliança,0,0,0
+São Paulo,3532827,Nova Campina,0,0,0
+São Paulo,3532843,Nova Canaã Paulista,0,0,0
+São Paulo,3532868,Nova Castilho,0,0,0
+São Paulo,3532900,Nova Europa,0,0,0
+São Paulo,3533007,Nova Granada,0,0,0
+São Paulo,3533106,Nova Guataporanga,0,0,0
+São Paulo,3533205,Nova Independência,0,0,0
+São Paulo,3533254,Novais,0,0,0
+São Paulo,3533304,Nova Luzitânia,0,0,0
+São Paulo,3533403,Nova Odessa,0,0,0
+São Paulo,3533502,Novo Horizonte,0,0,0
+São Paulo,3533601,Nuporanga,0,0,0
+São Paulo,3533700,Ocauçu,0,0,0
+São Paulo,3533809,Óleo,0,0,0
+São Paulo,3533908,Olímpia,0,0,0
+São Paulo,3534005,Onda Verde,0,0,0
+São Paulo,3534104,Oriente,0,0,0
+São Paulo,3534203,Orindiúva,0,0,0
+São Paulo,3534302,Orlândia,0,0,0
+São Paulo,3534401,Osasco,884,100,3615
+São Paulo,3534500,Oscar Bressane,0,0,0
+São Paulo,3534609,Osvaldo Cruz,0,0,0
+São Paulo,3534708,Ourinhos,0,0,0
+São Paulo,3534757,Ouroeste,0,0,0
+São Paulo,3534807,Ouro Verde,0,0,0
+São Paulo,3534906,Pacaembu,0,0,0
+São Paulo,3535002,Palestina,0,0,0
+São Paulo,3535101,Palmares Paulista,0,0,0
+São Paulo,3535200,Palmeira d'Oeste,0,0,0
+São Paulo,3535309,Palmital,0,0,0
+São Paulo,3535408,Panorama,0,0,0
+São Paulo,3535507,Paraguaçu Paulista,0,0,0
+São Paulo,3535606,Paraibuna,0,0,0
+São Paulo,3535705,Paraíso,0,0,0
+São Paulo,3535804,Paranapanema,0,0,0
+São Paulo,3535903,Paranapuã,0,0,0
+São Paulo,3536000,Parapuã,0,0,0
+São Paulo,3536109,Pardinho,0,0,0
+São Paulo,3536208,Pariquera-Açu,0,0,0
+São Paulo,3536257,Parisi,0,0,0
+São Paulo,3536307,Patrocínio Paulista,0,0,0
+São Paulo,3536406,Paulicéia,0,0,0
+São Paulo,3536505,Paulínia,1324,220,2590
+São Paulo,3536570,Paulistânia,0,0,0
+São Paulo,3536604,Paulo de Faria,0,0,0
+São Paulo,3536703,Pederneiras,0,0,0
+São Paulo,3536802,Pedra Bela,0,0,0
+São Paulo,3536901,Pedranópolis,0,0,0
+São Paulo,3537008,Pedregulho,0,0,0
+São Paulo,3537107,Pedreira,0,0,0
+São Paulo,3537156,Pedrinhas Paulista,0,0,0
+São Paulo,3537206,Pedro de Toledo,0,0,0
+São Paulo,3537305,Penápolis,0,0,0
+São Paulo,3537404,Pereira Barreto,0,0,0
+São Paulo,3537503,Pereiras,0,0,0
+São Paulo,3537602,Peruíbe,12,10,502
+São Paulo,3537701,Piacatu,0,0,0
+São Paulo,3537800,Piedade,0,0,0
+São Paulo,3537909,Pilar do Sul,0,0,0
+São Paulo,3538006,Pindamonhangaba,122,25,656
+São Paulo,3538105,Pindorama,0,0,0
+São Paulo,3538204,Pinhalzinho,0,0,0
+São Paulo,3538303,Piquerobi,0,0,0
+São Paulo,3538501,Piquete,0,0,0
+São Paulo,3538600,Piracaia,1,1,1
+São Paulo,3538709,Piracicaba,0,0,0
+São Paulo,3538808,Piraju,0,0,0
+São Paulo,3538907,Pirajuí,0,0,0
+São Paulo,3539004,Pirangi,0,0,0
+São Paulo,3539103,Pirapora do Bom Jesus,0,0,0
+São Paulo,3539202,Pirapozinho,0,0,0
+São Paulo,3539301,Pirassununga,0,0,0
+São Paulo,3539400,Piratininga,0,0,0
+São Paulo,3539509,Pitangueiras,0,0,0
+São Paulo,3539608,Planalto,0,0,0
+São Paulo,3539707,Platina,0,0,0
+São Paulo,3539806,Poá,0,0,0
+São Paulo,3539905,Poloni,0,0,0
+São Paulo,3540002,Pompéia,0,0,0
+São Paulo,3540101,Pongaí,0,0,0
+São Paulo,3540200,Pontal,0,0,0
+São Paulo,3540259,Pontalinda,0,0,0
+São Paulo,3540309,Pontes Gestal,0,0,0
+São Paulo,3540408,Populina,0,0,0
+São Paulo,3540507,Porangaba,0,0,0
+São Paulo,3540606,Porto Feliz,354,50,1056
+São Paulo,3540705,Porto Ferreira,0,0,0
+São Paulo,3540754,Potim,0,0,0
+São Paulo,3540804,Potirendaba,0,0,0
+São Paulo,3540853,Pracinha,0,0,0
+São Paulo,3540903,Pradópolis,0,0,0
+São Paulo,3541000,Praia Grande,0,0,0
+São Paulo,3541059,Pratânia,0,0,0
+São Paulo,3541109,Presidente Alves,0,0,0
+São Paulo,3541208,Presidente Bernardes,0,0,0
+São Paulo,3541307,Presidente Epitácio,0,0,0
+São Paulo,3541406,Presidente Prudente,655,54,811
+São Paulo,3541505,Presidente Venceslau,0,0,0
+São Paulo,3541604,Promissão,0,0,0
+São Paulo,3541653,Quadra,0,0,0
+São Paulo,3541703,Quatá,0,0,0
+São Paulo,3541802,Queiroz,0,0,0
+São Paulo,3541901,Queluz,0,0,0
+São Paulo,3542008,Quintana,0,0,0
+São Paulo,3542107,Rafard,0,0,0
+São Paulo,3542206,Rancharia,0,0,0
+São Paulo,3542305,Redenção da Serra,0,0,0
+São Paulo,3542404,Regente Feijó,0,0,0
+São Paulo,3542503,Reginópolis,0,0,0
+São Paulo,3542602,Registro,60,8,304
+São Paulo,3542701,Restinga,0,0,0
+São Paulo,3542800,Ribeira,0,0,0
+São Paulo,3542909,Ribeirão Bonito,0,0,0
+São Paulo,3543006,Ribeirão Branco,0,0,0
+São Paulo,3543105,Ribeirão Corrente,0,0,0
+São Paulo,3543204,Ribeirão do Sul,0,0,0
+São Paulo,3543238,Ribeirão dos Índios,0,0,0
+São Paulo,3543253,Ribeirão Grande,0,0,0
+São Paulo,3543303,Ribeirão Pires,0,0,0
+São Paulo,3543402,Ribeirão Preto,1642,63,2160
+São Paulo,3543501,Riversul,0,0,0
+São Paulo,3543600,Rifaina,0,0,0
+São Paulo,3543709,Rincão,0,0,0
+São Paulo,3543808,Rinópolis,0,0,0
+São Paulo,3543907,Rio Claro,39,14,885
+São Paulo,3544004,Rio das Pedras,0,0,0
+São Paulo,3544103,Rio Grande da Serra,0,0,0
+São Paulo,3544202,Riolândia,0,0,0
+São Paulo,3544251,Rosana,0,0,0
+São Paulo,3544301,Roseira,0,0,0
+São Paulo,3544400,Rubiácea,0,0,0
+São Paulo,3544509,Rubinéia,0,0,0
+São Paulo,3544608,Sabino,0,0,0
+São Paulo,3544707,Sagres,0,0,0
+São Paulo,3544806,Sales,0,0,0
+São Paulo,3544905,Sales Oliveira,0,0,0
+São Paulo,3545001,Salesópolis,0,0,0
+São Paulo,3545100,Salmourão,0,0,0
+São Paulo,3545159,Saltinho,0,0,0
+São Paulo,3545209,Salto,0,0,0
+São Paulo,3545308,Salto de Pirapora,0,0,0
+São Paulo,3545407,Salto Grande,0,0,0
+São Paulo,3545506,Sandovalina,0,0,0
+São Paulo,3545605,Santa Adélia,0,0,0
+São Paulo,3545704,Santa Albertina,0,0,0
+São Paulo,3545803,Santa Bárbara d'Oeste,0,0,0
+São Paulo,3546009,Santa Branca,0,0,0
+São Paulo,3546108,Santa Clara d'Oeste,0,0,0
+São Paulo,3546207,Santa Cruz da Conceição,0,0,0
+São Paulo,3546256,Santa Cruz da Esperança,0,0,0
+São Paulo,3546306,Santa Cruz das Palmeiras,0,0,0
+São Paulo,3546405,Santa Cruz do Rio Pardo,0,0,0
+São Paulo,3546504,Santa Ernestina,0,0,0
+São Paulo,3546603,Santa Fé do Sul,0,0,0
+São Paulo,3546702,Santa Gertrudes,0,0,0
+São Paulo,3546801,Santa Isabel,0,0,0
+São Paulo,3546900,Santa Lúcia,0,0,0
+São Paulo,3547007,Santa Maria da Serra,0,0,0
+São Paulo,3547106,Santa Mercedes,0,0,0
+São Paulo,3547205,Santana da Ponte Pensa,0,0,0
+São Paulo,3547304,Santana de Parnaíba,0,0,0
+São Paulo,3547403,Santa Rita d'Oeste,0,0,0
+São Paulo,3547502,Santa Rita do Passa Quatro,0,0,0
+São Paulo,3547601,Santa Rosa de Viterbo,0,0,0
+São Paulo,3547650,Santa Salete,0,0,0
+São Paulo,3547700,Santo Anastácio,0,0,0
+São Paulo,3547809,Santo André,63,27,995
+São Paulo,3547908,Santo Antônio da Alegria,0,0,0
+São Paulo,3548005,Santo Antônio de Posse,0,0,0
+São Paulo,3548054,Santo Antônio do Aracanguá,0,0,0
+São Paulo,3548104,Santo Antônio do Jardim,0,0,0
+São Paulo,3548203,Santo Antônio do Pinhal,0,0,0
+São Paulo,3548302,Santo Expedito,0,0,0
+São Paulo,3548401,Santópolis do Aguapeí,0,0,0
+São Paulo,3548500,Santos,18,16,575
+São Paulo,3548609,São Bento do Sapucaí,0,0,0
+São Paulo,3548708,São Bernardo do Campo,231,34,1275
+São Paulo,3548807,São Caetano do Sul,263,28,929
+São Paulo,3548906,São Carlos,0,0,0
+São Paulo,3549003,São Francisco,0,0,0
+São Paulo,3549102,São João da Boa Vista,404,25,727
+São Paulo,3549201,São João das Duas Pontes,0,0,0
+São Paulo,3549250,São João de Iracema,0,0,0
+São Paulo,3549300,São João do Pau d'Alho,0,0,0
+São Paulo,3549409,São Joaquim da Barra,0,0,0
+São Paulo,3549508,São José da Bela Vista,0,0,0
+São Paulo,3549607,São José do Barreiro,0,0,0
+São Paulo,3549706,São José do Rio Pardo,0,0,0
+São Paulo,3549805,São José do Rio Preto,0,0,0
+São Paulo,3549904,São José dos Campos,1464,189,6607
+São Paulo,3549953,São Lourenço da Serra,0,0,0
+São Paulo,3550001,São Luís do Paraitinga,0,0,0
+São Paulo,3550100,São Manuel,0,0,0
+São Paulo,3550209,São Miguel Arcanjo,0,0,0
+São Paulo,3550308,São Paulo,6238,1211,37704
+São Paulo,3550407,São Pedro,0,0,0
+São Paulo,3550506,São Pedro do Turvo,0,0,0
+São Paulo,3550605,São Roque,0,0,0
+São Paulo,3550704,São Sebastião,0,0,0
+São Paulo,3550803,São Sebastião da Grama,0,0,0
+São Paulo,3550902,São Simão,0,0,0
+São Paulo,3551009,São Vicente,475,21,908
+São Paulo,3551108,Sarapuí,0,0,0
+São Paulo,3551207,Sarutaiá,0,0,0
+São Paulo,3551306,Sebastianópolis do Sul,0,0,0
+São Paulo,3551405,Serra Azul,0,0,0
+São Paulo,3551504,Serrana,0,0,0
+São Paulo,3551603,Serra Negra,0,0,0
+São Paulo,3551702,Sertãozinho,0,0,0
+São Paulo,3551801,Sete Barras,0,0,0
+São Paulo,3551900,Severínia,0,0,0
+São Paulo,3552007,Silveiras,0,0,0
+São Paulo,3552106,Socorro,0,0,0
+São Paulo,3552205,Sorocaba,869,223,7115
+São Paulo,3552304,Sud Mennucci,0,0,0
+São Paulo,3552403,Sumaré,314,34,723
+São Paulo,3552502,Suzano,416,31,1151
+São Paulo,3552551,Suzanápolis,0,0,0
+São Paulo,3552601,Tabapuã,0,0,0
+São Paulo,3552700,Tabatinga,0,0,0
+São Paulo,3552809,Taboão da Serra,526,21,956
+São Paulo,3552908,Taciba,0,0,0
+São Paulo,3553005,Taguaí,0,0,0
+São Paulo,3553104,Taiaçu,0,0,0
+São Paulo,3553203,Taiúva,0,0,0
+São Paulo,3553302,Tambaú,0,0,0
+São Paulo,3553401,Tanabi,5,1,650
+São Paulo,3553500,Tapiraí,0,0,0
+São Paulo,3553609,Tapiratiba,0,0,0
+São Paulo,3553658,Taquaral,0,0,0
+São Paulo,3553708,Taquaritinga,0,0,0
+São Paulo,3553807,Taquarituba,0,0,0
+São Paulo,3553856,Taquarivaí,0,0,0
+São Paulo,3553906,Tarabai,0,0,0
+São Paulo,3553955,Tarumã,0,0,0
+São Paulo,3554003,Tatuí,474,44,1389
+São Paulo,3554102,Taubaté,307,22,1071
+São Paulo,3554201,Tejupá,0,0,0
+São Paulo,3554300,Teodoro Sampaio,0,0,0
+São Paulo,3554409,Terra Roxa,0,0,0
+São Paulo,3554508,Tietê,0,0,0
+São Paulo,3554607,Timburi,0,0,0
+São Paulo,3554656,Torre de Pedra,0,0,0
+São Paulo,3554706,Torrinha,0,0,0
+São Paulo,3554755,Trabiju,0,0,0
+São Paulo,3554805,Tremembé,27,3,333
+São Paulo,3554904,Três Fronteiras,0,0,0
+São Paulo,3554953,Tuiuti,0,0,0
+São Paulo,3555000,Tupã,0,0,0
+São Paulo,3555109,Tupi Paulista,0,0,0
+São Paulo,3555208,Turiúba,0,0,0
+São Paulo,3555307,Turmalina,0,0,0
+São Paulo,3555356,Ubarana,0,0,0
+São Paulo,3555406,Ubatuba,0,0,0
+São Paulo,3555505,Ubirajara,0,0,0
+São Paulo,3555604,Uchoa,0,0,0
+São Paulo,3555703,União Paulista,0,0,0
+São Paulo,3555802,Urânia,0,0,0
+São Paulo,3555901,Uru,0,0,0
+São Paulo,3556008,Urupês,0,0,0
+São Paulo,3556107,Valentim Gentil,0,0,0
+São Paulo,3556206,Valinhos,0,0,0
+São Paulo,3556305,Valparaíso,0,0,0
+São Paulo,3556354,Vargem,0,0,0
+São Paulo,3556404,Vargem Grande do Sul,0,0,0
+São Paulo,3556453,Vargem Grande Paulista,86,38,1055
+São Paulo,3556503,Várzea Paulista,62,33,1687
+São Paulo,3556602,Vera Cruz,0,0,0
+São Paulo,3556701,Vinhedo,37,7,254
+São Paulo,3556800,Viradouro,0,0,0
+São Paulo,3556909,Vista Alegre do Alto,0,0,0
+São Paulo,3556958,Vitória Brasil,0,0,0
+São Paulo,3557006,Votorantim,910,75,1790
+São Paulo,3557105,Votuporanga,7,8,409
+São Paulo,3557154,Zacarias,0,0,0
+São Paulo,3557204,Chavantes,0,0,0
+São Paulo,3557303,Estiva Gerbi,0,0,0

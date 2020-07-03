@@ -1,0 +1,43 @@
+<html>
+  <head>
+      
+      <meta charset="utf-8">
+      <script src="lib/d3.v5.min.js"></script>
+      <script src="lib/topojson.v2.min.js"></script>
+      <script src="lib/d3-scale-chromatic.v1.min.js"></script>
+      <script src="lib/d3-tip.min.js"></script>
+    
+      <script>
+
+        function load(){
+              
+          var svg = d3.select("svg"),
+              width = +svg.attr("width"),
+              height = +svg.attr("height");
+          var promises = [
+              d3.json("brm.json")
+          ]
+          var path = d3.geoPath();
+          var color = d3.scaleThreshold()
+              .domain(d3.range(2, 18))
+              .range(d3.schemeBlues[9]);
+          Promise.all(promises).then(ready)
+          
+          function ready([brm]) {
+              svg.append("g")
+                  .attr("class", "counties")
+                  .selectAll("path")
+                  .data(brm.features)
+                  .enter().append("path")
+                  .attr("fill", function(d) { return color(0);})
+                  .attr("d", path)   
+          }
+
+        }
+
+      </script>
+  </head>
+  <body style="background-color:#aaaaaa" onload="load()">
+    <svg width="1050" height="990"></svg>
+  </body>
+</html>

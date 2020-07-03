@@ -1,0 +1,50 @@
+---
+title: "Extract pib data from counties"
+
+---
+
+
+
+```{r}
+data = read.csv("base_de_dados_2010_2016_xls/PIB dos Municípios - base de dados 2010-2016.csv",sep=";")
+head(data)
+```
+```{r}
+unique(data$Ano)
+data <- data[data$Ano=="2016",]
+head(data)
+names(data)
+```
+
+```{r}
+data[data$Código.do.Município==4305439,]
+```
+```{r}
+data.filtered <- data[,c(6,7,8,34,35,36,37,38,39,40,41,42)] 
+new_names = c('state','id','name','agro','industry','services','public','gross','taxes','pib_current','population','pib_percapita')
+colnames(data)
+names(data.filtered) <- new_names
+head(data.filtered)
+```
+```{r}
+data.filtered.2 <- data.filtered[,c(1,2,3,10,11,12)] 
+data.filtered.2$pib_current=as.numeric(as.character(gsub("\\.","",trimws(data.filtered.2$pib_current))))
+data.filtered.2$population=as.numeric(as.character(gsub("\\.","",trimws(data.filtered.2$population))))
+data.filtered.2$pib_percapita=as.numeric(as.character(gsub("\\,",".",trimws(data.filtered.2$pib_percapita))))
+head(data.filtered.2)
+
+```
+```{r}
+max(data.filtered.2$population)
+min(data.filtered.2$population)
+
+max(data.filtered.2$pib_percapita)
+min(data.filtered.2$pib_percapita)
+```
+
+
+```{r}
+write.csv(data.filtered,file="counties_pib.csv", row.names=FALSE)
+write.csv(data.filtered.2,file="counties_pib_2.csv", row.names=FALSE)
+```
+

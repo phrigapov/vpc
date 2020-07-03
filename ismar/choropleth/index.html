@@ -1,0 +1,168 @@
+<html>
+<head>
+    
+        <meta charset="utf-8">
+    <script src="lib/d3.v5.min.js"></script>
+    <script src="lib/topojson.v2.min.js"></script>
+    <script src="lib/d3-scale-chromatic.v1.min.js"></script>
+    <script src="lib/d3-tip.min.js"></script>
+    <style>
+
+            .counties {
+              fill: none;
+            }
+            
+            .states {
+              fill: none;
+              stroke: #fff;
+              stroke-linejoin: round;
+            }
+            
+            </style>
+    <script>
+/*Wait till the body and elements are loading, then apply load function*/
+function load(){
+    
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+//Create a map(id,column) for each data column to display*/
+/*follows the unemployment template found in :
+https://bl.ocks.org/adamjanes/6cf85a4fd79e122695ebde7d41fe327f
+*/
+var Pib_current= d3.map();
+var Population= d3.map();
+var TotalPop= d3.map();
+var PibPerCap= d3.map();
+var State= d3.map();
+var County= d3.map();
+var path = d3.geoPath();
+
+/*The linear scale for the poverty rate
+domain consider three ranges less than 1%, between 1% and 11% and bigger than 11%
+the rangeRound give the range for the scale output that will be used to set y coordinate for
+building the vertical legend
+*/
+var yLegend = d3.scaleLinear()
+    //.domain([1, 11])
+    .domain(d3.range(900, 900000,10000))
+    .rangeRound([58, 88]);
+
+/*The scaleThreshold gives a scale transformation to transform the input range [2..18] 
+into a set of blue gradient colors (9 steps) as requested for the legend
+*/
+var color = d3.scaleThreshold()
+    //.domain(d3.range(2, 18))
+    .domain(d3.range(900, 900000,10000))
+    .range(d3.schemeGreens[9]);
+
+    var g = svg.append("g");
+
+/*The title of the d3 map*/
+    svg.append("text")
+        .attr("x",400)             
+        .attr("y",20)
+        .attr("font-family", "sans-serif")
+        .style("font-size", "20px") 
+        .style("font-weight", "bold") 
+        .text("GDP in Brazilian Counties");
+
+/*Build the vertical legend: create the rectangles, fill with the appropriate color scale*/
+g.selectAll("rect")
+  .data(color.range().map(function(d) {
+      d = color.invertExtent(d);
+      if (d[0] == null) d[0] = yLegend.domain()[0];
+      if (d[1] == null) d[1] = yLegend.domain()[1];
+      return d;
+    }))
+  .enter().append("rect")
+    .attr("height", 26)
+    .attr("x",-26 )
+    .attr("y", function(d) { 
+      return yLegend(d[0])+12; })
+    .attr("width", 23)
+    .attr("fill", function(d) { return color(d[0]); });
+
+/*legend title*/
+g.append("text")
+    .attr("font-family", "sans-serif")
+    .attr("x", -42)
+    .attr("y", 48)
+    .attr("fill", "#000")
+    .attr("text-anchor", "start")
+    .attr("font-size", "11px")
+    .attr("font-weight", "bold")
+    .text("GDP per capita");
+
+/*Place the legend axis with the values in it*/
+    g.attr("transform", "translate(984, 0)")
+.call(d3.axisRight(yLegend)
+    .tickSize(0)
+    .tickFormat(function(y, i) { 
+      if(i>8) return "";
+      if(i==0) return "≤" + y + "";
+      if(i==8) return "≥"+ y + "";      
+      return y + ""; })
+    .tickValues(color.domain()))
+  .select(".domain")
+    .remove()
+
+var promises = [
+  d3.json("brm.json"),
+   //d3.json("us.json"),
+  d3.csv("counties_pib_2.csv", function(d) {
+        Pib_current.set(d.id,d.pib_current); 
+        Population.set(d.id,d.population)
+        PibPerCap.set(d.id,d.pib_percapita);
+        County.set(d.id,d.name);
+        State.set(d.id,d.state);
+    })
+]
+
+
+Promise.all(promises).then(ready)
+
+function ready([brm]) {
+  svg.append("g")
+      .attr("class", "counties")
+    .selectAll("path")
+   // .data(topojson.feature(us, us.objects.counties).features)
+   .data(brm.features)
+    .enter().append("path")
+      .attr("fill", function(d) { 
+        return color(d.Population = PibPerCap.get(d.properties.COD_IBGE)); 
+      })
+      .attr("d", path)
+     .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+
+}
+
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([140, 140])
+  .html(function(d) {
+   //console.log(d);
+    return "<div style='opacity:0.8;background-color:#329c68;font-family:sans-serif;padding:8px;;color:white'>"+
+            "State: " + d.properties.NOME_MUNI+ "<br/>"+
+            "County:" + d.properties.NOME_UF +"<br/>"+
+            "Total Population: " + Population.get(d.properties.COD_IBGE) + "<br/>"+
+            "PIB per capita: " + PibPerCap.get(d.properties.COD_IBGE) + "<br/>"+
+            "Total PIB: " + Pib_current.get(d.properties.COD_IBGE) + 
+            "</div>";
+  })
+  g.call(tip);
+
+
+
+}
+
+    </script>
+</head>
+<body style="background-color:#999999" onload="load()">
+<svg width="1050" height="990"></svg>
+<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</body>
+</html>
