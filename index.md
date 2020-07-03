@@ -7,11 +7,11 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/histograma.html">Tarefa #2 - Histograma</a><br>
 <hr />
-<a href="ismar/choropleth/sme_map.html">Tarefa #3 - choropleth</a><br>
+<a href="tarefas/barras_empilhadas.html">Tarefa #3 - Barras Empilhadas</a><br>
 <hr />
-<a href="ismar/choropleth/sme_map.html">Tarefa #4 - choropleth</a><br>
+<a href="tarefas/">Tarefa #4 - choropleth</a><br>
 <hr />
-<a href="ismar/choropleth/sme_map.html">Tarefa #5 - choropleth</a><br>
+<a href="tarefas/">Tarefa #5 - choropleth</a><br>
 <hr />
 <a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a><br>
 <a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
