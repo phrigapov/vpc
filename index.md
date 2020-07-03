@@ -9,7 +9,7 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/barras_empilhadas.html">Tarefa #3 - Barras Empilhadas</a><br>
 <hr />
-<a href="tarefas/">Tarefa #4 - choropleth</a><br>
+<a href="tarefas/boxplot.html">Tarefa #4 - Boxplot</a><br>
 <hr />
 <a href="tarefas/">Tarefa #5 - choropleth</a><br>
 <hr />
