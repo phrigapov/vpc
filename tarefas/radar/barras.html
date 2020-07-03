@@ -1,0 +1,80 @@
+<html>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.15.0/d3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<style>
+  .base{
+    fill: cadetblue;
+  }
+
+  .media{
+    fill: coral!important;
+  }
+
+  .alta{
+    fill: crimson!important;
+  }
+
+</style>
+<body>
+	<svg height = "1000" width = "1000"></svg>
+</body>
+</html>
+<script>
+
+  var dados =  [
+  { cidade: 'São Paulo', qtd: 10},
+  { cidade: 'Bahia', qtd: 20},
+  { cidade: 'Rio de Janeiro', qtd: 30},
+  { cidade: 'Goias', qtd: 40},
+  { cidade: 'Minas Gerais', qtd: 10},
+  { cidade: 'Fortaleza', qtd: 50}
+];
+
+
+    const margin = 60;
+    const width = 1000 - 2 * margin;
+    const height = 600 - 2 * margin;
+
+    const svg = d3.select('svg');
+
+    const chart = svg.append('g')
+    .attr('transform', `translate(${margin}, ${margin})`);
+
+    const yScale = d3.scaleLinear()
+    .range([height, 0])
+    .domain([0, 100]);
+
+    chart.append('g')
+    .call(d3.axisLeft(yScale));
+
+    const xScale = d3.scaleBand()
+    .range([0, width])
+    .domain(dados.map((s) => s.cidade))
+    .padding(0.2)
+    
+    
+
+chart.append('g')
+    .attr('transform', `translate(0, ${height})`)
+    .call(d3.axisBottom(xScale));
+
+    chart.selectAll()
+    .data(dados)
+    .enter()
+    .append('rect')
+    .attr('x', (s) => xScale(s.cidade))
+    .attr('y', (s) => yScale(s.qtd))
+    .attr('height', (s) => height - yScale(s.qtd))
+    .attr('width', xScale.bandwidth())
+    .classed('base', true)
+    .classed('media', function(d) {
+      return d.qtd > 30;
+    })
+    .classed('alta', function(d) {
+      return d.qtd > 40;
+    })
+    
+
+
+
+</script>
