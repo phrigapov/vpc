@@ -37,6 +37,7 @@ texto http://textvis.lnu.se/.
 <hr />
 <a href="tarefas/Treemap/voronoi.html">Tarefa #14 - Voronoi Treemap</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #15 - Tendências multivariadas</a><br>
+<a href="tarefas/map/index.html">Tarefa #15 - Grafo</a><br>
+<a href="tarefas/chord/index.html">Tarefa #15b - Chord</a><br>
 <hr />
 <a href="tarefas/temporal/temporal.html">Tarefa #16 - Tendências multivariadas</a><br>
