@@ -15,9 +15,9 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/radar/index.html">Tarefa #6 - Radar</a><br>
 <hr />
-<a href="tarefas/scatterplot/trafego_total.html">Tarefa #7 - Dispersão (Conectado)</a><br>
+<a href="tarefas/scatterplot/trafego_total.html">Tarefa #7 - Não achei</a><br>
 <hr />
-<a href="tarefas/scatterplot/trafego_total.html">Tarefa #8 - Dispersão (Conectado)</a><br>
+<a href="tarefas/temporal/temporal.html">Tarefa #8 - Tendências multivariadas</a><br>
 <hr />
 <a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a><br>
 <a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
