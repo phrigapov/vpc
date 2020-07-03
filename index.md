@@ -40,4 +40,16 @@ texto http://textvis.lnu.se/.
 <a href="tarefas/map/index.html">Tarefa #15 - Grafo</a><br>
 <a href="tarefas/chord/index.html">Tarefa #15b - Chord</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #16 - Tendências multivariadas</a><br>
+<a href="tarefas/temporal/temporal.html">Tarefa #16 - CMapCloud / CMapTools (FALTOU)</a><br>
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #17 - Conexp (FALTOU)</a><br>
+Criação de Reticulado Conceitual sobre algum tópico de sua área de pesquisa,
+com uma ferramenta à sua escolha (sugere-se o Conexp)
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #18 - Redes de Petris (FALTOU)</a><br>
+<hr />
+<a href="tarefas/temporal/temporal.html">Tarefa #19 - Redes Bayesianas</a> (FALTOU)<br>
+
+<hr /><hr />
+<a href="tarefas/temporal/temporal.html">PROJETO FINAL</a> (FALTOU)<br>
+
