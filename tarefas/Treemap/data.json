@@ -1,0 +1,79 @@
+{
+    "children": [{
+            "name": "Pedagógico",
+            "children": [{
+                    "name": "Método Fônico",
+                    "group": "A1",
+                    "value": 8200,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Capacitação",
+                    "group": "A",
+                    "value": 4200,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Bncc",
+                    "group": "C",
+                    "value": 5500,
+                    "colname": "level3"
+                },
+                {
+                    "name": "10 Razões",
+                    "group": "C",
+                    "value": 2054,
+                    "colname": "level3"
+                }
+            ],
+            "colname": "level2"
+        },
+        {
+            "name": "Comercial",
+            "children": [{
+                    "name": "Pedidos de Vendas",
+                    "group": "C",
+                    "value": 4333,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Iscool_App",
+                    "group": "A",
+                    "value": 1800,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Fale Conosco",
+                    "group": "B",
+                    "value": 15,
+                    "colname": "level3"
+                }
+            ],
+            "colname": "level2"
+        },
+        {
+            "name": "Logística",
+            "children": [{
+                    "name": "Pedidos de Materiais",
+                    "group": "B",
+                    "value": 12333,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Status_Pedidos",
+                    "group": "A",
+                    "value": 8300,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Gerenciar Pedidos",
+                    "group": "A",
+                    "value": 6230,
+                    "colname": "level3"
+                }
+            ],
+            "colname": "level2"
+        }
+    ],
+    "name": "CEO"
+}

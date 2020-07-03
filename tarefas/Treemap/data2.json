@@ -1,0 +1,32 @@
+{
+    "name": "SME",
+    "children": [{
+            "name": "Pedagógico",
+            "color": "#f58321",
+            "children": [
+                { "name": "Método Fônico", "weight": 14.84, "code": "CN" },
+                { "name": "Capacitação", "weight": 5.91, "code": "JP" },
+                { "name": "Bncc", "weight": 2.83, "code": "IN" },
+                { "name": "10 Razões", "weight": 1.86, "code": "KR" }
+            ]
+        },
+        {
+            "name": "Comercial",
+            "color": "#ef1621",
+            "children": [
+                { "name": "Pedidos de Vendas", "weight": 24.32, "code": "US" },
+                { "name": "Iscool_App", "weight": 2.09, "code": "CA" },
+                { "name": "Fale Conosco", "weight": 1.54, "code": "MX" }
+            ]
+        },
+        {
+            "name": "Logística",
+            "color": "#77bc45",
+            "children": [
+                { "name": "Pedidos de Materiais", "weight": 40.54, "code": "DE" },
+                { "name": "Status_Pedidos", "weight": 3.85, "code": "UK" },
+                { "name": "Gerenciar Pedidos", "weight": 3.26, "code": "FR" }
+            ]
+        }
+    ]
+}
