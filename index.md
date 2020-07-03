@@ -4,4 +4,6 @@ Professor: Ismar Frango
 
 ### Tarefas
 
-<a href="ismar/choropleth/sme_map_sp.html">Tarefa #2</a>
+<a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a>
+<a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
+
