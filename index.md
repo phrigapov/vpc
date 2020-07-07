@@ -40,7 +40,8 @@ texto http://textvis.lnu.se/.
 <a href="tarefas/map/index.html">Tarefa #15 - Grafo</a><br>
 <a href="tarefas/chord/index.html">Tarefa #15b - Chord</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #16 - CMapCloud / CMapTools (FALTOU)</a><br>
+<a href="https://cmapscloud.ihmc.us/viewer/cmap/1VWCLL16V-486M9K-9KY1CR">Tarefa #16 - CMapCloud / CMapTools</a><br>
+<b>(LINK + ENTREGA NO MOODLE)</b>
 <hr />
 <a href="#">Tarefa #17 - Conexp</a><br>
 Criação de Reticulado Conceitual sobre algum tópico de sua área de pesquisa,
