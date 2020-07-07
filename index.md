@@ -48,7 +48,8 @@ Criação de Reticulado Conceitual sobre algum tópico de sua área de pesquisa,
 com uma ferramenta à sua escolha (sugere-se o Conexp)
 <b>(ENTREGUE NO MOODLE)</b>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #18 - Redes de Petris (FALTOU)</a><br>
+<a href="#">Tarefa #18 - Redes de Petris</a><br>
+<b>(ENTREGUE NO MOODLE)</b>
 <hr />
 <a href="">Tarefa #19 - Redes Bayesianas</a><br>
 <b>(ENTREGUE NO MOODLE)</b>
