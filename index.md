@@ -50,8 +50,8 @@ com uma ferramenta à sua escolha (sugere-se o Conexp)
 <hr />
 <a href="tarefas/temporal/temporal.html">Tarefa #18 - Redes de Petris (FALTOU)</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #19 - Redes Bayesianas</a> (FALTOU)<br>
-
+<a href="">Tarefa #19 - Redes Bayesianas</a><br>
+<b>(ENTREGUE NO MOODLE)</b>
 <hr /><hr />
 <a href="tarefas/temporal/temporal.html">PROJETO FINAL</a> (FALTOU)<br>
 
