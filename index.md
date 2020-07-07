@@ -42,9 +42,10 @@ texto http://textvis.lnu.se/.
 <hr />
 <a href="tarefas/temporal/temporal.html">Tarefa #16 - CMapCloud / CMapTools (FALTOU)</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #17 - Conexp (FALTOU)</a><br>
+<a href="#">Tarefa #17 - Conexp</a><br>
 Criação de Reticulado Conceitual sobre algum tópico de sua área de pesquisa,
 com uma ferramenta à sua escolha (sugere-se o Conexp)
+<b>(ENTREGUE NO MOODLE)</b>
 <hr />
 <a href="tarefas/temporal/temporal.html">Tarefa #18 - Redes de Petris (FALTOU)</a><br>
 <hr />
