@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 11px;
+            font-weight: 300;
+            /* fill: #242424; */
+            text-align: center;
+            text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+            cursor: default;
+        }
+        
+        .states {
+            fill: #f3d8d8!important;
+            stroke: black;
+            stroke-linejoin: round;
+        }
+    </style>
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+</header>
+
+<body>
+    <div>
+        <h1>Cartogram - Acessos por região</h4>
+            <table style="text-align: left; visibility: hidden;">
+                <tr>
+                    <td>Date:</td>
+                    <td>
+                        <select id="days" onchange="update()"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Column:</td>
+                    <td>
+                        <select id="column" onchange="update()"></select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Enable choropleth:</td>
+                    <td>
+                        <select id="choropleth" onchange="update()">
+                                <option value="true" selected>yes</option>
+                                <option value="false" >no</option>
+                            </select>
+                    </td>
+                </tr>
+            </table>
+
+            <svg id="map-container"></svg>
+
+
+            <sub>
+                    Desenvolvido por Joaquim Pessôa Filho e adaptado por Paulo Henrique Gregio<br />
+                </sub>
+    </div>
+
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://d3js.org/d3-color.v1.min.js"></script>
+    <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="cartogram.js"></script>
+    <script src="conversor.js"></script>
+    <script>
+        var originalData = null;
+        var width = 900,
+            height = 750;
+
+        var column = [{
+            key: 'Casos Novos',
+            value: 'acessos'
+        }];
+        var day = "2020-04-14";
+
+        var map = d3.select("#map-container")
+            .attr("id", "map")
+            .attr("width", width)
+            .attr("height", height);
+        var topo;
+
+        var edos = map.append("g")
+            .attr("id", "edos")
+            .selectAll("path");
+
+        var proj = d3.geo.mercator()
+            .center([-50, -8.5])
+            .scale(1000);
+
+        var carto = d3.cartogram()
+            .projection(proj)
+            .properties(function(d) {
+                return d.properties;
+            });
+
+        var topology, geometry;
+
+        function configure() {
+            originalData = originalData.map(function(row) {
+                row.estado = converterEstados(row.estado);
+                return row;
+            });
+
+            const days = d3.nest()
+                .key(function(d) {
+                    return d.data;
+                })
+                .entries(originalData);
+
+            d3.select("#days").selectAll("option")
+                .data(days)
+                .enter()
+                .append("option")
+                .text(function(d) {
+                    return d.key;
+                })
+                .attr("value", function(d) {
+                    return d.key;
+                });
+
+            d3.select("#column").selectAll("option")
+                .data(column)
+                .enter()
+                .append("option")
+                .text(function(d) {
+                    return d.key;
+                })
+                .attr("value", function(d) {
+                    return d.value;
+                });
+        }
+
+        function makeMap(data) {
+            topology = data;
+            geometries = data.objects.states.geometries;
+            var features = carto.features(data, geometries),
+                path = d3.geo.path()
+                .projection(proj);
+
+
+
+            edos = edos.data(features)
+                .enter()
+                .append("path")
+                .attr("class", "states")
+                .attr("id", function(d) {
+                    return converterEstados(d.properties.name);
+                })
+                .attr("d", path);
+
+            update();
+        };
+
+        function update() {
+            // Filtrar por data
+            day = document.getElementById("days").value;
+            data = originalData.filter(d => d.data === day);
+
+            // Filtrar por coluna
+            column = document.getElementById("column").value;
+            data = data.map(d => {
+                return {
+                    state: d.estado,
+                    value: d[column]
+                }
+            });
+            doUpdate();
+        }
+
+        function doUpdate() {
+
+            var data = originalData.filter(d => d.data === day);
+            data = data.map(d => {
+                return {
+                    state: d.estado,
+                    value: d[column]
+                }
+            });
+
+            var color = d3.scale.linear()
+                .domain([0, d3.max(data, d => +d.value)])
+                .range([0, 1]);
+
+
+            var scale = d3.scale.linear()
+                .domain([0, d3.max(data, d => +d.value)])
+                .range([1, 1000]);
+
+            carto.value(function(d) {
+                var dayData = data.find(x => x.state == d.properties.name);
+                return +scale(dayData.value)
+            });
+
+            var carto_features = carto(topology, geometries).features;
+            //actualiza el mapa
+            edos.data(carto_features);
+
+            edos.transition()
+                .duration(900)
+                .attr("d", carto.path);
+
+            if (document.getElementById('choropleth').value === 'true') {
+                data.forEach(d => {
+                    d3.select(`#${converterEstados(d.state)}`)
+                        .style('fill', d3.interpolateBlues(color(d.value)));
+                });
+            } else {
+                data.forEach(d => {
+                    d3.select(`#${converterEstados(d.state)}`)
+                        .style('fill', d3.interpolateBlues(0.1));
+                });
+            }
+        };
+
+        d3.dsv(';')("data.csv", function(error, data) {
+            originalData = data;
+            configure();
+            d3.json("br-states.json", function(mapData) {
+                makeMap(mapData)
+            });
+        });
+    </script>
+</body>
+
+</html>
