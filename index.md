@@ -22,7 +22,7 @@ Professor: Ismar Frango
 <a href="ismar/choropleth/sme_map.html">Tarefa #9 - choropleth</a><br>
 <a href="ismar/choropleth/sme_map_sp.html">Tarefa #9(Bônus) - choropleth</a>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #10 - Cartograma(FALTA)</a><br>
+<a href="tarefas/cartograma/index.html">Tarefa #10 - Cartograma</a><br>
 <hr />
 <a href="tarefas/temporal/temporal.html">Tarefa #11 - Visualização espaço-temporal (FALTA)</a><br>
 <hr />
