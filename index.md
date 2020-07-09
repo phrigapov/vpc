@@ -54,5 +54,6 @@ com uma ferramenta à sua escolha (sugere-se o Conexp)
 <a href="">Tarefa #19 - Redes Bayesianas</a><br>
 <b>(ENTREGUE NO MOODLE)</b>
 <hr /><hr />
-<a href="tarefas/temporal/temporal.html">PROJETO FINAL</a> (FALTOU)<br>
+<a href="tarefas/pj/index.html">PROJETO FINAL</a><br>
+Arquivos do protege entregues no moodle.
 
