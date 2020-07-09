@@ -1,0 +1,4604 @@
+state,id,name,qtd_usuarios,qtd_acessos_unicos,qtd_acessos_totais
+Rondônia,1100015,Alta Floresta D'Oeste,0,0,0
+Rondônia,1100023,Ariquemes,0,0,0
+Rondônia,1100031,Cabixi,0,0,0
+Rondônia,1100049,Cacoal,0,0,0
+Rondônia,1100056,Cerejeiras,0,0,0
+Rondônia,1100064,Colorado do Oeste,0,0,0
+Rondônia,1100072,Corumbiara,0,0,0
+Rondônia,1100080,Costa Marques,0,0,0
+Rondônia,1100098,Espigão D'Oeste,0,0,0
+Rondônia,1100106,Guajará-Mirim,0,0,0
+Rondônia,1100114,Jaru,0,0,0
+Rondônia,1100122,Ji-Paraná,0,0,0
+Rondônia,1100130,Machadinho D'Oeste,0,0,0
+Rondônia,1100148,Nova Brasilândia D'Oeste,0,0,0
+Rondônia,1100155,Ouro Preto do Oeste,0,0,0
+Rondônia,1100189,Pimenta Bueno,0,0,0
+Rondônia,1100205,Porto Velho,580,2,97
+Rondônia,1100254,Presidente Médici,0,0,0
+Rondônia,1100262,Rio Crespo,0,0,0
+Rondônia,1100288,Rolim de Moura,0,0,0
+Rondônia,1100296,Santa Luzia D'Oeste,0,0,0
+Rondônia,1100304,Vilhena,142,18,830
+Rondônia,1100320,São Miguel do Guaporé,0,0,0
+Rondônia,1100338,Nova Mamoré,0,0,0
+Rondônia,1100346,Alvorada D'Oeste,0,0,0
+Rondônia,1100379,Alto Alegre dos Parecis,0,0,0
+Rondônia,1100403,Alto Paraíso,0,0,0
+Rondônia,1100452,Buritis,0,0,0
+Rondônia,1100502,Novo Horizonte do Oeste,0,0,0
+Rondônia,1100601,Cacaulândia,0,0,0
+Rondônia,1100700,Campo Novo de Rondônia,0,0,0
+Rondônia,1100809,Candeias do Jamari,0,0,0
+Rondônia,1100908,Castanheiras,0,0,0
+Rondônia,1100924,Chupinguaia,0,0,0
+Rondônia,1100940,Cujubim,0,0,0
+Rondônia,1101005,Governador Jorge Teixeira,0,0,0
+Rondônia,1101104,Itapuã do Oeste,0,0,0
+Rondônia,1101203,Ministro Andreazza,0,0,0
+Rondônia,1101302,Mirante da Serra,0,0,0
+Rondônia,1101401,Monte Negro,0,0,0
+Rondônia,1101435,Nova União,0,0,0
+Rondônia,1101450,Parecis,0,0,0
+Rondônia,1101468,Pimenteiras do Oeste,0,0,0
+Rondônia,1101476,Primavera de Rondônia,0,0,0
+Rondônia,1101484,São Felipe D'Oeste,0,0,0
+Rondônia,1101492,São Francisco do Guaporé,0,0,0
+Rondônia,1101500,Seringueiras,0,0,0
+Rondônia,1101559,Teixeirópolis,0,0,0
+Rondônia,1101609,Theobroma,0,0,0
+Rondônia,1101708,Urupá,0,0,0
+Rondônia,1101757,Vale do Anari,0,0,0
+Rondônia,1101807,Vale do Paraíso,0,0,0
+Acre,1200013,Acrelândia,0,0,0
+Acre,1200054,Assis Brasil,0,0,0
+Acre,1200104,Brasiléia,0,0,0
+Acre,1200138,Bujari,0,0,0
+Acre,1200179,Capixaba,0,0,0
+Acre,1200203,Cruzeiro do Sul,0,0,0
+Acre,1200252,Epitaciolândia,0,0,0
+Acre,1200302,Feijó,0,0,0
+Acre,1200328,Jordão,0,0,0
+Acre,1200336,Mâncio Lima,0,0,0
+Acre,1200344,Manoel Urbano,0,0,0
+Acre,1200351,Marechal Thaumaturgo,0,0,0
+Acre,1200385,Plácido de Castro,0,0,0
+Acre,1200393,Porto Walter,0,0,0
+Acre,1200401,Rio Branco,0,0,0
+Acre,1200427,Rodrigues Alves,0,0,0
+Acre,1200435,Santa Rosa do Purus,0,0,0
+Acre,1200450,Senador Guiomard,0,0,0
+Acre,1200500,Sena Madureira,0,0,0
+Acre,1200609,Tarauacá,0,0,0
+Acre,1200708,Xapuri,0,0,0
+Acre,1200807,Porto Acre,0,0,0
+Amazonas,1300029,Alvarães,0,0,0
+Amazonas,1300060,Amaturá,0,0,0
+Amazonas,1300086,Anamã,0,0,0
+Amazonas,1300102,Anori,0,0,0
+Amazonas,1300144,Apuí,0,0,0
+Amazonas,1300201,Atalaia do Norte,0,0,0
+Amazonas,1300300,Autazes,0,0,0
+Amazonas,1300409,Barcelos,0,0,0
+Amazonas,1300508,Barreirinha,0,0,0
+Amazonas,1300607,Benjamin Constant,0,0,0
+Amazonas,1300631,Beruri,0,0,0
+Amazonas,1300680,Boa Vista do Ramos,0,0,0
+Amazonas,1300706,Boca do Acre,0,0,0
+Amazonas,1300805,Borba,0,0,0
+Amazonas,1300839,Caapiranga,0,0,0
+Amazonas,1300904,Canutama,0,0,0
+Amazonas,1301001,Carauari,0,0,0
+Amazonas,1301100,Careiro,0,0,0
+Amazonas,1301159,Careiro da Várzea,0,0,0
+Amazonas,1301209,Coari,0,0,0
+Amazonas,1301308,Codajás,0,0,0
+Amazonas,1301407,Eirunepé,0,0,0
+Amazonas,1301506,Envira,0,0,0
+Amazonas,1301605,Fonte Boa,0,0,0
+Amazonas,1301654,Guajará,0,0,0
+Amazonas,1301704,Humaitá,0,0,0
+Amazonas,1301803,Ipixuna,0,0,0
+Amazonas,1301852,Iranduba,0,0,0
+Amazonas,1301902,Itacoatiara,0,0,0
+Amazonas,1301951,Itamarati,0,0,0
+Amazonas,1302009,Itapiranga,0,0,0
+Amazonas,1302108,Japurá,0,0,0
+Amazonas,1302207,Juruá,0,0,0
+Amazonas,1302306,Jutaí,0,0,0
+Amazonas,1302405,Lábrea,0,0,0
+Amazonas,1302504,Manacapuru,0,0,0
+Amazonas,1302553,Manaquiri,0,0,0
+Amazonas,1302603,Manaus,0,0,0
+Amazonas,1302702,Manicoré,0,0,0
+Amazonas,1302801,Maraã,0,0,0
+Amazonas,1302900,Maués,36,2,520
+Amazonas,1303007,Nhamundá,0,0,0
+Amazonas,1303106,Nova Olinda do Norte,0,0,0
+Amazonas,1303205,Novo Airão,0,0,0
+Amazonas,1303304,Novo Aripuanã,0,0,0
+Amazonas,1303403,Parintins,0,0,0
+Amazonas,1303502,Pauini,0,0,0
+Amazonas,1303536,Presidente Figueiredo,0,0,0
+Amazonas,1303569,Rio Preto da Eva,0,0,0
+Amazonas,1303601,Santa Isabel do Rio Negro,0,0,0
+Amazonas,1303700,Santo Antônio do Içá,0,0,0
+Amazonas,1303809,São Gabriel da Cachoeira,0,0,0
+Amazonas,1303908,São Paulo de Olivença,0,0,0
+Amazonas,1303957,São Sebastião do Uatumã,0,0,0
+Amazonas,1304005,Silves,0,0,0
+Amazonas,1304062,Tabatinga,0,0,0
+Amazonas,1304104,Tapauá,0,0,0
+Amazonas,1304203,Tefé,0,0,0
+Amazonas,1304237,Tonantins,0,0,0
+Amazonas,1304260,Uarini,0,0,0
+Amazonas,1304302,Urucará,0,0,0
+Amazonas,1304401,Urucurituba,0,0,0
+Roraima,1400027,Amajari,0,0,0
+Roraima,1400050,Alto Alegre,0,0,0
+Roraima,1400100,Boa Vista,0,0,0
+Roraima,1400159,Bonfim,0,0,0
+Roraima,1400175,Cantá,0,0,0
+Roraima,1400209,Caracaraí,0,0,0
+Roraima,1400233,Caroebe,0,0,0
+Roraima,1400282,Iracema,0,0,0
+Roraima,1400308,Mucajaí,0,0,0
+Roraima,1400407,Normandia,0,0,0
+Roraima,1400456,Pacaraima,0,0,0
+Roraima,1400472,Rorainópolis,0,0,0
+Roraima,1400506,São João da Baliza,0,0,0
+Roraima,1400605,São Luiz,0,0,0
+Roraima,1400704,Uiramutã,0,0,0
+Pará,1500107,Abaetetuba,0,0,0
+Pará,1500131,Abel Figueiredo,0,0,0
+Pará,1500206,Acará,0,0,0
+Pará,1500305,Afuá,0,0,0
+Pará,1500347,Água Azul do Norte,0,0,0
+Pará,1500404,Alenquer,0,0,0
+Pará,1500503,Almeirim,0,0,0
+Pará,1500602,Altamira,0,0,0
+Pará,1500701,Anajás,0,0,0
+Pará,1500800,Ananindeua,0,0,0
+Pará,1500859,Anapu,0,0,0
+Pará,1500909,Augusto Corrêa,0,0,0
+Pará,1500958,Aurora do Pará,0,0,0
+Pará,1501006,Aveiro,0,0,0
+Pará,1501105,Bagre,0,0,0
+Pará,1501204,Baião,0,0,0
+Pará,1501253,Bannach,0,0,0
+Pará,1501303,Barcarena,0,0,0
+Pará,1501402,Belém,519,65,2131
+Pará,1501451,Belterra,0,0,0
+Pará,1501501,Benevides,0,0,0
+Pará,1501576,Bom Jesus do Tocantins,0,0,0
+Pará,1501600,Bonito,0,0,0
+Pará,1501709,Bragança,0,0,0
+Pará,1501725,Brasil Novo,0,0,0
+Pará,1501758,Brejo Grande do Araguaia,0,0,0
+Pará,1501782,Breu Branco,0,0,0
+Pará,1501808,Breves,0,0,0
+Pará,1501907,Bujaru,0,0,0
+Pará,1501956,Cachoeira do Piriá,0,0,0
+Pará,1502004,Cachoeira do Arari,0,0,0
+Pará,1502103,Cametá,0,0,0
+Pará,1502152,Canaã dos Carajás,0,0,0
+Pará,1502202,Capanema,0,0,0
+Pará,1502301,Capitão Poço,0,0,0
+Pará,1502400,Castanhal,0,0,0
+Pará,1502509,Chaves,0,0,0
+Pará,1502608,Colares,0,0,0
+Pará,1502707,Conceição do Araguaia,378,50,2613
+Pará,1502756,Concórdia do Pará,0,0,0
+Pará,1502764,Cumaru do Norte,0,0,0
+Pará,1502772,Curionópolis,0,0,0
+Pará,1502806,Curralinho,0,0,0
+Pará,1502855,Curuá,0,0,0
+Pará,1502905,Curuçá,0,0,0
+Pará,1502939,Dom Eliseu,0,0,0
+Pará,1502954,Eldorado do Carajás,0,0,0
+Pará,1503002,Faro,0,0,0
+Pará,1503044,Floresta do Araguaia,0,0,0
+Pará,1503077,Garrafão do Norte,0,0,0
+Pará,1503093,Goianésia do Pará,0,0,0
+Pará,1503101,Gurupá,0,0,0
+Pará,1503200,Igarapé-Açu,0,0,0
+Pará,1503309,Igarapé-Miri,0,0,0
+Pará,1503408,Inhangapi,0,0,0
+Pará,1503457,Ipixuna do Pará,0,0,0
+Pará,1503507,Irituia,0,0,0
+Pará,1503606,Itaituba,0,0,0
+Pará,1503705,Itupiranga,0,0,0
+Pará,1503754,Jacareacanga,0,0,0
+Pará,1503804,Jacundá,0,0,0
+Pará,1503903,Juruti,0,0,0
+Pará,1504000,Limoeiro do Ajuru,0,0,0
+Pará,1504059,Mãe do Rio,0,0,0
+Pará,1504109,Magalhães Barata,0,0,0
+Pará,1504208,Marabá,0,0,0
+Pará,1504307,Maracanã,0,0,0
+Pará,1504406,Marapanim,0,0,0
+Pará,1504422,Marituba,0,0,0
+Pará,1504455,Medicilândia,0,0,0
+Pará,1504505,Melgaço,0,0,0
+Pará,1504604,Mocajuba,0,0,0
+Pará,1504703,Moju,0,0,0
+Pará,1504802,Monte Alegre,0,0,0
+Pará,1504901,Muaná,0,0,0
+Pará,1504950,Nova Esperança do Piriá,0,0,0
+Pará,1504976,Nova Ipixuna,0,0,0
+Pará,1505007,Nova Timboteua,0,0,0
+Pará,1505031,Novo Progresso,0,0,0
+Pará,1505064,Novo Repartimento,0,0,0
+Pará,1505106,Óbidos,0,0,0
+Pará,1505205,Oeiras do Pará,0,0,0
+Pará,1505304,Oriximiná,0,0,0
+Pará,1505403,Ourém,0,0,0
+Pará,1505437,Ourilândia do Norte,0,0,0
+Pará,1505486,Pacajá,0,0,0
+Pará,1505494,Palestina do Pará,0,0,0
+Pará,1505502,Paragominas,0,0,0
+Pará,1505536,Parauapebas,67,2,282
+Pará,1505551,Pau D'Arco,0,0,0
+Pará,1505601,Peixe-Boi,0,0,0
+Pará,1505635,Piçarra,0,0,0
+Pará,1505650,Placas,0,0,0
+Pará,1505700,Ponta de Pedras,0,0,0
+Pará,1505809,Portel,0,0,0
+Pará,1505908,Porto de Moz,0,0,0
+Pará,1506005,Prainha,0,0,0
+Pará,1506104,Primavera,0,0,0
+Pará,1506112,Quatipuru,0,0,0
+Pará,1506138,Redenção,274,41,2081
+Pará,1506161,Rio Maria,0,0,0
+Pará,1506187,Rondon do Pará,0,0,0
+Pará,1506195,Rurópolis,0,0,0
+Pará,1506203,Salinópolis,0,0,0
+Pará,1506302,Salvaterra,0,0,0
+Pará,1506351,Santa Bárbara do Pará,0,0,0
+Pará,1506401,Santa Cruz do Arari,0,0,0
+Pará,1506500,Santa Izabel do Pará,0,0,0
+Pará,1506559,Santa Luzia do Pará,0,0,0
+Pará,1506583,Santa Maria das Barreiras,0,0,0
+Pará,1506609,Santa Maria do Pará,0,0,0
+Pará,1506708,Santana do Araguaia,0,0,0
+Pará,1506807,Santarém,0,0,0
+Pará,1506906,Santarém Novo,0,0,0
+Pará,1507003,Santo Antônio do Tauá,0,0,0
+Pará,1507102,São Caetano de Odivelas,0,0,0
+Pará,1507151,São Domingos do Araguaia,107,10,418
+Pará,1507201,São Domingos do Capim,0,0,0
+Pará,1507300,São Félix do Xingu,0,0,0
+Pará,1507409,São Francisco do Pará,0,0,0
+Pará,1507458,São Geraldo do Araguaia,0,0,0
+Pará,1507466,São João da Ponta,0,0,0
+Pará,1507474,São João de Pirabas,0,0,0
+Pará,1507508,São João do Araguaia,0,0,0
+Pará,1507607,São Miguel do Guamá,0,0,0
+Pará,1507706,São Sebastião da Boa Vista,0,0,0
+Pará,1507755,Sapucaia,0,0,0
+Pará,1507805,Senador José Porfírio,0,0,0
+Pará,1507904,Soure,0,0,0
+Pará,1507953,Tailândia,0,0,0
+Pará,1507961,Terra Alta,0,0,0
+Pará,1507979,Terra Santa,0,0,0
+Pará,1508001,Tomé-Açu,0,0,0
+Pará,1508035,Tracuateua,0,0,0
+Pará,1508050,Trairão,0,0,0
+Pará,1508084,Tucumã,0,0,0
+Pará,1508100,Tucuruí,231,27,1145
+Pará,1508126,Ulianópolis,0,0,0
+Pará,1508159,Uruará,0,0,0
+Pará,1508209,Vigia,0,0,0
+Pará,1508308,Viseu,0,0,0
+Pará,1508357,Vitória do Xingu,0,0,0
+Pará,1508407,Xinguara,0,0,0
+Amapá,1600055,Serra do Navio,0,0,0
+Amapá,1600105,Amapá,0,0,0
+Amapá,1600154,Pedra Branca do Amapari,0,0,0
+Amapá,1600204,Calçoene,0,0,0
+Amapá,1600212,Cutias,0,0,0
+Amapá,1600238,Ferreira Gomes,0,0,0
+Amapá,1600253,Itaubal,0,0,0
+Amapá,1600279,Laranjal do Jari,0,0,0
+Amapá,1600303,Macapá,0,0,0
+Amapá,1600402,Mazagão,0,0,0
+Amapá,1600501,Oiapoque,0,0,0
+Amapá,1600535,Porto Grande,0,0,0
+Amapá,1600550,Pracuúba,0,0,0
+Amapá,1600600,Santana,0,0,0
+Amapá,1600709,Tartarugalzinho,0,0,0
+Amapá,1600808,Vitória do Jari,0,0,0
+Tocantins,1700251,Abreulândia,0,0,0
+Tocantins,1700301,Aguiarnópolis,0,0,0
+Tocantins,1700350,Aliança do Tocantins,0,0,0
+Tocantins,1700400,Almas,0,0,0
+Tocantins,1700707,Alvorada,0,0,0
+Tocantins,1701002,Ananás,0,0,0
+Tocantins,1701051,Angico,0,0,0
+Tocantins,1701101,Aparecida do Rio Negro,0,0,0
+Tocantins,1701309,Aragominas,0,0,0
+Tocantins,1701903,Araguacema,0,0,0
+Tocantins,1702000,Araguaçu,0,0,0
+Tocantins,1702109,Araguaína,0,0,0
+Tocantins,1702158,Araguanã,0,0,0
+Tocantins,1702208,Araguatins,0,0,0
+Tocantins,1702307,Arapoema,0,0,0
+Tocantins,1702406,Arraias,0,0,0
+Tocantins,1702554,Augustinópolis,0,0,0
+Tocantins,1702703,Aurora do Tocantins,0,0,0
+Tocantins,1702901,Axixá do Tocantins,0,0,0
+Tocantins,1703008,Babaçulândia,0,0,0
+Tocantins,1703057,Bandeirantes do Tocantins,0,0,0
+Tocantins,1703073,Barra do Ouro,0,0,0
+Tocantins,1703107,Barrolândia,0,0,0
+Tocantins,1703206,Bernardo Sayão,0,0,0
+Tocantins,1703305,Bom Jesus do Tocantins,0,0,0
+Tocantins,1703602,Brasilândia do Tocantins,0,0,0
+Tocantins,1703701,Brejinho de Nazaré,0,0,0
+Tocantins,1703800,Buriti do Tocantins,0,0,0
+Tocantins,1703826,Cachoeirinha,0,0,0
+Tocantins,1703842,Campos Lindos,0,0,0
+Tocantins,1703867,Cariri do Tocantins,0,0,0
+Tocantins,1703883,Carmolândia,0,0,0
+Tocantins,1703891,Carrasco Bonito,0,0,0
+Tocantins,1703909,Caseara,0,0,0
+Tocantins,1704105,Centenário,0,0,0
+Tocantins,1704600,Chapada de Areia,0,0,0
+Tocantins,1705102,Chapada da Natividade,0,0,0
+Tocantins,1705508,Colinas do Tocantins,0,0,0
+Tocantins,1705557,Combinado,0,0,0
+Tocantins,1705607,Conceição do Tocantins,0,0,0
+Tocantins,1706001,Couto Magalhães,0,0,0
+Tocantins,1706100,Cristalândia,0,0,0
+Tocantins,1706258,Crixás do Tocantins,0,0,0
+Tocantins,1706506,Darcinópolis,0,0,0
+Tocantins,1707009,Dianópolis,0,0,0
+Tocantins,1707108,Divinópolis do Tocantins,0,0,0
+Tocantins,1707207,Dois Irmãos do Tocantins,0,0,0
+Tocantins,1707306,Dueré,0,0,0
+Tocantins,1707405,Esperantina,0,0,0
+Tocantins,1707553,Fátima,0,0,0
+Tocantins,1707652,Figueirópolis,0,0,0
+Tocantins,1707702,Filadélfia,0,0,0
+Tocantins,1708205,Formoso do Araguaia,0,0,0
+Tocantins,1708254,Fortaleza do Tabocão,0,0,0
+Tocantins,1708304,Goianorte,0,0,0
+Tocantins,1709005,Goiatins,0,0,0
+Tocantins,1709302,Guaraí,0,0,0
+Tocantins,1709500,Gurupi,588,32,372
+Tocantins,1709807,Ipueiras,0,0,0
+Tocantins,1710508,Itacajá,0,0,0
+Tocantins,1710706,Itaguatins,0,0,0
+Tocantins,1710904,Itapiratins,0,0,0
+Tocantins,1711100,Itaporã do Tocantins,0,0,0
+Tocantins,1711506,Jaú do Tocantins,0,0,0
+Tocantins,1711803,Juarina,0,0,0
+Tocantins,1711902,Lagoa da Confusão,0,0,0
+Tocantins,1711951,Lagoa do Tocantins,0,0,0
+Tocantins,1712009,Lajeado,0,0,0
+Tocantins,1712157,Lavandeira,0,0,0
+Tocantins,1712405,Lizarda,0,0,0
+Tocantins,1712454,Luzinópolis,0,0,0
+Tocantins,1712504,Marianópolis do Tocantins,0,0,0
+Tocantins,1712702,Mateiros,0,0,0
+Tocantins,1712801,Maurilândia do Tocantins,0,0,0
+Tocantins,1713205,Miracema do Tocantins,0,0,0
+Tocantins,1713304,Miranorte,0,0,0
+Tocantins,1713601,Monte do Carmo,0,0,0
+Tocantins,1713700,Monte Santo do Tocantins,0,0,0
+Tocantins,1713809,Palmeiras do Tocantins,0,0,0
+Tocantins,1713957,Muricilândia,0,0,0
+Tocantins,1714203,Natividade,0,0,0
+Tocantins,1714302,Nazaré,0,0,0
+Tocantins,1714880,Nova Olinda,0,0,0
+Tocantins,1715002,Nova Rosalândia,0,0,0
+Tocantins,1715101,Novo Acordo,0,0,0
+Tocantins,1715150,Novo Alegre,0,0,0
+Tocantins,1715259,Novo Jardim,0,0,0
+Tocantins,1715507,Oliveira de Fátima,0,0,0
+Tocantins,1715705,Palmeirante,0,0,0
+Tocantins,1715754,Palmeirópolis,0,0,0
+Tocantins,1716109,Paraíso do Tocantins,0,0,0
+Tocantins,1716208,Paranã,0,0,0
+Tocantins,1716307,Pau D'Arco,0,0,0
+Tocantins,1716505,Pedro Afonso,0,0,0
+Tocantins,1716604,Peixe,0,0,0
+Tocantins,1716653,Pequizeiro,0,0,0
+Tocantins,1716703,Colméia,0,0,0
+Tocantins,1717008,Pindorama do Tocantins,0,0,0
+Tocantins,1717206,Piraquê,0,0,0
+Tocantins,1717503,Pium,0,0,0
+Tocantins,1717800,Ponte Alta do Bom Jesus,0,0,0
+Tocantins,1717909,Ponte Alta do Tocantins,0,0,0
+Tocantins,1718006,Porto Alegre do Tocantins,0,0,0
+Tocantins,1718204,Porto Nacional,0,0,0
+Tocantins,1718303,Praia Norte,0,0,0
+Tocantins,1718402,Presidente Kennedy,0,0,0
+Tocantins,1718451,Pugmil,0,0,0
+Tocantins,1718501,Recursolândia,0,0,0
+Tocantins,1718550,Riachinho,0,0,0
+Tocantins,1718659,Rio da Conceição,0,0,0
+Tocantins,1718709,Rio dos Bois,0,0,0
+Tocantins,1718758,Rio Sono,0,0,0
+Tocantins,1718808,Sampaio,0,0,0
+Tocantins,1718840,Sandolândia,0,0,0
+Tocantins,1718865,Santa Fé do Araguaia,0,0,0
+Tocantins,1718881,Santa Maria do Tocantins,0,0,0
+Tocantins,1718899,Santa Rita do Tocantins,0,0,0
+Tocantins,1718907,Santa Rosa do Tocantins,0,0,0
+Tocantins,1719004,Santa Tereza do Tocantins,0,0,0
+Tocantins,1720002,Santa Terezinha do Tocantins,0,0,0
+Tocantins,1720101,São Bento do Tocantins,0,0,0
+Tocantins,1720150,São Félix do Tocantins,0,0,0
+Tocantins,1720200,São Miguel do Tocantins,0,0,0
+Tocantins,1720259,São Salvador do Tocantins,0,0,0
+Tocantins,1720309,São Sebastião do Tocantins,0,0,0
+Tocantins,1720499,São Valério,0,0,0
+Tocantins,1720655,Silvanópolis,0,0,0
+Tocantins,1720804,Sítio Novo do Tocantins,0,0,0
+Tocantins,1720853,Sucupira,0,0,0
+Tocantins,1720903,Taguatinga,0,0,0
+Tocantins,1720937,Taipas do Tocantins,0,0,0
+Tocantins,1720978,Talismã,0,0,0
+Tocantins,1721000,Palmas,0,0,0
+Tocantins,1721109,Tocantínia,0,0,0
+Tocantins,1721208,Tocantinópolis,0,0,0
+Tocantins,1721257,Tupirama,0,0,0
+Tocantins,1721307,Tupiratins,0,0,0
+Tocantins,1722081,Wanderlândia,0,0,0
+Tocantins,1722107,Xambioá,0,0,0
+Maranhão,2100055,Açailândia,0,0,0
+Maranhão,2100105,Afonso Cunha,0,0,0
+Maranhão,2100154,Água Doce do Maranhão,0,0,0
+Maranhão,2100204,Alcântara,0,0,0
+Maranhão,2100303,Aldeias Altas,0,0,0
+Maranhão,2100402,Altamira do Maranhão,0,0,0
+Maranhão,2100436,Alto Alegre do Maranhão,0,0,0
+Maranhão,2100477,Alto Alegre do Pindaré,0,0,0
+Maranhão,2100501,Alto Parnaíba,0,0,0
+Maranhão,2100550,Amapá do Maranhão,0,0,0
+Maranhão,2100600,Amarante do Maranhão,0,0,0
+Maranhão,2100709,Anajatuba,0,0,0
+Maranhão,2100808,Anapurus,0,0,0
+Maranhão,2100832,Apicum-Açu,0,0,0
+Maranhão,2100873,Araguanã,0,0,0
+Maranhão,2100907,Araioses,0,0,0
+Maranhão,2100956,Arame,0,0,0
+Maranhão,2101004,Arari,0,0,0
+Maranhão,2101103,Axixá,0,0,0
+Maranhão,2101202,Bacabal,0,0,0
+Maranhão,2101251,Bacabeira,0,0,0
+Maranhão,2101301,Bacuri,0,0,0
+Maranhão,2101350,Bacurituba,0,0,0
+Maranhão,2101400,Balsas,0,0,0
+Maranhão,2101509,Barão de Grajaú,0,0,0
+Maranhão,2101608,Barra do Corda,0,0,0
+Maranhão,2101707,Barreirinhas,0,0,0
+Maranhão,2101731,Belágua,0,0,0
+Maranhão,2101772,Bela Vista do Maranhão,0,0,0
+Maranhão,2101806,Benedito Leite,0,0,0
+Maranhão,2101905,Bequimão,0,0,0
+Maranhão,2101939,Bernardo do Mearim,0,0,0
+Maranhão,2101970,Boa Vista do Gurupi,0,0,0
+Maranhão,2102002,Bom Jardim,0,0,0
+Maranhão,2102036,Bom Jesus das Selvas,0,0,0
+Maranhão,2102077,Bom Lugar,0,0,0
+Maranhão,2102101,Brejo,0,0,0
+Maranhão,2102150,Brejo de Areia,0,0,0
+Maranhão,2102200,Buriti,0,0,0
+Maranhão,2102309,Buriti Bravo,0,0,0
+Maranhão,2102325,Buriticupu,0,0,0
+Maranhão,2102358,Buritirana,0,0,0
+Maranhão,2102374,Cachoeira Grande,0,0,0
+Maranhão,2102408,Cajapió,0,0,0
+Maranhão,2102507,Cajari,0,0,0
+Maranhão,2102556,Campestre do Maranhão,0,0,0
+Maranhão,2102606,Cândido Mendes,0,0,0
+Maranhão,2102705,Cantanhede,0,0,0
+Maranhão,2102754,Capinzal do Norte,0,0,0
+Maranhão,2102804,Carolina,0,0,0
+Maranhão,2102903,Carutapera,0,0,0
+Maranhão,2103000,Caxias,0,0,0
+Maranhão,2103109,Cedral,0,0,0
+Maranhão,2103125,Central do Maranhão,0,0,0
+Maranhão,2103158,Centro do Guilherme,0,0,0
+Maranhão,2103174,Centro Novo do Maranhão,0,0,0
+Maranhão,2103208,Chapadinha,0,0,0
+Maranhão,2103257,Cidelândia,0,0,0
+Maranhão,2103307,Codó,0,0,0
+Maranhão,2103406,Coelho Neto,0,0,0
+Maranhão,2103505,Colinas,0,0,0
+Maranhão,2103554,Conceição do Lago-Açu,0,0,0
+Maranhão,2103604,Coroatá,0,0,0
+Maranhão,2103703,Cururupu,0,0,0
+Maranhão,2103752,Davinópolis,0,0,0
+Maranhão,2103802,Dom Pedro,0,0,0
+Maranhão,2103901,Duque Bacelar,0,0,0
+Maranhão,2104008,Esperantinópolis,0,0,0
+Maranhão,2104057,Estreito,0,0,0
+Maranhão,2104073,Feira Nova do Maranhão,0,0,0
+Maranhão,2104081,Fernando Falcão,0,0,0
+Maranhão,2104099,Formosa da Serra Negra,0,0,0
+Maranhão,2104107,Fortaleza dos Nogueiras,0,0,0
+Maranhão,2104206,Fortuna,0,0,0
+Maranhão,2104305,Godofredo Viana,0,0,0
+Maranhão,2104404,Gonçalves Dias,0,0,0
+Maranhão,2104503,Governador Archer,0,0,0
+Maranhão,2104552,Governador Edison Lobão,0,0,0
+Maranhão,2104602,Governador Eugênio Barros,0,0,0
+Maranhão,2104628,Governador Luiz Rocha,0,0,0
+Maranhão,2104651,Governador Newton Bello,0,0,0
+Maranhão,2104677,Governador Nunes Freire,0,0,0
+Maranhão,2104701,Graça Aranha,0,0,0
+Maranhão,2104800,Grajaú,0,0,0
+Maranhão,2104909,Guimarães,0,0,0
+Maranhão,2105005,Humberto de Campos,0,0,0
+Maranhão,2105104,Icatu,0,0,0
+Maranhão,2105153,Igarapé do Meio,0,0,0
+Maranhão,2105203,Igarapé Grande,0,0,0
+Maranhão,2105302,Imperatriz,118,3,564
+Maranhão,2105351,Itaipava do Grajaú,0,0,0
+Maranhão,2105401,Itapecuru Mirim,0,0,0
+Maranhão,2105427,Itinga do Maranhão,0,0,0
+Maranhão,2105450,Jatobá,0,0,0
+Maranhão,2105476,Jenipapo dos Vieiras,0,0,0
+Maranhão,2105500,João Lisboa,0,0,0
+Maranhão,2105609,Joselândia,0,0,0
+Maranhão,2105658,Junco do Maranhão,0,0,0
+Maranhão,2105708,Lago da Pedra,0,0,0
+Maranhão,2105807,Lago do Junco,0,0,0
+Maranhão,2105906,Lago Verde,0,0,0
+Maranhão,2105922,Lagoa do Mato,0,0,0
+Maranhão,2105948,Lago dos Rodrigues,0,0,0
+Maranhão,2105963,Lagoa Grande do Maranhão,0,0,0
+Maranhão,2105989,Lajeado Novo,0,0,0
+Maranhão,2106003,Lima Campos,0,0,0
+Maranhão,2106102,Loreto,0,0,0
+Maranhão,2106201,Luís Domingues,0,0,0
+Maranhão,2106300,Magalhães de Almeida,0,0,0
+Maranhão,2106326,Maracaçumé,0,0,0
+Maranhão,2106359,Marajá do Sena,0,0,0
+Maranhão,2106375,Maranhãozinho,0,0,0
+Maranhão,2106409,Mata Roma,0,0,0
+Maranhão,2106508,Matinha,0,0,0
+Maranhão,2106607,Matões,0,0,0
+Maranhão,2106631,Matões do Norte,0,0,0
+Maranhão,2106672,Milagres do Maranhão,0,0,0
+Maranhão,2106706,Mirador,0,0,0
+Maranhão,2106755,Miranda do Norte,0,0,0
+Maranhão,2106805,Mirinzal,0,0,0
+Maranhão,2106904,Monção,0,0,0
+Maranhão,2107001,Montes Altos,0,0,0
+Maranhão,2107100,Morros,0,0,0
+Maranhão,2107209,Nina Rodrigues,0,0,0
+Maranhão,2107258,Nova Colinas,0,0,0
+Maranhão,2107308,Nova Iorque,0,0,0
+Maranhão,2107357,Nova Olinda do Maranhão,0,0,0
+Maranhão,2107407,Olho d'Água das Cunhãs,0,0,0
+Maranhão,2107456,Olinda Nova do Maranhão,0,0,0
+Maranhão,2107506,Paço do Lumiar,0,0,0
+Maranhão,2107605,Palmeirândia,0,0,0
+Maranhão,2107704,Paraibano,0,0,0
+Maranhão,2107803,Parnarama,0,0,0
+Maranhão,2107902,Passagem Franca,0,0,0
+Maranhão,2108009,Pastos Bons,0,0,0
+Maranhão,2108058,Paulino Neves,0,0,0
+Maranhão,2108108,Paulo Ramos,0,0,0
+Maranhão,2108207,Pedreiras,0,0,0
+Maranhão,2108256,Pedro do Rosário,0,0,0
+Maranhão,2108306,Penalva,0,0,0
+Maranhão,2108405,Peri Mirim,0,0,0
+Maranhão,2108454,Peritoró,0,0,0
+Maranhão,2108504,Pindaré-Mirim,0,0,0
+Maranhão,2108603,Pinheiro,0,0,0
+Maranhão,2108702,Pio XII,0,0,0
+Maranhão,2108801,Pirapemas,0,0,0
+Maranhão,2108900,Poção de Pedras,0,0,0
+Maranhão,2109007,Porto Franco,0,0,0
+Maranhão,2109056,Porto Rico do Maranhão,0,0,0
+Maranhão,2109106,Presidente Dutra,0,0,0
+Maranhão,2109205,Presidente Juscelino,0,0,0
+Maranhão,2109239,Presidente Médici,0,0,0
+Maranhão,2109270,Presidente Sarney,0,0,0
+Maranhão,2109304,Presidente Vargas,0,0,0
+Maranhão,2109403,Primeira Cruz,0,0,0
+Maranhão,2109452,Raposa,86,12,973
+Maranhão,2109502,Riachão,0,0,0
+Maranhão,2109551,Ribamar Fiquene,0,0,0
+Maranhão,2109601,Rosário,0,0,0
+Maranhão,2109700,Sambaíba,0,0,0
+Maranhão,2109759,Santa Filomena do Maranhão,0,0,0
+Maranhão,2109809,Santa Helena,0,0,0
+Maranhão,2109908,Santa Inês,0,0,0
+Maranhão,2110005,Santa Luzia,0,0,0
+Maranhão,2110039,Santa Luzia do Paruá,0,0,0
+Maranhão,2110104,Santa Quitéria do Maranhão,0,0,0
+Maranhão,2110203,Santa Rita,0,0,0
+Maranhão,2110237,Santana do Maranhão,0,0,0
+Maranhão,2110278,Santo Amaro do Maranhão,0,0,0
+Maranhão,2110302,Santo Antônio dos Lopes,0,0,0
+Maranhão,2110401,São Benedito do Rio Preto,0,0,0
+Maranhão,2110500,São Bento,0,0,0
+Maranhão,2110609,São Bernardo,0,0,0
+Maranhão,2110658,São Domingos do Azeitão,0,0,0
+Maranhão,2110708,São Domingos do Maranhão,0,0,0
+Maranhão,2110807,São Félix de Balsas,0,0,0
+Maranhão,2110856,São Francisco do Brejão,0,0,0
+Maranhão,2110906,São Francisco do Maranhão,0,0,0
+Maranhão,2111003,São João Batista,0,0,0
+Maranhão,2111029,São João do Carú,0,0,0
+Maranhão,2111052,São João do Paraíso,0,0,0
+Maranhão,2111078,São João do Soter,0,0,0
+Maranhão,2111102,São João dos Patos,0,0,0
+Maranhão,2111201,São José de Ribamar,0,0,0
+Maranhão,2111250,São José dos Basílios,0,0,0
+Maranhão,2111300,São Luís,0,0,0
+Maranhão,2111409,São Luís Gonzaga do Maranhão,0,0,0
+Maranhão,2111508,São Mateus do Maranhão,0,0,0
+Maranhão,2111532,São Pedro da Água Branca,0,0,0
+Maranhão,2111573,São Pedro dos Crentes,0,0,0
+Maranhão,2111607,São Raimundo das Mangabeiras,0,0,0
+Maranhão,2111631,São Raimundo do Doca Bezerra,0,0,0
+Maranhão,2111672,São Roberto,0,0,0
+Maranhão,2111706,São Vicente Ferrer,0,0,0
+Maranhão,2111722,Satubinha,0,0,0
+Maranhão,2111748,Senador Alexandre Costa,0,0,0
+Maranhão,2111763,Senador La Rocque,0,0,0
+Maranhão,2111789,Serrano do Maranhão,0,0,0
+Maranhão,2111805,Sítio Novo,0,0,0
+Maranhão,2111904,Sucupira do Norte,0,0,0
+Maranhão,2111953,Sucupira do Riachão,0,0,0
+Maranhão,2112001,Tasso Fragoso,0,0,0
+Maranhão,2112100,Timbiras,0,0,0
+Maranhão,2112209,Timon,0,0,0
+Maranhão,2112233,Trizidela do Vale,0,0,0
+Maranhão,2112274,Tufilândia,0,0,0
+Maranhão,2112308,Tuntum,0,0,0
+Maranhão,2112407,Turiaçu,0,0,0
+Maranhão,2112456,Turilândia,0,0,0
+Maranhão,2112506,Tutóia,0,0,0
+Maranhão,2112605,Urbano Santos,0,0,0
+Maranhão,2112704,Vargem Grande,0,0,0
+Maranhão,2112803,Viana,0,0,0
+Maranhão,2112852,Vila Nova dos Martírios,0,0,0
+Maranhão,2112902,Vitória do Mearim,0,0,0
+Maranhão,2113009,Vitorino Freire,0,0,0
+Maranhão,2114007,Zé Doca,0,0,0
+Piauí,2200053,Acauã,0,0,0
+Piauí,2200103,Agricolândia,0,0,0
+Piauí,2200202,Água Branca,0,0,0
+Piauí,2200251,Alagoinha do Piauí,0,0,0
+Piauí,2200277,Alegrete do Piauí,0,0,0
+Piauí,2200301,Alto Longá,0,0,0
+Piauí,2200400,Altos,0,0,0
+Piauí,2200459,Alvorada do Gurguéia,0,0,0
+Piauí,2200509,Amarante,0,0,0
+Piauí,2200608,Angical do Piauí,0,0,0
+Piauí,2200707,Anísio de Abreu,0,0,0
+Piauí,2200806,Antônio Almeida,0,0,0
+Piauí,2200905,Aroazes,0,0,0
+Piauí,2200954,Aroeiras do Itaim,0,0,0
+Piauí,2201002,Arraial,0,0,0
+Piauí,2201051,Assunção do Piauí,0,0,0
+Piauí,2201101,Avelino Lopes,0,0,0
+Piauí,2201150,Baixa Grande do Ribeiro,0,0,0
+Piauí,2201176,Barra D'Alcântara,0,0,0
+Piauí,2201200,Barras,0,0,0
+Piauí,2201309,Barreiras do Piauí,0,0,0
+Piauí,2201408,Barro Duro,0,0,0
+Piauí,2201507,Batalha,0,0,0
+Piauí,2201556,Bela Vista do Piauí,0,0,0
+Piauí,2201572,Belém do Piauí,0,0,0
+Piauí,2201606,Beneditinos,0,0,0
+Piauí,2201705,Bertolínia,0,0,0
+Piauí,2201739,Betânia do Piauí,0,0,0
+Piauí,2201770,Boa Hora,0,0,0
+Piauí,2201804,Bocaina,0,0,0
+Piauí,2201903,Bom Jesus,0,0,0
+Piauí,2201919,Bom Princípio do Piauí,0,0,0
+Piauí,2201929,Bonfim do Piauí,0,0,0
+Piauí,2201945,Boqueirão do Piauí,0,0,0
+Piauí,2201960,Brasileira,0,0,0
+Piauí,2201988,Brejo do Piauí,0,0,0
+Piauí,2202000,Buriti dos Lopes,0,0,0
+Piauí,2202026,Buriti dos Montes,0,0,0
+Piauí,2202059,Cabeceiras do Piauí,0,0,0
+Piauí,2202075,Cajazeiras do Piauí,0,0,0
+Piauí,2202083,Cajueiro da Praia,0,0,0
+Piauí,2202091,Caldeirão Grande do Piauí,0,0,0
+Piauí,2202109,Campinas do Piauí,0,0,0
+Piauí,2202117,Campo Alegre do Fidalgo,0,0,0
+Piauí,2202133,Campo Grande do Piauí,0,0,0
+Piauí,2202174,Campo Largo do Piauí,0,0,0
+Piauí,2202208,Campo Maior,0,0,0
+Piauí,2202251,Canavieira,0,0,0
+Piauí,2202307,Canto do Buriti,0,0,0
+Piauí,2202406,Capitão de Campos,0,0,0
+Piauí,2202455,Capitão Gervásio Oliveira,0,0,0
+Piauí,2202505,Caracol,0,0,0
+Piauí,2202539,Caraúbas do Piauí,0,0,0
+Piauí,2202554,Caridade do Piauí,0,0,0
+Piauí,2202604,Castelo do Piauí,0,0,0
+Piauí,2202653,Caxingó,0,0,0
+Piauí,2202703,Cocal,0,0,0
+Piauí,2202711,Cocal de Telha,0,0,0
+Piauí,2202729,Cocal dos Alves,0,0,0
+Piauí,2202737,Coivaras,0,0,0
+Piauí,2202752,Colônia do Gurguéia,0,0,0
+Piauí,2202778,Colônia do Piauí,0,0,0
+Piauí,2202802,Conceição do Canindé,0,0,0
+Piauí,2202851,Coronel José Dias,0,0,0
+Piauí,2202901,Corrente,0,0,0
+Piauí,2203008,Cristalândia do Piauí,0,0,0
+Piauí,2203107,Cristino Castro,0,0,0
+Piauí,2203206,Curimatá,0,0,0
+Piauí,2203230,Currais,0,0,0
+Piauí,2203255,Curralinhos,0,0,0
+Piauí,2203271,Curral Novo do Piauí,0,0,0
+Piauí,2203305,Demerval Lobão,0,0,0
+Piauí,2203354,Dirceu Arcoverde,0,0,0
+Piauí,2203404,Dom Expedito Lopes,0,0,0
+Piauí,2203420,Domingos Mourão,0,0,0
+Piauí,2203453,Dom Inocêncio,0,0,0
+Piauí,2203503,Elesbão Veloso,0,0,0
+Piauí,2203602,Eliseu Martins,0,0,0
+Piauí,2203701,Esperantina,0,0,0
+Piauí,2203750,Fartura do Piauí,0,0,0
+Piauí,2203800,Flores do Piauí,0,0,0
+Piauí,2203859,Floresta do Piauí,0,0,0
+Piauí,2203909,Floriano,0,0,0
+Piauí,2204006,Francinópolis,0,0,0
+Piauí,2204105,Francisco Ayres,0,0,0
+Piauí,2204154,Francisco Macedo,0,0,0
+Piauí,2204204,Francisco Santos,0,0,0
+Piauí,2204303,Fronteiras,0,0,0
+Piauí,2204352,Geminiano,0,0,0
+Piauí,2204402,Gilbués,0,0,0
+Piauí,2204501,Guadalupe,0,0,0
+Piauí,2204550,Guaribas,0,0,0
+Piauí,2204600,Hugo Napoleão,0,0,0
+Piauí,2204659,Ilha Grande,0,0,0
+Piauí,2204709,Inhuma,0,0,0
+Piauí,2204808,Ipiranga do Piauí,0,0,0
+Piauí,2204907,Isaías Coelho,0,0,0
+Piauí,2205003,Itainópolis,0,0,0
+Piauí,2205102,Itaueira,0,0,0
+Piauí,2205151,Jacobina do Piauí,0,0,0
+Piauí,2205201,Jaicós,0,0,0
+Piauí,2205250,Jardim do Mulato,0,0,0
+Piauí,2205276,Jatobá do Piauí,0,0,0
+Piauí,2205300,Jerumenha,0,0,0
+Piauí,2205359,João Costa,0,0,0
+Piauí,2205409,Joaquim Pires,0,0,0
+Piauí,2205458,Joca Marques,0,0,0
+Piauí,2205508,José de Freitas,0,0,0
+Piauí,2205516,Juazeiro do Piauí,0,0,0
+Piauí,2205524,Júlio Borges,0,0,0
+Piauí,2205532,Jurema,0,0,0
+Piauí,2205540,Lagoinha do Piauí,0,0,0
+Piauí,2205557,Lagoa Alegre,0,0,0
+Piauí,2205565,Lagoa do Barro do Piauí,0,0,0
+Piauí,2205573,Lagoa de São Francisco,0,0,0
+Piauí,2205581,Lagoa do Piauí,0,0,0
+Piauí,2205599,Lagoa do Sítio,0,0,0
+Piauí,2205607,Landri Sales,0,0,0
+Piauí,2205706,Luís Correia,0,0,0
+Piauí,2205805,Luzilândia,0,0,0
+Piauí,2205854,Madeiro,0,0,0
+Piauí,2205904,Manoel Emídio,0,0,0
+Piauí,2205953,Marcolândia,0,0,0
+Piauí,2206001,Marcos Parente,0,0,0
+Piauí,2206050,Massapê do Piauí,0,0,0
+Piauí,2206100,Matias Olímpio,0,0,0
+Piauí,2206209,Miguel Alves,0,0,0
+Piauí,2206308,Miguel Leão,0,0,0
+Piauí,2206357,Milton Brandão,0,0,0
+Piauí,2206407,Monsenhor Gil,0,0,0
+Piauí,2206506,Monsenhor Hipólito,0,0,0
+Piauí,2206605,Monte Alegre do Piauí,0,0,0
+Piauí,2206654,Morro Cabeça no Tempo,0,0,0
+Piauí,2206670,Morro do Chapéu do Piauí,0,0,0
+Piauí,2206696,Murici dos Portelas,0,0,0
+Piauí,2206704,Nazaré do Piauí,0,0,0
+Piauí,2206720,Nazária,0,0,0
+Piauí,2206753,Nossa Senhora de Nazaré,0,0,0
+Piauí,2206803,Nossa Senhora dos Remédios,0,0,0
+Piauí,2206902,Novo Oriente do Piauí,0,0,0
+Piauí,2206951,Novo Santo Antônio,0,0,0
+Piauí,2207009,Oeiras,0,0,0
+Piauí,2207108,Olho D'Água do Piauí,0,0,0
+Piauí,2207207,Padre Marcos,0,0,0
+Piauí,2207306,Paes Landim,0,0,0
+Piauí,2207355,Pajeú do Piauí,0,0,0
+Piauí,2207405,Palmeira do Piauí,0,0,0
+Piauí,2207504,Palmeirais,0,0,0
+Piauí,2207553,Paquetá,0,0,0
+Piauí,2207603,Parnaguá,0,0,0
+Piauí,2207702,Parnaíba,0,0,0
+Piauí,2207751,Passagem Franca do Piauí,0,0,0
+Piauí,2207777,Patos do Piauí,0,0,0
+Piauí,2207793,Pau D'Arco do Piauí,0,0,0
+Piauí,2207801,Paulistana,0,0,0
+Piauí,2207850,Pavussu,0,0,0
+Piauí,2207900,Pedro II,0,0,0
+Piauí,2207934,Pedro Laurentino,0,0,0
+Piauí,2207959,Nova Santa Rita,0,0,0
+Piauí,2208007,Picos,0,0,0
+Piauí,2208106,Pimenteiras,0,0,0
+Piauí,2208205,Pio IX,0,0,0
+Piauí,2208304,Piracuruca,0,0,0
+Piauí,2208403,Piripiri,0,0,0
+Piauí,2208502,Porto,0,0,0
+Piauí,2208551,Porto Alegre do Piauí,0,0,0
+Piauí,2208601,Prata do Piauí,0,0,0
+Piauí,2208650,Queimada Nova,0,0,0
+Piauí,2208700,Redenção do Gurguéia,0,0,0
+Piauí,2208809,Regeneração,0,0,0
+Piauí,2208858,Riacho Frio,0,0,0
+Piauí,2208874,Ribeira do Piauí,0,0,0
+Piauí,2208908,Ribeiro Gonçalves,0,0,0
+Piauí,2209005,Rio Grande do Piauí,0,0,0
+Piauí,2209104,Santa Cruz do Piauí,0,0,0
+Piauí,2209153,Santa Cruz dos Milagres,0,0,0
+Piauí,2209203,Santa Filomena,0,0,0
+Piauí,2209302,Santa Luz,0,0,0
+Piauí,2209351,Santana do Piauí,0,0,0
+Piauí,2209377,Santa Rosa do Piauí,0,0,0
+Piauí,2209401,Santo Antônio de Lisboa,0,0,0
+Piauí,2209450,Santo Antônio dos Milagres,0,0,0
+Piauí,2209500,Santo Inácio do Piauí,0,0,0
+Piauí,2209559,São Braz do Piauí,0,0,0
+Piauí,2209609,São Félix do Piauí,0,0,0
+Piauí,2209658,São Francisco de Assis do Piauí,0,0,0
+Piauí,2209708,São Francisco do Piauí,0,0,0
+Piauí,2209757,São Gonçalo do Gurguéia,0,0,0
+Piauí,2209807,São Gonçalo do Piauí,0,0,0
+Piauí,2209856,São João da Canabrava,0,0,0
+Piauí,2209872,São João da Fronteira,0,0,0
+Piauí,2209906,São João da Serra,0,0,0
+Piauí,2209955,São João da Varjota,0,0,0
+Piauí,2209971,São João do Arraial,0,0,0
+Piauí,2210003,São João do Piauí,0,0,0
+Piauí,2210052,São José do Divino,0,0,0
+Piauí,2210102,São José do Peixe,0,0,0
+Piauí,2210201,São José do Piauí,0,0,0
+Piauí,2210300,São Julião,0,0,0
+Piauí,2210359,São Lourenço do Piauí,0,0,0
+Piauí,2210375,São Luis do Piauí,0,0,0
+Piauí,2210383,São Miguel da Baixa Grande,0,0,0
+Piauí,2210391,São Miguel do Fidalgo,0,0,0
+Piauí,2210409,São Miguel do Tapuio,0,0,0
+Piauí,2210508,São Pedro do Piauí,0,0,0
+Piauí,2210607,São Raimundo Nonato,0,0,0
+Piauí,2210623,Sebastião Barros,0,0,0
+Piauí,2210631,Sebastião Leal,0,0,0
+Piauí,2210656,Sigefredo Pacheco,0,0,0
+Piauí,2210706,Simões,0,0,0
+Piauí,2210805,Simplício Mendes,0,0,0
+Piauí,2210904,Socorro do Piauí,0,0,0
+Piauí,2210938,Sussuapara,0,0,0
+Piauí,2210953,Tamboril do Piauí,0,0,0
+Piauí,2210979,Tanque do Piauí,0,0,0
+Piauí,2211001,Teresina,298,22,821
+Piauí,2211100,União,0,0,0
+Piauí,2211209,Uruçuí,0,0,0
+Piauí,2211308,Valença do Piauí,0,0,0
+Piauí,2211357,Várzea Branca,0,0,0
+Piauí,2211407,Várzea Grande,0,0,0
+Piauí,2211506,Vera Mendes,0,0,0
+Piauí,2211605,Vila Nova do Piauí,0,0,0
+Piauí,2211704,Wall Ferraz,0,0,0
+Ceará,2300101,Abaiara,0,0,0
+Ceará,2300150,Acarape,0,0,0
+Ceará,2300200,Acaraú,0,0,0
+Ceará,2300309,Acopiara,0,0,0
+Ceará,2300408,Aiuaba,0,0,0
+Ceará,2300507,Alcântaras,0,0,0
+Ceará,2300606,Altaneira,0,0,0
+Ceará,2300705,Alto Santo,0,0,0
+Ceará,2300754,Amontada,0,0,0
+Ceará,2300804,Antonina do Norte,0,0,0
+Ceará,2300903,Apuiarés,0,0,0
+Ceará,2301000,Aquiraz,0,0,0
+Ceará,2301109,Aracati,0,0,0
+Ceará,2301208,Aracoiaba,0,0,0
+Ceará,2301257,Ararendá,0,0,0
+Ceará,2301307,Araripe,0,0,0
+Ceará,2301406,Aratuba,0,0,0
+Ceará,2301505,Arneiroz,0,0,0
+Ceará,2301604,Assaré,0,0,0
+Ceará,2301703,Aurora,0,0,0
+Ceará,2301802,Baixio,0,0,0
+Ceará,2301851,Banabuiú,0,0,0
+Ceará,2301901,Barbalha,0,0,0
+Ceará,2301950,Barreira,0,0,0
+Ceará,2302008,Barro,0,0,0
+Ceará,2302057,Barroquinha,0,0,0
+Ceará,2302107,Baturité,0,0,0
+Ceará,2302206,Beberibe,0,0,0
+Ceará,2302305,Bela Cruz,0,0,0
+Ceará,2302404,Boa Viagem,0,0,0
+Ceará,2302503,Brejo Santo,0,0,0
+Ceará,2302602,Camocim,0,0,0
+Ceará,2302701,Campos Sales,0,0,0
+Ceará,2302800,Canindé,0,0,0
+Ceará,2302909,Capistrano,0,0,0
+Ceará,2303006,Caridade,0,0,0
+Ceará,2303105,Cariré,0,0,0
+Ceará,2303204,Caririaçu,0,0,0
+Ceará,2303303,Cariús,0,0,0
+Ceará,2303402,Carnaubal,0,0,0
+Ceará,2303501,Cascavel,0,0,0
+Ceará,2303600,Catarina,0,0,0
+Ceará,2303659,Catunda,0,0,0
+Ceará,2303709,Caucaia,0,0,0
+Ceará,2303808,Cedro,0,0,0
+Ceará,2303907,Chaval,0,0,0
+Ceará,2303931,Choró,0,0,0
+Ceará,2303956,Chorozinho,0,0,0
+Ceará,2304004,Coreaú,0,0,0
+Ceará,2304103,Crateús,0,0,0
+Ceará,2304202,Crato,0,0,0
+Ceará,2304236,Croatá,0,0,0
+Ceará,2304251,Cruz,0,0,0
+Ceará,2304269,Deputado Irapuan Pinheiro,0,0,0
+Ceará,2304277,Ererê,0,0,0
+Ceará,2304285,Eusébio,0,0,0
+Ceará,2304301,Farias Brito,0,0,0
+Ceará,2304350,Forquilha,0,0,0
+Ceará,2304400,Fortaleza,0,0,0
+Ceará,2304459,Fortim,0,0,0
+Ceará,2304509,Frecheirinha,0,0,0
+Ceará,2304608,General Sampaio,0,0,0
+Ceará,2304657,Graça,0,0,0
+Ceará,2304707,Granja,0,0,0
+Ceará,2304806,Granjeiro,0,0,0
+Ceará,2304905,Groaíras,0,0,0
+Ceará,2304954,Guaiúba,0,0,0
+Ceará,2305001,Guaraciaba do Norte,0,0,0
+Ceará,2305100,Guaramiranga,0,0,0
+Ceará,2305209,Hidrolândia,0,0,0
+Ceará,2305233,Horizonte,0,0,0
+Ceará,2305266,Ibaretama,0,0,0
+Ceará,2305308,Ibiapina,0,0,0
+Ceará,2305332,Ibicuitinga,0,0,0
+Ceará,2305357,Icapuí,0,0,0
+Ceará,2305407,Icó,0,0,0
+Ceará,2305506,Iguatu,0,0,0
+Ceará,2305605,Independência,0,0,0
+Ceará,2305654,Ipaporanga,0,0,0
+Ceará,2305704,Ipaumirim,0,0,0
+Ceará,2305803,Ipu,0,0,0
+Ceará,2305902,Ipueiras,0,0,0
+Ceará,2306009,Iracema,0,0,0
+Ceará,2306108,Irauçuba,0,0,0
+Ceará,2306207,Itaiçaba,0,0,0
+Ceará,2306256,Itaitinga,0,0,0
+Ceará,2306306,Itapajé,0,0,0
+Ceará,2306405,Itapipoca,0,0,0
+Ceará,2306504,Itapiúna,0,0,0
+Ceará,2306553,Itarema,0,0,0
+Ceará,2306603,Itatira,0,0,0
+Ceará,2306702,Jaguaretama,0,0,0
+Ceará,2306801,Jaguaribara,0,0,0
+Ceará,2306900,Jaguaribe,0,0,0
+Ceará,2307007,Jaguaruana,0,0,0
+Ceará,2307106,Jardim,17,5,130
+Ceará,2307205,Jati,0,0,0
+Ceará,2307254,Jijoca de Jericoacoara,0,0,0
+Ceará,2307304,Juazeiro do Norte,0,0,0
+Ceará,2307403,Jucás,0,0,0
+Ceará,2307502,Lavras da Mangabeira,0,0,0
+Ceará,2307601,Limoeiro do Norte,0,0,0
+Ceará,2307635,Madalena,0,0,0
+Ceará,2307650,Maracanaú,0,0,0
+Ceará,2307700,Maranguape,0,0,0
+Ceará,2307809,Marco,0,0,0
+Ceará,2307908,Martinópole,0,0,0
+Ceará,2308005,Massapê,0,0,0
+Ceará,2308104,Mauriti,0,0,0
+Ceará,2308203,Meruoca,0,0,0
+Ceará,2308302,Milagres,0,0,0
+Ceará,2308351,Milhã,0,0,0
+Ceará,2308377,Miraíma,0,0,0
+Ceará,2308401,Missão Velha,0,0,0
+Ceará,2308500,Mombaça,0,0,0
+Ceará,2308609,Monsenhor Tabosa,0,0,0
+Ceará,2308708,Morada Nova,69,11,997
+Ceará,2308807,Moraújo,0,0,0
+Ceará,2308906,Morrinhos,0,0,0
+Ceará,2309003,Mucambo,0,0,0
+Ceará,2309102,Mulungu,0,0,0
+Ceará,2309201,Nova Olinda,0,0,0
+Ceará,2309300,Nova Russas,0,0,0
+Ceará,2309409,Novo Oriente,0,0,0
+Ceará,2309458,Ocara,0,0,0
+Ceará,2309508,Orós,0,0,0
+Ceará,2309607,Pacajus,0,0,0
+Ceará,2309706,Pacatuba,0,0,0
+Ceará,2309805,Pacoti,0,0,0
+Ceará,2309904,Pacujá,0,0,0
+Ceará,2310001,Palhano,0,0,0
+Ceará,2310100,Palmácia,0,0,0
+Ceará,2310209,Paracuru,0,0,0
+Ceará,2310258,Paraipaba,0,0,0
+Ceará,2310308,Parambu,0,0,0
+Ceará,2310407,Paramoti,0,0,0
+Ceará,2310506,Pedra Branca,0,0,0
+Ceará,2310605,Penaforte,0,0,0
+Ceará,2310704,Pentecoste,0,0,0
+Ceará,2310803,Pereiro,0,0,0
+Ceará,2310852,Pindoretama,0,0,0
+Ceará,2310902,Piquet Carneiro,0,0,0
+Ceará,2310951,Pires Ferreira,0,0,0
+Ceará,2311009,Poranga,0,0,0
+Ceará,2311108,Porteiras,0,0,0
+Ceará,2311207,Potengi,0,0,0
+Ceará,2311231,Potiretama,0,0,0
+Ceará,2311264,Quiterianópolis,0,0,0
+Ceará,2311306,Quixadá,0,0,0
+Ceará,2311355,Quixelô,0,0,0
+Ceará,2311405,Quixeramobim,0,0,0
+Ceará,2311504,Quixeré,0,0,0
+Ceará,2311603,Redenção,274,41,2081
+Ceará,2311702,Reriutaba,0,0,0
+Ceará,2311801,Russas,0,0,0
+Ceará,2311900,Saboeiro,0,0,0
+Ceará,2311959,Salitre,0,0,0
+Ceará,2312007,Santana do Acaraú,0,0,0
+Ceará,2312106,Santana do Cariri,0,0,0
+Ceará,2312205,Santa Quitéria,0,0,0
+Ceará,2312304,São Benedito,0,0,0
+Ceará,2312403,São Gonçalo do Amarante,0,0,0
+Ceará,2312502,São João do Jaguaribe,0,0,0
+Ceará,2312601,São Luís do Curu,0,0,0
+Ceará,2312700,Senador Pompeu,0,0,0
+Ceará,2312809,Senador Sá,0,0,0
+Ceará,2312908,Sobral,0,0,0
+Ceará,2313005,Solonópole,0,0,0
+Ceará,2313104,Tabuleiro do Norte,0,0,0
+Ceará,2313203,Tamboril,0,0,0
+Ceará,2313252,Tarrafas,0,0,0
+Ceará,2313302,Tauá,0,0,0
+Ceará,2313351,Tejuçuoca,0,0,0
+Ceará,2313401,Tianguá,0,0,0
+Ceará,2313500,Trairi,0,0,0
+Ceará,2313559,Tururu,0,0,0
+Ceará,2313609,Ubajara,0,0,0
+Ceará,2313708,Umari,0,0,0
+Ceará,2313757,Umirim,0,0,0
+Ceará,2313807,Uruburetama,0,0,0
+Ceará,2313906,Uruoca,0,0,0
+Ceará,2313955,Varjota,0,0,0
+Ceará,2314003,Várzea Alegre,0,0,0
+Ceará,2314102,Viçosa do Ceará,0,0,0
+Rio Grande do Norte,2400109,Acari,0,0,0
+Rio Grande do Norte,2400208,Açu,0,0,0
+Rio Grande do Norte,2400307,Afonso Bezerra,0,0,0
+Rio Grande do Norte,2400406,Água Nova,0,0,0
+Rio Grande do Norte,2400505,Alexandria,0,0,0
+Rio Grande do Norte,2400604,Almino Afonso,0,0,0
+Rio Grande do Norte,2400703,Alto do Rodrigues,0,0,0
+Rio Grande do Norte,2400802,Angicos,0,0,0
+Rio Grande do Norte,2400901,Antônio Martins,0,0,0
+Rio Grande do Norte,2401008,Apodi,0,0,0
+Rio Grande do Norte,2401107,Areia Branca,0,0,0
+Rio Grande do Norte,2401206,Arês,0,0,0
+Rio Grande do Norte,2401305,Augusto Severo,0,0,0
+Rio Grande do Norte,2401404,Baía Formosa,0,0,0
+Rio Grande do Norte,2401453,Baraúna,0,0,0
+Rio Grande do Norte,2401503,Barcelona,0,0,0
+Rio Grande do Norte,2401602,Bento Fernandes,0,0,0
+Rio Grande do Norte,2401651,Bodó,0,0,0
+Rio Grande do Norte,2401701,Bom Jesus,0,0,0
+Rio Grande do Norte,2401800,Brejinho,0,0,0
+Rio Grande do Norte,2401859,Caiçara do Norte,0,0,0
+Rio Grande do Norte,2401909,Caiçara do Rio do Vento,0,0,0
+Rio Grande do Norte,2402006,Caicó,0,0,0
+Rio Grande do Norte,2402105,Campo Redondo,0,0,0
+Rio Grande do Norte,2402204,Canguaretama,0,0,0
+Rio Grande do Norte,2402303,Caraúbas,0,0,0
+Rio Grande do Norte,2402402,Carnaúba dos Dantas,0,0,0
+Rio Grande do Norte,2402501,Carnaubais,0,0,0
+Rio Grande do Norte,2402600,Ceará-Mirim,0,0,0
+Rio Grande do Norte,2402709,Cerro Corá,0,0,0
+Rio Grande do Norte,2402808,Coronel Ezequiel,0,0,0
+Rio Grande do Norte,2402907,Coronel João Pessoa,0,0,0
+Rio Grande do Norte,2403004,Cruzeta,0,0,0
+Rio Grande do Norte,2403103,Currais Novos,0,0,0
+Rio Grande do Norte,2403202,Doutor Severiano,0,0,0
+Rio Grande do Norte,2403251,Parnamirim,17,12,412
+Rio Grande do Norte,2403301,Encanto,0,0,0
+Rio Grande do Norte,2403400,Equador,0,0,0
+Rio Grande do Norte,2403509,Espírito Santo,0,0,0
+Rio Grande do Norte,2403608,Extremoz,0,0,0
+Rio Grande do Norte,2403707,Felipe Guerra,0,0,0
+Rio Grande do Norte,2403756,Fernando Pedroza,0,0,0
+Rio Grande do Norte,2403806,Florânia,0,0,0
+Rio Grande do Norte,2403905,Francisco Dantas,0,0,0
+Rio Grande do Norte,2404002,Frutuoso Gomes,0,0,0
+Rio Grande do Norte,2404101,Galinhos,0,0,0
+Rio Grande do Norte,2404200,Goianinha,0,0,0
+Rio Grande do Norte,2404309,Governador Dix-Sept Rosado,0,0,0
+Rio Grande do Norte,2404408,Grossos,0,0,0
+Rio Grande do Norte,2404507,Guamaré,0,0,0
+Rio Grande do Norte,2404606,Ielmo Marinho,0,0,0
+Rio Grande do Norte,2404705,Ipanguaçu,0,0,0
+Rio Grande do Norte,2404804,Ipueira,0,0,0
+Rio Grande do Norte,2404853,Itajá,0,0,0
+Rio Grande do Norte,2404903,Itaú,0,0,0
+Rio Grande do Norte,2405009,Jaçanã,0,0,0
+Rio Grande do Norte,2405108,Jandaíra,0,0,0
+Rio Grande do Norte,2405207,Janduís,0,0,0
+Rio Grande do Norte,2405306,Januário Cicco,0,0,0
+Rio Grande do Norte,2405405,Japi,0,0,0
+Rio Grande do Norte,2405504,Jardim de Angicos,0,0,0
+Rio Grande do Norte,2405603,Jardim de Piranhas,0,0,0
+Rio Grande do Norte,2405702,Jardim do Seridó,0,0,0
+Rio Grande do Norte,2405801,João Câmara,0,0,0
+Rio Grande do Norte,2405900,João Dias,0,0,0
+Rio Grande do Norte,2406007,José da Penha,0,0,0
+Rio Grande do Norte,2406106,Jucurutu,0,0,0
+Rio Grande do Norte,2406155,Jundiá,0,0,0
+Rio Grande do Norte,2406205,Lagoa d'Anta,0,0,0
+Rio Grande do Norte,2406304,Lagoa de Pedras,0,0,0
+Rio Grande do Norte,2406403,Lagoa de Velhos,0,0,0
+Rio Grande do Norte,2406502,Lagoa Nova,0,0,0
+Rio Grande do Norte,2406601,Lagoa Salgada,0,0,0
+Rio Grande do Norte,2406700,Lajes,0,0,0
+Rio Grande do Norte,2406809,Lajes Pintadas,0,0,0
+Rio Grande do Norte,2406908,Lucrécia,0,0,0
+Rio Grande do Norte,2407005,Luís Gomes,0,0,0
+Rio Grande do Norte,2407104,Macaíba,0,0,0
+Rio Grande do Norte,2407203,Macau,0,0,0
+Rio Grande do Norte,2407252,Major Sales,0,0,0
+Rio Grande do Norte,2407302,Marcelino Vieira,0,0,0
+Rio Grande do Norte,2407401,Martins,0,0,0
+Rio Grande do Norte,2407500,Maxaranguape,0,0,0
+Rio Grande do Norte,2407609,Messias Targino,0,0,0
+Rio Grande do Norte,2407708,Montanhas,0,0,0
+Rio Grande do Norte,2407807,Monte Alegre,0,0,0
+Rio Grande do Norte,2407906,Monte das Gameleiras,0,0,0
+Rio Grande do Norte,2408003,Mossoró,73,60,2341
+Rio Grande do Norte,2408102,Natal,0,0,0
+Rio Grande do Norte,2408201,Nísia Floresta,0,0,0
+Rio Grande do Norte,2408300,Nova Cruz,0,0,0
+Rio Grande do Norte,2408409,Olho d'Água do Borges,0,0,0
+Rio Grande do Norte,2408508,Ouro Branco,0,0,0
+Rio Grande do Norte,2408607,Paraná,0,0,0
+Rio Grande do Norte,2408706,Paraú,0,0,0
+Rio Grande do Norte,2408805,Parazinho,0,0,0
+Rio Grande do Norte,2408904,Parelhas,0,0,0
+Rio Grande do Norte,2408953,Rio do Fogo,0,0,0
+Rio Grande do Norte,2409100,Passa e Fica,0,0,0
+Rio Grande do Norte,2409209,Passagem,0,0,0
+Rio Grande do Norte,2409308,Patu,0,0,0
+Rio Grande do Norte,2409332,Santa Maria,0,0,0
+Rio Grande do Norte,2409407,Pau dos Ferros,0,0,0
+Rio Grande do Norte,2409506,Pedra Grande,0,0,0
+Rio Grande do Norte,2409605,Pedra Preta,0,0,0
+Rio Grande do Norte,2409704,Pedro Avelino,0,0,0
+Rio Grande do Norte,2409803,Pedro Velho,0,0,0
+Rio Grande do Norte,2409902,Pendências,0,0,0
+Rio Grande do Norte,2410009,Pilões,0,0,0
+Rio Grande do Norte,2410108,Poço Branco,0,0,0
+Rio Grande do Norte,2410207,Portalegre,0,0,0
+Rio Grande do Norte,2410256,Porto do Mangue,0,0,0
+Rio Grande do Norte,2410306,Serra Caiada,0,0,0
+Rio Grande do Norte,2410405,Pureza,0,0,0
+Rio Grande do Norte,2410504,Rafael Fernandes,0,0,0
+Rio Grande do Norte,2410603,Rafael Godeiro,0,0,0
+Rio Grande do Norte,2410702,Riacho da Cruz,0,0,0
+Rio Grande do Norte,2410801,Riacho de Santana,0,0,0
+Rio Grande do Norte,2410900,Riachuelo,0,0,0
+Rio Grande do Norte,2411007,Rodolfo Fernandes,0,0,0
+Rio Grande do Norte,2411056,Tibau,0,0,0
+Rio Grande do Norte,2411106,Ruy Barbosa,16,9,461
+Rio Grande do Norte,2411205,Santa Cruz,0,0,0
+Rio Grande do Norte,2411403,Santana do Matos,0,0,0
+Rio Grande do Norte,2411429,Santana do Seridó,0,0,0
+Rio Grande do Norte,2411502,Santo Antônio,0,0,0
+Rio Grande do Norte,2411601,São Bento do Norte,0,0,0
+Rio Grande do Norte,2411700,São Bento do Trairí,0,0,0
+Rio Grande do Norte,2411809,São Fernando,0,0,0
+Rio Grande do Norte,2411908,São Francisco do Oeste,0,0,0
+Rio Grande do Norte,2412005,São Gonçalo do Amarante,0,0,0
+Rio Grande do Norte,2412104,São João do Sabugi,0,0,0
+Rio Grande do Norte,2412203,São José de Mipibu,0,0,0
+Rio Grande do Norte,2412302,São José do Campestre,0,0,0
+Rio Grande do Norte,2412401,São José do Seridó,0,0,0
+Rio Grande do Norte,2412500,São Miguel,0,0,0
+Rio Grande do Norte,2412559,São Miguel do Gostoso,0,0,0
+Rio Grande do Norte,2412609,São Paulo do Potengi,0,0,0
+Rio Grande do Norte,2412708,São Pedro,0,0,0
+Rio Grande do Norte,2412807,São Rafael,0,0,0
+Rio Grande do Norte,2412906,São Tomé,0,0,0
+Rio Grande do Norte,2413003,São Vicente,475,21,908
+Rio Grande do Norte,2413102,Senador Elói de Souza,0,0,0
+Rio Grande do Norte,2413201,Senador Georgino Avelino,0,0,0
+Rio Grande do Norte,2413300,Serra de São Bento,0,0,0
+Rio Grande do Norte,2413359,Serra do Mel,0,0,0
+Rio Grande do Norte,2413409,Serra Negra do Norte,0,0,0
+Rio Grande do Norte,2413508,Serrinha,0,0,0
+Rio Grande do Norte,2413557,Serrinha dos Pintos,0,0,0
+Rio Grande do Norte,2413607,Severiano Melo,0,0,0
+Rio Grande do Norte,2413706,Sítio Novo,0,0,0
+Rio Grande do Norte,2413805,Taboleiro Grande,0,0,0
+Rio Grande do Norte,2413904,Taipu,0,0,0
+Rio Grande do Norte,2414001,Tangará,0,0,0
+Rio Grande do Norte,2414100,Tenente Ananias,0,0,0
+Rio Grande do Norte,2414159,Tenente Laurentino Cruz,0,0,0
+Rio Grande do Norte,2414209,Tibau do Sul,0,0,0
+Rio Grande do Norte,2414308,Timbaúba dos Batistas,0,0,0
+Rio Grande do Norte,2414407,Touros,0,0,0
+Rio Grande do Norte,2414456,Triunfo Potiguar,0,0,0
+Rio Grande do Norte,2414506,Umarizal,0,0,0
+Rio Grande do Norte,2414605,Upanema,0,0,0
+Rio Grande do Norte,2414704,Várzea,0,0,0
+Rio Grande do Norte,2414753,Venha-Ver,0,0,0
+Rio Grande do Norte,2414803,Vera Cruz,0,0,0
+Rio Grande do Norte,2414902,Viçosa,0,0,0
+Rio Grande do Norte,2415008,Vila Flor,0,0,0
+Paraíba,2500106,Água Branca,0,0,0
+Paraíba,2500205,Aguiar,0,0,0
+Paraíba,2500304,Alagoa Grande,0,0,0
+Paraíba,2500403,Alagoa Nova,0,0,0
+Paraíba,2500502,Alagoinha,0,0,0
+Paraíba,2500536,Alcantil,0,0,0
+Paraíba,2500577,Algodão de Jandaíra,0,0,0
+Paraíba,2500601,Alhandra,0,0,0
+Paraíba,2500700,São João do Rio do Peixe,0,0,0
+Paraíba,2500734,Amparo,0,0,0
+Paraíba,2500775,Aparecida,0,0,0
+Paraíba,2500809,Araçagi,0,0,0
+Paraíba,2500908,Arara,0,0,0
+Paraíba,2501005,Araruna,0,0,0
+Paraíba,2501104,Areia,0,0,0
+Paraíba,2501153,Areia de Baraúnas,0,0,0
+Paraíba,2501203,Areial,0,0,0
+Paraíba,2501302,Aroeiras,0,0,0
+Paraíba,2501351,Assunção,0,0,0
+Paraíba,2501401,Baía da Traição,0,0,0
+Paraíba,2501500,Bananeiras,0,0,0
+Paraíba,2501534,Baraúna,0,0,0
+Paraíba,2501575,Barra de Santana,0,0,0
+Paraíba,2501609,Barra de Santa Rosa,0,0,0
+Paraíba,2501708,Barra de São Miguel,0,0,0
+Paraíba,2501807,Bayeux,0,0,0
+Paraíba,2501906,Belém,519,65,2131
+Paraíba,2502003,Belém do Brejo do Cruz,0,0,0
+Paraíba,2502052,Bernardino Batista,0,0,0
+Paraíba,2502102,Boa Ventura,0,0,0
+Paraíba,2502151,Boa Vista,0,0,0
+Paraíba,2502201,Bom Jesus,0,0,0
+Paraíba,2502300,Bom Sucesso,0,0,0
+Paraíba,2502409,Bonito de Santa Fé,0,0,0
+Paraíba,2502508,Boqueirão,0,0,0
+Paraíba,2502607,Igaracy,0,0,0
+Paraíba,2502706,Borborema,0,0,0
+Paraíba,2502805,Brejo do Cruz,0,0,0
+Paraíba,2502904,Brejo dos Santos,0,0,0
+Paraíba,2503001,Caaporã,0,0,0
+Paraíba,2503100,Cabaceiras,0,0,0
+Paraíba,2503209,Cabedelo,0,0,0
+Paraíba,2503308,Cachoeira dos Índios,0,0,0
+Paraíba,2503407,Cacimba de Areia,0,0,0
+Paraíba,2503506,Cacimba de Dentro,0,0,0
+Paraíba,2503555,Cacimbas,0,0,0
+Paraíba,2503605,Caiçara,0,0,0
+Paraíba,2503704,Cajazeiras,0,0,0
+Paraíba,2503753,Cajazeirinhas,0,0,0
+Paraíba,2503803,Caldas Brandão,0,0,0
+Paraíba,2503902,Camalaú,0,0,0
+Paraíba,2504009,Campina Grande,0,0,0
+Paraíba,2504033,Capim,0,0,0
+Paraíba,2504074,Caraúbas,0,0,0
+Paraíba,2504108,Carrapateira,0,0,0
+Paraíba,2504157,Casserengue,0,0,0
+Paraíba,2504207,Catingueira,0,0,0
+Paraíba,2504306,Catolé do Rocha,0,0,0
+Paraíba,2504355,Caturité,0,0,0
+Paraíba,2504405,Conceição,0,0,0
+Paraíba,2504504,Condado,0,0,0
+Paraíba,2504603,Conde,0,0,0
+Paraíba,2504702,Congo,0,0,0
+Paraíba,2504801,Coremas,0,0,0
+Paraíba,2504850,Coxixola,0,0,0
+Paraíba,2504900,Cruz do Espírito Santo,0,0,0
+Paraíba,2505006,Cubati,0,0,0
+Paraíba,2505105,Cuité,0,0,0
+Paraíba,2505204,Cuitegi,0,0,0
+Paraíba,2505238,Cuité de Mamanguape,0,0,0
+Paraíba,2505279,Curral de Cima,0,0,0
+Paraíba,2505303,Curral Velho,0,0,0
+Paraíba,2505352,Damião,0,0,0
+Paraíba,2505402,Desterro,0,0,0
+Paraíba,2505501,Vista Serrana,0,0,0
+Paraíba,2505600,Diamante,0,0,0
+Paraíba,2505709,Dona Inês,0,0,0
+Paraíba,2505808,Duas Estradas,0,0,0
+Paraíba,2505907,Emas,0,0,0
+Paraíba,2506004,Esperança,0,0,0
+Paraíba,2506103,Fagundes,0,0,0
+Paraíba,2506202,Frei Martinho,0,0,0
+Paraíba,2506251,Gado Bravo,0,0,0
+Paraíba,2506301,Guarabira,0,0,0
+Paraíba,2506400,Gurinhém,0,0,0
+Paraíba,2506509,Gurjão,0,0,0
+Paraíba,2506608,Ibiara,0,0,0
+Paraíba,2506707,Imaculada,0,0,0
+Paraíba,2506806,Ingá,0,0,0
+Paraíba,2506905,Itabaiana,0,0,0
+Paraíba,2507002,Itaporanga,0,0,0
+Paraíba,2507101,Itapororoca,0,0,0
+Paraíba,2507200,Itatuba,0,0,0
+Paraíba,2507309,Jacaraú,0,0,0
+Paraíba,2507408,Jericó,0,0,0
+Paraíba,2507507,João Pessoa,0,0,0
+Paraíba,2507606,Juarez Távora,0,0,0
+Paraíba,2507705,Juazeirinho,0,0,0
+Paraíba,2507804,Junco do Seridó,0,0,0
+Paraíba,2507903,Juripiranga,0,0,0
+Paraíba,2508000,Juru,0,0,0
+Paraíba,2508109,Lagoa,0,0,0
+Paraíba,2508208,Lagoa de Dentro,0,0,0
+Paraíba,2508307,Lagoa Seca,0,0,0
+Paraíba,2508406,Lastro,0,0,0
+Paraíba,2508505,Livramento,0,0,0
+Paraíba,2508554,Logradouro,0,0,0
+Paraíba,2508604,Lucena,0,0,0
+Paraíba,2508703,Mãe d'Água,0,0,0
+Paraíba,2508802,Malta,0,0,0
+Paraíba,2508901,Mamanguape,0,0,0
+Paraíba,2509008,Manaíra,0,0,0
+Paraíba,2509057,Marcação,0,0,0
+Paraíba,2509107,Mari,0,0,0
+Paraíba,2509156,Marizópolis,0,0,0
+Paraíba,2509206,Massaranduba,0,0,0
+Paraíba,2509305,Mataraca,0,0,0
+Paraíba,2509339,Matinhas,0,0,0
+Paraíba,2509370,Mato Grosso,0,0,0
+Paraíba,2509396,Maturéia,0,0,0
+Paraíba,2509404,Mogeiro,0,0,0
+Paraíba,2509503,Montadas,0,0,0
+Paraíba,2509602,Monte Horebe,0,0,0
+Paraíba,2509701,Monteiro,0,0,0
+Paraíba,2509800,Mulungu,0,0,0
+Paraíba,2509909,Natuba,0,0,0
+Paraíba,2510006,Nazarezinho,0,0,0
+Paraíba,2510105,Nova Floresta,0,0,0
+Paraíba,2510204,Nova Olinda,0,0,0
+Paraíba,2510303,Nova Palmeira,0,0,0
+Paraíba,2510402,Olho d'Água,0,0,0
+Paraíba,2510501,Olivedos,0,0,0
+Paraíba,2510600,Ouro Velho,0,0,0
+Paraíba,2510659,Parari,0,0,0
+Paraíba,2510709,Passagem,0,0,0
+Paraíba,2510808,Patos,0,0,0
+Paraíba,2510907,Paulista,0,0,0
+Paraíba,2511004,Pedra Branca,0,0,0
+Paraíba,2511103,Pedra Lavrada,0,0,0
+Paraíba,2511202,Pedras de Fogo,0,0,0
+Paraíba,2511301,Piancó,0,0,0
+Paraíba,2511400,Picuí,0,0,0
+Paraíba,2511509,Pilar,0,0,0
+Paraíba,2511608,Pilões,0,0,0
+Paraíba,2511707,Pilõezinhos,0,0,0
+Paraíba,2511806,Pirpirituba,0,0,0
+Paraíba,2511905,Pitimbu,0,0,0
+Paraíba,2512002,Pocinhos,0,0,0
+Paraíba,2512036,Poço Dantas,0,0,0
+Paraíba,2512077,Poço de José de Moura,0,0,0
+Paraíba,2512101,Pombal,0,0,0
+Paraíba,2512200,Prata,0,0,0
+Paraíba,2512309,Princesa Isabel,0,0,0
+Paraíba,2512408,Puxinanã,0,0,0
+Paraíba,2512507,Queimadas,0,0,0
+Paraíba,2512606,Quixaba,0,0,0
+Paraíba,2512705,Remígio,0,0,0
+Paraíba,2512721,Pedro Régis,0,0,0
+Paraíba,2512747,Riachão,0,0,0
+Paraíba,2512754,Riachão do Bacamarte,0,0,0
+Paraíba,2512762,Riachão do Poço,0,0,0
+Paraíba,2512788,Riacho de Santo Antônio,0,0,0
+Paraíba,2512804,Riacho dos Cavalos,0,0,0
+Paraíba,2512903,Rio Tinto,0,0,0
+Paraíba,2513000,Salgadinho,0,0,0
+Paraíba,2513109,Salgado de São Félix,0,0,0
+Paraíba,2513158,Santa Cecília,0,0,0
+Paraíba,2513208,Santa Cruz,0,0,0
+Paraíba,2513307,Santa Helena,0,0,0
+Paraíba,2513356,Santa Inês,0,0,0
+Paraíba,2513406,Santa Luzia,0,0,0
+Paraíba,2513505,Santana de Mangueira,0,0,0
+Paraíba,2513604,Santana dos Garrotes,0,0,0
+Paraíba,2513653,Joca Claudino,0,0,0
+Paraíba,2513703,Santa Rita,0,0,0
+Paraíba,2513802,Santa Teresinha,0,0,0
+Paraíba,2513851,Santo André,63,27,995
+Paraíba,2513901,São Bento,0,0,0
+Paraíba,2513927,São Bentinho,0,0,0
+Paraíba,2513943,São Domingos do Cariri,0,0,0
+Paraíba,2513968,São Domingos,0,0,0
+Paraíba,2513984,São Francisco,0,0,0
+Paraíba,2514008,São João do Cariri,0,0,0
+Paraíba,2514107,São João do Tigre,0,0,0
+Paraíba,2514206,São José da Lagoa Tapada,0,0,0
+Paraíba,2514305,São José de Caiana,0,0,0
+Paraíba,2514404,São José de Espinharas,0,0,0
+Paraíba,2514453,São José dos Ramos,0,0,0
+Paraíba,2514503,São José de Piranhas,0,0,0
+Paraíba,2514552,São José de Princesa,0,0,0
+Paraíba,2514602,São José do Bonfim,0,0,0
+Paraíba,2514651,São José do Brejo do Cruz,0,0,0
+Paraíba,2514701,São José do Sabugi,0,0,0
+Paraíba,2514800,São José dos Cordeiros,0,0,0
+Paraíba,2514909,São Mamede,0,0,0
+Paraíba,2515005,São Miguel de Taipu,0,0,0
+Paraíba,2515104,São Sebastião de Lagoa de Roça,0,0,0
+Paraíba,2515203,São Sebastião do Umbuzeiro,0,0,0
+Paraíba,2515302,Sapé,0,0,0
+Paraíba,2515401,São Vicente do Seridó,0,0,0
+Paraíba,2515500,Serra Branca,0,0,0
+Paraíba,2515609,Serra da Raiz,0,0,0
+Paraíba,2515708,Serra Grande,0,0,0
+Paraíba,2515807,Serra Redonda,0,0,0
+Paraíba,2515906,Serraria,0,0,0
+Paraíba,2515930,Sertãozinho,0,0,0
+Paraíba,2515971,Sobrado,0,0,0
+Paraíba,2516003,Solânea,0,0,0
+Paraíba,2516102,Soledade,0,0,0
+Paraíba,2516151,Sossêgo,0,0,0
+Paraíba,2516201,Sousa,0,0,0
+Paraíba,2516300,Sumé,0,0,0
+Paraíba,2516409,Tacima,0,0,0
+Paraíba,2516508,Taperoá,0,0,0
+Paraíba,2516607,Tavares,0,0,0
+Paraíba,2516706,Teixeira,0,0,0
+Paraíba,2516755,Tenório,0,0,0
+Paraíba,2516805,Triunfo,0,0,0
+Paraíba,2516904,Uiraúna,0,0,0
+Paraíba,2517001,Umbuzeiro,0,0,0
+Paraíba,2517100,Várzea,0,0,0
+Paraíba,2517209,Vieirópolis,0,0,0
+Paraíba,2517407,Zabelê,0,0,0
+Pernambuco,2600054,Abreu e Lima,0,0,0
+Pernambuco,2600104,Afogados da Ingazeira,0,0,0
+Pernambuco,2600203,Afrânio,0,0,0
+Pernambuco,2600302,Agrestina,0,0,0
+Pernambuco,2600401,Água Preta,0,0,0
+Pernambuco,2600500,Águas Belas,0,0,0
+Pernambuco,2600609,Alagoinha,0,0,0
+Pernambuco,2600708,Aliança,0,0,0
+Pernambuco,2600807,Altinho,0,0,0
+Pernambuco,2600906,Amaraji,0,0,0
+Pernambuco,2601003,Angelim,0,0,0
+Pernambuco,2601052,Araçoiaba,0,0,0
+Pernambuco,2601102,Araripina,0,0,0
+Pernambuco,2601201,Arcoverde,0,0,0
+Pernambuco,2601300,Barra de Guabiraba,0,0,0
+Pernambuco,2601409,Barreiros,0,0,0
+Pernambuco,2601508,Belém de Maria,0,0,0
+Pernambuco,2601607,Belém do São Francisco,0,0,0
+Pernambuco,2601706,Belo Jardim,0,0,0
+Pernambuco,2601805,Betânia,0,0,0
+Pernambuco,2601904,Bezerros,0,0,0
+Pernambuco,2602001,Bodocó,0,0,0
+Pernambuco,2602100,Bom Conselho,0,0,0
+Pernambuco,2602209,Bom Jardim,0,0,0
+Pernambuco,2602308,Bonito,0,0,0
+Pernambuco,2602407,Brejão,0,0,0
+Pernambuco,2602506,Brejinho,0,0,0
+Pernambuco,2602605,Brejo da Madre de Deus,0,0,0
+Pernambuco,2602704,Buenos Aires,0,0,0
+Pernambuco,2602803,Buíque,0,0,0
+Pernambuco,2602902,Cabo de Santo Agostinho,0,0,0
+Pernambuco,2603009,Cabrobó,0,0,0
+Pernambuco,2603108,Cachoeirinha,0,0,0
+Pernambuco,2603207,Caetés,0,0,0
+Pernambuco,2603306,Calçado,0,0,0
+Pernambuco,2603405,Calumbi,0,0,0
+Pernambuco,2603454,Camaragibe,0,0,0
+Pernambuco,2603504,Camocim de São Félix,0,0,0
+Pernambuco,2603603,Camutanga,0,0,0
+Pernambuco,2603702,Canhotinho,0,0,0
+Pernambuco,2603801,Capoeiras,0,0,0
+Pernambuco,2603900,Carnaíba,0,0,0
+Pernambuco,2603926,Carnaubeira da Penha,0,0,0
+Pernambuco,2604007,Carpina,0,0,0
+Pernambuco,2604106,Caruaru,0,0,0
+Pernambuco,2604155,Casinhas,0,0,0
+Pernambuco,2604205,Catende,0,0,0
+Pernambuco,2604304,Cedro,0,0,0
+Pernambuco,2604403,Chã de Alegria,0,0,0
+Pernambuco,2604502,Chã Grande,0,0,0
+Pernambuco,2604601,Condado,0,0,0
+Pernambuco,2604700,Correntes,0,0,0
+Pernambuco,2604809,Cortês,0,0,0
+Pernambuco,2604908,Cumaru,0,0,0
+Pernambuco,2605004,Cupira,0,0,0
+Pernambuco,2605103,Custódia,0,0,0
+Pernambuco,2605152,Dormentes,0,0,0
+Pernambuco,2605202,Escada,0,0,0
+Pernambuco,2605301,Exu,0,0,0
+Pernambuco,2605400,Feira Nova,0,0,0
+Pernambuco,2605459,Fernando de Noronha,0,0,0
+Pernambuco,2605509,Ferreiros,0,0,0
+Pernambuco,2605608,Flores,0,0,0
+Pernambuco,2605707,Floresta,0,0,0
+Pernambuco,2605806,Frei Miguelinho,0,0,0
+Pernambuco,2605905,Gameleira,0,0,0
+Pernambuco,2606002,Garanhuns,3,2,46
+Pernambuco,2606101,Glória do Goitá,0,0,0
+Pernambuco,2606200,Goiana,0,0,0
+Pernambuco,2606309,Granito,0,0,0
+Pernambuco,2606408,Gravatá,0,0,0
+Pernambuco,2606507,Iati,0,0,0
+Pernambuco,2606606,Ibimirim,0,0,0
+Pernambuco,2606705,Ibirajuba,0,0,0
+Pernambuco,2606804,Igarassu,0,0,0
+Pernambuco,2606903,Iguaracy,0,0,0
+Pernambuco,2607000,Inajá,0,0,0
+Pernambuco,2607109,Ingazeira,0,0,0
+Pernambuco,2607208,Ipojuca,0,0,0
+Pernambuco,2607307,Ipubi,0,0,0
+Pernambuco,2607406,Itacuruba,0,0,0
+Pernambuco,2607505,Itaíba,0,0,0
+Pernambuco,2607604,Ilha de Itamaracá,0,0,0
+Pernambuco,2607653,Itambé,0,0,0
+Pernambuco,2607703,Itapetim,0,0,0
+Pernambuco,2607752,Itapissuma,11,10,466
+Pernambuco,2607802,Itaquitinga,0,0,0
+Pernambuco,2607901,Jaboatão dos Guararapes,0,0,0
+Pernambuco,2607950,Jaqueira,0,0,0
+Pernambuco,2608008,Jataúba,0,0,0
+Pernambuco,2608057,Jatobá,0,0,0
+Pernambuco,2608107,João Alfredo,0,0,0
+Pernambuco,2608206,Joaquim Nabuco,0,0,0
+Pernambuco,2608255,Jucati,0,0,0
+Pernambuco,2608305,Jupi,0,0,0
+Pernambuco,2608404,Jurema,0,0,0
+Pernambuco,2608453,Lagoa do Carro,0,0,0
+Pernambuco,2608503,Lagoa de Itaenga,0,0,0
+Pernambuco,2608602,Lagoa do Ouro,0,0,0
+Pernambuco,2608701,Lagoa dos Gatos,0,0,0
+Pernambuco,2608750,Lagoa Grande,0,0,0
+Pernambuco,2608800,Lajedo,0,0,0
+Pernambuco,2608909,Limoeiro,0,0,0
+Pernambuco,2609006,Macaparana,0,0,0
+Pernambuco,2609105,Machados,0,0,0
+Pernambuco,2609154,Manari,0,0,0
+Pernambuco,2609204,Maraial,0,0,0
+Pernambuco,2609303,Mirandiba,0,0,0
+Pernambuco,2609402,Moreno,0,0,0
+Pernambuco,2609501,Nazaré da Mata,0,0,0
+Pernambuco,2609600,Olinda,0,0,0
+Pernambuco,2609709,Orobó,0,0,0
+Pernambuco,2609808,Orocó,0,0,0
+Pernambuco,2609907,Ouricuri,0,0,0
+Pernambuco,2610004,Palmares,0,0,0
+Pernambuco,2610103,Palmeirina,0,0,0
+Pernambuco,2610202,Panelas,0,0,0
+Pernambuco,2610301,Paranatama,0,0,0
+Pernambuco,2610400,Parnamirim,17,12,412
+Pernambuco,2610509,Passira,0,0,0
+Pernambuco,2610608,Paudalho,0,0,0
+Pernambuco,2610707,Paulista,0,0,0
+Pernambuco,2610806,Pedra,0,0,0
+Pernambuco,2610905,Pesqueira,0,0,0
+Pernambuco,2611002,Petrolândia,0,0,0
+Pernambuco,2611101,Petrolina,0,0,0
+Pernambuco,2611200,Poção,0,0,0
+Pernambuco,2611309,Pombos,0,0,0
+Pernambuco,2611408,Primavera,0,0,0
+Pernambuco,2611507,Quipapá,0,0,0
+Pernambuco,2611533,Quixaba,0,0,0
+Pernambuco,2611606,Recife,289,24,900
+Pernambuco,2611705,Riacho das Almas,0,0,0
+Pernambuco,2611804,Ribeirão,0,0,0
+Pernambuco,2611903,Rio Formoso,0,0,0
+Pernambuco,2612000,Sairé,0,0,0
+Pernambuco,2612109,Salgadinho,0,0,0
+Pernambuco,2612208,Salgueiro,0,0,0
+Pernambuco,2612307,Saloá,0,0,0
+Pernambuco,2612406,Sanharó,0,0,0
+Pernambuco,2612455,Santa Cruz,0,0,0
+Pernambuco,2612471,Santa Cruz da Baixa Verde,0,0,0
+Pernambuco,2612505,Santa Cruz do Capibaribe,0,0,0
+Pernambuco,2612554,Santa Filomena,0,0,0
+Pernambuco,2612604,Santa Maria da Boa Vista,0,0,0
+Pernambuco,2612703,Santa Maria do Cambucá,0,0,0
+Pernambuco,2612802,Santa Terezinha,0,0,0
+Pernambuco,2612901,São Benedito do Sul,0,0,0
+Pernambuco,2613008,São Bento do Una,0,0,0
+Pernambuco,2613107,São Caitano,0,0,0
+Pernambuco,2613206,São João,0,0,0
+Pernambuco,2613305,São Joaquim do Monte,0,0,0
+Pernambuco,2613404,São José da Coroa Grande,0,0,0
+Pernambuco,2613503,São José do Belmonte,0,0,0
+Pernambuco,2613602,São José do Egito,0,0,0
+Pernambuco,2613701,São Lourenço da Mata,0,0,0
+Pernambuco,2613800,São Vicente Férrer,0,0,0
+Pernambuco,2613909,Serra Talhada,0,0,0
+Pernambuco,2614006,Serrita,0,0,0
+Pernambuco,2614105,Sertânia,0,0,0
+Pernambuco,2614204,Sirinhaém,0,0,0
+Pernambuco,2614303,Moreilândia,0,0,0
+Pernambuco,2614402,Solidão,0,0,0
+Pernambuco,2614501,Surubim,0,0,0
+Pernambuco,2614600,Tabira,0,0,0
+Pernambuco,2614709,Tacaimbó,0,0,0
+Pernambuco,2614808,Tacaratu,0,0,0
+Pernambuco,2614857,Tamandaré,0,0,0
+Pernambuco,2615003,Taquaritinga do Norte,0,0,0
+Pernambuco,2615102,Terezinha,0,0,0
+Pernambuco,2615201,Terra Nova,0,0,0
+Pernambuco,2615300,Timbaúba,0,0,0
+Pernambuco,2615409,Toritama,0,0,0
+Pernambuco,2615508,Tracunhaém,0,0,0
+Pernambuco,2615607,Trindade,0,0,0
+Pernambuco,2615706,Triunfo,0,0,0
+Pernambuco,2615805,Tupanatinga,0,0,0
+Pernambuco,2615904,Tuparetama,0,0,0
+Pernambuco,2616001,Venturosa,0,0,0
+Pernambuco,2616100,Verdejante,0,0,0
+Pernambuco,2616183,Vertente do Lério,0,0,0
+Pernambuco,2616209,Vertentes,0,0,0
+Pernambuco,2616308,Vicência,0,0,0
+Pernambuco,2616407,Vitória de Santo Antão,0,0,0
+Pernambuco,2616506,Xexéu,0,0,0
+Alagoas,2700102,Água Branca,0,0,0
+Alagoas,2700201,Anadia,0,0,0
+Alagoas,2700300,Arapiraca,0,0,0
+Alagoas,2700409,Atalaia,0,0,0
+Alagoas,2700508,Barra de Santo Antônio,0,0,0
+Alagoas,2700607,Barra de São Miguel,0,0,0
+Alagoas,2700706,Batalha,0,0,0
+Alagoas,2700805,Belém,519,65,2131
+Alagoas,2700904,Belo Monte,0,0,0
+Alagoas,2701001,Boca da Mata,0,0,0
+Alagoas,2701100,Branquinha,0,0,0
+Alagoas,2701209,Cacimbinhas,0,0,0
+Alagoas,2701308,Cajueiro,0,0,0
+Alagoas,2701357,Campestre,0,0,0
+Alagoas,2701407,Campo Alegre,0,0,0
+Alagoas,2701506,Campo Grande,149,26,945
+Alagoas,2701605,Canapi,0,0,0
+Alagoas,2701704,Capela,0,0,0
+Alagoas,2701803,Carneiros,0,0,0
+Alagoas,2701902,Chã Preta,0,0,0
+Alagoas,2702009,Coité do Nóia,0,0,0
+Alagoas,2702108,Colônia Leopoldina,0,0,0
+Alagoas,2702207,Coqueiro Seco,0,0,0
+Alagoas,2702306,Coruripe,0,0,0
+Alagoas,2702355,Craíbas,0,0,0
+Alagoas,2702405,Delmiro Gouveia,0,0,0
+Alagoas,2702504,Dois Riachos,0,0,0
+Alagoas,2702553,Estrela de Alagoas,0,0,0
+Alagoas,2702603,Feira Grande,0,0,0
+Alagoas,2702702,Feliz Deserto,0,0,0
+Alagoas,2702801,Flexeiras,0,0,0
+Alagoas,2702900,Girau do Ponciano,0,0,0
+Alagoas,2703007,Ibateguara,0,0,0
+Alagoas,2703106,Igaci,0,0,0
+Alagoas,2703205,Igreja Nova,0,0,0
+Alagoas,2703304,Inhapi,0,0,0
+Alagoas,2703403,Jacaré dos Homens,0,0,0
+Alagoas,2703502,Jacuípe,0,0,0
+Alagoas,2703601,Japaratinga,0,0,0
+Alagoas,2703700,Jaramataia,0,0,0
+Alagoas,2703759,Jequiá da Praia,0,0,0
+Alagoas,2703809,Joaquim Gomes,0,0,0
+Alagoas,2703908,Jundiá,0,0,0
+Alagoas,2704005,Junqueiro,0,0,0
+Alagoas,2704104,Lagoa da Canoa,0,0,0
+Alagoas,2704203,Limoeiro de Anadia,0,0,0
+Alagoas,2704302,Maceió,0,0,0
+Alagoas,2704401,Major Isidoro,0,0,0
+Alagoas,2704500,Maragogi,0,0,0
+Alagoas,2704609,Maravilha,0,0,0
+Alagoas,2704708,Marechal Deodoro,0,0,0
+Alagoas,2704807,Maribondo,0,0,0
+Alagoas,2704906,Mar Vermelho,0,0,0
+Alagoas,2705002,Mata Grande,0,0,0
+Alagoas,2705101,Matriz de Camaragibe,0,0,0
+Alagoas,2705200,Messias,0,0,0
+Alagoas,2705309,Minador do Negrão,0,0,0
+Alagoas,2705408,Monteirópolis,0,0,0
+Alagoas,2705507,Murici,0,0,0
+Alagoas,2705606,Novo Lino,0,0,0
+Alagoas,2705705,Olho d'Água das Flores,0,0,0
+Alagoas,2705804,Olho d'Água do Casado,0,0,0
+Alagoas,2705903,Olho d'Água Grande,0,0,0
+Alagoas,2706000,Olivença,0,0,0
+Alagoas,2706109,Ouro Branco,0,0,0
+Alagoas,2706208,Palestina,0,0,0
+Alagoas,2706307,Palmeira dos Índios,0,0,0
+Alagoas,2706406,Pão de Açúcar,0,0,0
+Alagoas,2706422,Pariconha,0,0,0
+Alagoas,2706448,Paripueira,0,0,0
+Alagoas,2706505,Passo de Camaragibe,0,0,0
+Alagoas,2706604,Paulo Jacinto,0,0,0
+Alagoas,2706703,Penedo,0,0,0
+Alagoas,2706802,Piaçabuçu,0,0,0
+Alagoas,2706901,Pilar,0,0,0
+Alagoas,2707008,Pindoba,0,0,0
+Alagoas,2707107,Piranhas,0,0,0
+Alagoas,2707206,Poço das Trincheiras,0,0,0
+Alagoas,2707305,Porto Calvo,0,0,0
+Alagoas,2707404,Porto de Pedras,0,0,0
+Alagoas,2707503,Porto Real do Colégio,0,0,0
+Alagoas,2707602,Quebrangulo,0,0,0
+Alagoas,2707701,Rio Largo,0,0,0
+Alagoas,2707800,Roteiro,0,0,0
+Alagoas,2707909,Santa Luzia do Norte,0,0,0
+Alagoas,2708006,Santana do Ipanema,0,0,0
+Alagoas,2708105,Santana do Mundaú,0,0,0
+Alagoas,2708204,São Brás,0,0,0
+Alagoas,2708303,São José da Laje,0,0,0
+Alagoas,2708402,São José da Tapera,0,0,0
+Alagoas,2708501,São Luís do Quitunde,0,0,0
+Alagoas,2708600,São Miguel dos Campos,0,0,0
+Alagoas,2708709,São Miguel dos Milagres,0,0,0
+Alagoas,2708808,São Sebastião,0,0,0
+Alagoas,2708907,Satuba,0,0,0
+Alagoas,2708956,Senador Rui Palmeira,0,0,0
+Alagoas,2709004,Tanque d'Arca,0,0,0
+Alagoas,2709103,Taquarana,0,0,0
+Alagoas,2709152,Teotônio Vilela,0,0,0
+Alagoas,2709202,Traipu,0,0,0
+Alagoas,2709301,União dos Palmares,0,0,0
+Alagoas,2709400,Viçosa,0,0,0
+Sergipe,2800100,Amparo de São Francisco,0,0,0
+Sergipe,2800209,Aquidabã,0,0,0
+Sergipe,2800308,Aracaju,0,0,0
+Sergipe,2800407,Arauá,0,0,0
+Sergipe,2800506,Areia Branca,0,0,0
+Sergipe,2800605,Barra dos Coqueiros,0,0,0
+Sergipe,2800670,Boquim,0,0,0
+Sergipe,2800704,Brejo Grande,0,0,0
+Sergipe,2801009,Campo do Brito,0,0,0
+Sergipe,2801108,Canhoba,0,0,0
+Sergipe,2801207,Canindé de São Francisco,0,0,0
+Sergipe,2801306,Capela,0,0,0
+Sergipe,2801405,Carira,0,0,0
+Sergipe,2801504,Carmópolis,0,0,0
+Sergipe,2801603,Cedro de São João,0,0,0
+Sergipe,2801702,Cristinápolis,0,0,0
+Sergipe,2801900,Cumbe,0,0,0
+Sergipe,2802007,Divina Pastora,0,0,0
+Sergipe,2802106,Estância,0,0,0
+Sergipe,2802205,Feira Nova,0,0,0
+Sergipe,2802304,Frei Paulo,0,0,0
+Sergipe,2802403,Gararu,0,0,0
+Sergipe,2802502,General Maynard,0,0,0
+Sergipe,2802601,Gracho Cardoso,0,0,0
+Sergipe,2802700,Ilha das Flores,0,0,0
+Sergipe,2802809,Indiaroba,0,0,0
+Sergipe,2802908,Itabaiana,0,0,0
+Sergipe,2803005,Itabaianinha,0,0,0
+Sergipe,2803104,Itabi,0,0,0
+Sergipe,2803203,Itaporanga d'Ajuda,0,0,0
+Sergipe,2803302,Japaratuba,0,0,0
+Sergipe,2803401,Japoatã,0,0,0
+Sergipe,2803500,Lagarto,0,0,0
+Sergipe,2803609,Laranjeiras,0,0,0
+Sergipe,2803708,Macambira,0,0,0
+Sergipe,2803807,Malhada dos Bois,0,0,0
+Sergipe,2803906,Malhador,0,0,0
+Sergipe,2804003,Maruim,0,0,0
+Sergipe,2804102,Moita Bonita,0,0,0
+Sergipe,2804201,Monte Alegre de Sergipe,0,0,0
+Sergipe,2804300,Muribeca,0,0,0
+Sergipe,2804409,Neópolis,0,0,0
+Sergipe,2804458,Nossa Senhora Aparecida,0,0,0
+Sergipe,2804508,Nossa Senhora da Glória,0,0,0
+Sergipe,2804607,Nossa Senhora das Dores,0,0,0
+Sergipe,2804706,Nossa Senhora de Lourdes,0,0,0
+Sergipe,2804805,Nossa Senhora do Socorro,0,0,0
+Sergipe,2804904,Pacatuba,0,0,0
+Sergipe,2805000,Pedra Mole,0,0,0
+Sergipe,2805109,Pedrinhas,0,0,0
+Sergipe,2805208,Pinhão,0,0,0
+Sergipe,2805307,Pirambu,0,0,0
+Sergipe,2805406,Poço Redondo,0,0,0
+Sergipe,2805505,Poço Verde,0,0,0
+Sergipe,2805604,Porto da Folha,0,0,0
+Sergipe,2805703,Propriá,0,0,0
+Sergipe,2805802,Riachão do Dantas,0,0,0
+Sergipe,2805901,Riachuelo,0,0,0
+Sergipe,2806008,Ribeirópolis,0,0,0
+Sergipe,2806107,Rosário do Catete,0,0,0
+Sergipe,2806206,Salgado,0,0,0
+Sergipe,2806305,Santa Luzia do Itanhy,0,0,0
+Sergipe,2806404,Santana do São Francisco,0,0,0
+Sergipe,2806503,Santa Rosa de Lima,0,0,0
+Sergipe,2806602,Santo Amaro das Brotas,0,0,0
+Sergipe,2806701,São Cristóvão,0,0,0
+Sergipe,2806800,São Domingos,0,0,0
+Sergipe,2806909,São Francisco,0,0,0
+Sergipe,2807006,São Miguel do Aleixo,0,0,0
+Sergipe,2807105,Simão Dias,0,0,0
+Sergipe,2807204,Siriri,0,0,0
+Sergipe,2807303,Telha,0,0,0
+Sergipe,2807402,Tobias Barreto,0,0,0
+Sergipe,2807501,Tomar do Geru,0,0,0
+Sergipe,2807600,Umbaúba,0,0,0
+Bahia,2900108,Abaíra,0,0,0
+Bahia,2900207,Abaré,0,0,0
+Bahia,2900306,Acajutiba,0,0,0
+Bahia,2900355,Adustina,0,0,0
+Bahia,2900405,Água Fria,0,0,0
+Bahia,2900504,Érico Cardoso,0,0,0
+Bahia,2900603,Aiquara,0,0,0
+Bahia,2900702,Alagoinhas,0,0,0
+Bahia,2900801,Alcobaça,0,0,0
+Bahia,2900900,Almadina,0,0,0
+Bahia,2901007,Amargosa,0,0,0
+Bahia,2901106,Amélia Rodrigues,0,0,0
+Bahia,2901155,América Dourada,0,0,0
+Bahia,2901205,Anagé,0,0,0
+Bahia,2901304,Andaraí,0,0,0
+Bahia,2901353,Andorinha,0,0,0
+Bahia,2901403,Angical,0,0,0
+Bahia,2901502,Anguera,0,0,0
+Bahia,2901601,Antas,0,0,0
+Bahia,2901700,Antônio Cardoso,0,0,0
+Bahia,2901809,Antônio Gonçalves,0,0,0
+Bahia,2901908,Aporá,0,0,0
+Bahia,2901957,Apuarema,0,0,0
+Bahia,2902005,Aracatu,0,0,0
+Bahia,2902054,Araçás,0,0,0
+Bahia,2902104,Araci,0,0,0
+Bahia,2902203,Aramari,0,0,0
+Bahia,2902252,Arataca,0,0,0
+Bahia,2902302,Aratuípe,0,0,0
+Bahia,2902401,Aurelino Leal,0,0,0
+Bahia,2902500,Baianópolis,0,0,0
+Bahia,2902609,Baixa Grande,0,0,0
+Bahia,2902658,Banzaê,0,0,0
+Bahia,2902708,Barra,0,0,0
+Bahia,2902807,Barra da Estiva,0,0,0
+Bahia,2902906,Barra do Choça,0,0,0
+Bahia,2903003,Barra do Mendes,0,0,0
+Bahia,2903102,Barra do Rocha,0,0,0
+Bahia,2903201,Barreiras,0,0,0
+Bahia,2903235,Barro Alto,0,0,0
+Bahia,2903276,Barrocas,0,0,0
+Bahia,2903300,Barro Preto,0,0,0
+Bahia,2903409,Belmonte,0,0,0
+Bahia,2903508,Belo Campo,0,0,0
+Bahia,2903607,Biritinga,0,0,0
+Bahia,2903706,Boa Nova,0,0,0
+Bahia,2903805,Boa Vista do Tupim,0,0,0
+Bahia,2903904,Bom Jesus da Lapa,0,0,0
+Bahia,2903953,Bom Jesus da Serra,0,0,0
+Bahia,2904001,Boninal,16,14,1105
+Bahia,2904050,Bonito,0,0,0
+Bahia,2904100,Boquira,0,0,0
+Bahia,2904209,Botuporã,0,0,0
+Bahia,2904308,Brejões,0,0,0
+Bahia,2904407,Brejolândia,0,0,0
+Bahia,2904506,Brotas de Macaúbas,0,0,0
+Bahia,2904605,Brumado,0,0,0
+Bahia,2904704,Buerarema,0,0,0
+Bahia,2904753,Buritirama,0,0,0
+Bahia,2904803,Caatiba,0,0,0
+Bahia,2904852,Cabaceiras do Paraguaçu,0,0,0
+Bahia,2904902,Cachoeira,0,0,0
+Bahia,2905008,Caculé,0,0,0
+Bahia,2905107,Caém,0,0,0
+Bahia,2905156,Caetanos,0,0,0
+Bahia,2905206,Caetité,0,0,0
+Bahia,2905305,Cafarnaum,0,0,0
+Bahia,2905404,Cairu,0,0,0
+Bahia,2905503,Caldeirão Grande,0,0,0
+Bahia,2905602,Camacan,0,0,0
+Bahia,2905701,Camaçari,0,0,0
+Bahia,2905800,Camamu,0,0,0
+Bahia,2905909,Campo Alegre de Lourdes,0,0,0
+Bahia,2906006,Campo Formoso,0,0,0
+Bahia,2906105,Canápolis,0,0,0
+Bahia,2906204,Canarana,0,0,0
+Bahia,2906303,Canavieiras,0,0,0
+Bahia,2906402,Candeal,0,0,0
+Bahia,2906501,Candeias,0,0,0
+Bahia,2906600,Candiba,0,0,0
+Bahia,2906709,Cândido Sales,0,0,0
+Bahia,2906808,Cansanção,0,0,0
+Bahia,2906824,Canudos,0,0,0
+Bahia,2906857,Capela do Alto Alegre,0,0,0
+Bahia,2906873,Capim Grosso,0,0,0
+Bahia,2906899,Caraíbas,0,0,0
+Bahia,2906907,Caravelas,0,0,0
+Bahia,2907004,Cardeal da Silva,0,0,0
+Bahia,2907103,Carinhanha,0,0,0
+Bahia,2907202,Casa Nova,0,0,0
+Bahia,2907301,Castro Alves,0,0,0
+Bahia,2907400,Catolândia,0,0,0
+Bahia,2907509,Catu,0,0,0
+Bahia,2907558,Caturama,0,0,0
+Bahia,2907608,Central,0,0,0
+Bahia,2907707,Chorrochó,0,0,0
+Bahia,2907806,Cícero Dantas,0,0,0
+Bahia,2907905,Cipó,0,0,0
+Bahia,2908002,Coaraci,0,0,0
+Bahia,2908101,Cocos,0,0,0
+Bahia,2908200,Conceição da Feira,0,0,0
+Bahia,2908309,Conceição do Almeida,0,0,0
+Bahia,2908408,Conceição do Coité,0,0,0
+Bahia,2908507,Conceição do Jacuípe,0,0,0
+Bahia,2908606,Conde,0,0,0
+Bahia,2908705,Condeúba,0,0,0
+Bahia,2908804,Contendas do Sincorá,0,0,0
+Bahia,2908903,Coração de Maria,0,0,0
+Bahia,2909000,Cordeiros,0,0,0
+Bahia,2909109,Coribe,0,0,0
+Bahia,2909208,Coronel João Sá,0,0,0
+Bahia,2909307,Correntina,0,0,0
+Bahia,2909406,Cotegipe,0,0,0
+Bahia,2909505,Cravolândia,0,0,0
+Bahia,2909604,Crisópolis,0,0,0
+Bahia,2909703,Cristópolis,0,0,0
+Bahia,2909802,Cruz das Almas,0,0,0
+Bahia,2909901,Curaçá,0,0,0
+Bahia,2910008,Dário Meira,0,0,0
+Bahia,2910057,Dias d'Ávila,0,0,0
+Bahia,2910107,Dom Basílio,0,0,0
+Bahia,2910206,Dom Macedo Costa,0,0,0
+Bahia,2910305,Elísio Medrado,0,0,0
+Bahia,2910404,Encruzilhada,0,0,0
+Bahia,2910503,Entre Rios,0,0,0
+Bahia,2910602,Esplanada,0,0,0
+Bahia,2910701,Euclides da Cunha,0,0,0
+Bahia,2910727,Eunápolis,0,0,0
+Bahia,2910750,Fátima,0,0,0
+Bahia,2910776,Feira da Mata,0,0,0
+Bahia,2910800,Feira de Santana,0,0,0
+Bahia,2910859,Filadélfia,0,0,0
+Bahia,2910909,Firmino Alves,0,0,0
+Bahia,2911006,Floresta Azul,0,0,0
+Bahia,2911105,Formosa do Rio Preto,0,0,0
+Bahia,2911204,Gandu,0,0,0
+Bahia,2911253,Gavião,0,0,0
+Bahia,2911303,Gentio do Ouro,0,0,0
+Bahia,2911402,Glória,0,0,0
+Bahia,2911501,Gongogi,0,0,0
+Bahia,2911600,Governador Mangabeira,0,0,0
+Bahia,2911659,Guajeru,0,0,0
+Bahia,2911709,Guanambi,0,0,0
+Bahia,2911808,Guaratinga,0,0,0
+Bahia,2911857,Heliópolis,0,0,0
+Bahia,2911907,Iaçu,0,0,0
+Bahia,2912004,Ibiassucê,0,0,0
+Bahia,2912103,Ibicaraí,0,0,0
+Bahia,2912202,Ibicoara,0,0,0
+Bahia,2912301,Ibicuí,11,6,227
+Bahia,2912400,Ibipeba,0,0,0
+Bahia,2912509,Ibipitanga,0,0,0
+Bahia,2912608,Ibiquera,0,0,0
+Bahia,2912707,Ibirapitanga,0,0,0
+Bahia,2912806,Ibirapuã,0,0,0
+Bahia,2912905,Ibirataia,0,0,0
+Bahia,2913002,Ibitiara,0,0,0
+Bahia,2913101,Ibititá,0,0,0
+Bahia,2913200,Ibotirama,0,0,0
+Bahia,2913309,Ichu,0,0,0
+Bahia,2913408,Igaporã,0,0,0
+Bahia,2913457,Igrapiúna,0,0,0
+Bahia,2913507,Iguaí,0,0,0
+Bahia,2913606,Ilhéus,0,0,0
+Bahia,2913705,Inhambupe,0,0,0
+Bahia,2913804,Ipecaetá,0,0,0
+Bahia,2913903,Ipiaú,0,0,0
+Bahia,2914000,Ipirá,0,0,0
+Bahia,2914109,Ipupiara,0,0,0
+Bahia,2914208,Irajuba,0,0,0
+Bahia,2914307,Iramaia,0,0,0
+Bahia,2914406,Iraquara,0,0,0
+Bahia,2914505,Irará,0,0,0
+Bahia,2914604,Irecê,0,0,0
+Bahia,2914653,Itabela,0,0,0
+Bahia,2914703,Itaberaba,0,0,0
+Bahia,2914802,Itabuna,11,17,668
+Bahia,2914901,Itacaré,0,0,0
+Bahia,2915007,Itaeté,0,0,0
+Bahia,2915106,Itagi,0,0,0
+Bahia,2915205,Itagibá,0,0,0
+Bahia,2915304,Itagimirim,0,0,0
+Bahia,2915353,Itaguaçu da Bahia,0,0,0
+Bahia,2915403,Itaju do Colônia,0,0,0
+Bahia,2915502,Itajuípe,0,0,0
+Bahia,2915601,Itamaraju,0,0,0
+Bahia,2915700,Itamari,0,0,0
+Bahia,2915809,Itambé,0,0,0
+Bahia,2915908,Itanagra,0,0,0
+Bahia,2916005,Itanhém,0,0,0
+Bahia,2916104,Itaparica,0,0,0
+Bahia,2916203,Itapé,0,0,0
+Bahia,2916302,Itapebi,0,0,0
+Bahia,2916401,Itapetinga,0,0,0
+Bahia,2916500,Itapicuru,0,0,0
+Bahia,2916609,Itapitanga,0,0,0
+Bahia,2916708,Itaquara,0,0,0
+Bahia,2916807,Itarantim,0,0,0
+Bahia,2916856,Itatim,0,0,0
+Bahia,2916906,Itiruçu,0,0,0
+Bahia,2917003,Itiúba,0,0,0
+Bahia,2917102,Itororó,0,0,0
+Bahia,2917201,Ituaçu,0,0,0
+Bahia,2917300,Ituberá,0,0,0
+Bahia,2917334,Iuiu,0,0,0
+Bahia,2917359,Jaborandi,0,0,0
+Bahia,2917409,Jacaraci,0,0,0
+Bahia,2917508,Jacobina,0,0,0
+Bahia,2917607,Jaguaquara,0,0,0
+Bahia,2917706,Jaguarari,0,0,0
+Bahia,2917805,Jaguaripe,0,0,0
+Bahia,2917904,Jandaíra,0,0,0
+Bahia,2918001,Jequié,0,0,0
+Bahia,2918100,Jeremoabo,0,0,0
+Bahia,2918209,Jiquiriçá,0,0,0
+Bahia,2918308,Jitaúna,0,0,0
+Bahia,2918357,João Dourado,943,16,506
+Bahia,2918407,Juazeiro,0,0,0
+Bahia,2918456,Jucuruçu,0,0,0
+Bahia,2918506,Jussara,0,0,0
+Bahia,2918555,Jussari,0,0,0
+Bahia,2918605,Jussiape,0,0,0
+Bahia,2918704,Lafaiete Coutinho,0,0,0
+Bahia,2918753,Lagoa Real,0,0,0
+Bahia,2918803,Laje,0,0,0
+Bahia,2918902,Lajedão,0,0,0
+Bahia,2919009,Lajedinho,0,0,0
+Bahia,2919058,Lajedo do Tabocal,0,0,0
+Bahia,2919108,Lamarão,0,0,0
+Bahia,2919157,Lapão,0,0,0
+Bahia,2919207,Lauro de Freitas,0,0,0
+Bahia,2919306,Lençóis,0,0,0
+Bahia,2919405,Licínio de Almeida,0,0,0
+Bahia,2919504,Livramento de Nossa Senhora,0,0,0
+Bahia,2919553,Luís Eduardo Magalhães,0,0,0
+Bahia,2919603,Macajuba,0,0,0
+Bahia,2919702,Macarani,0,0,0
+Bahia,2919801,Macaúbas,0,0,0
+Bahia,2919900,Macururé,0,0,0
+Bahia,2919926,Madre de Deus,0,0,0
+Bahia,2919959,Maetinga,0,0,0
+Bahia,2920007,Maiquinique,0,0,0
+Bahia,2920106,Mairi,99,12,659
+Bahia,2920205,Malhada,0,0,0
+Bahia,2920304,Malhada de Pedras,0,0,0
+Bahia,2920403,Manoel Vitorino,0,0,0
+Bahia,2920452,Mansidão,0,0,0
+Bahia,2920502,Maracás,0,0,0
+Bahia,2920601,Maragogipe,0,0,0
+Bahia,2920700,Maraú,0,0,0
+Bahia,2920809,Marcionílio Souza,0,0,0
+Bahia,2920908,Mascote,0,0,0
+Bahia,2921005,Mata de São João,0,0,0
+Bahia,2921054,Matina,0,0,0
+Bahia,2921104,Medeiros Neto,0,0,0
+Bahia,2921203,Miguel Calmon,0,0,0
+Bahia,2921302,Milagres,0,0,0
+Bahia,2921401,Mirangaba,0,0,0
+Bahia,2921450,Mirante,0,0,0
+Bahia,2921500,Monte Santo,0,0,0
+Bahia,2921609,Morpará,0,0,0
+Bahia,2921708,Morro do Chapéu,0,0,0
+Bahia,2921807,Mortugaba,0,0,0
+Bahia,2921906,Mucugê,0,0,0
+Bahia,2922003,Mucuri,0,0,0
+Bahia,2922052,Mulungu do Morro,0,0,0
+Bahia,2922102,Mundo Novo,0,0,0
+Bahia,2922201,Muniz Ferreira,0,0,0
+Bahia,2922250,Muquém do São Francisco,0,0,0
+Bahia,2922300,Muritiba,0,0,0
+Bahia,2922409,Mutuípe,0,0,0
+Bahia,2922508,Nazaré,0,0,0
+Bahia,2922607,Nilo Peçanha,0,0,0
+Bahia,2922656,Nordestina,0,0,0
+Bahia,2922706,Nova Canaã,0,0,0
+Bahia,2922730,Nova Fátima,0,0,0
+Bahia,2922755,Nova Ibiá,0,0,0
+Bahia,2922805,Nova Itarana,0,0,0
+Bahia,2922854,Nova Redenção,0,0,0
+Bahia,2922904,Nova Soure,0,0,0
+Bahia,2923001,Nova Viçosa,0,0,0
+Bahia,2923035,Novo Horizonte,0,0,0
+Bahia,2923050,Novo Triunfo,0,0,0
+Bahia,2923100,Olindina,0,0,0
+Bahia,2923209,Oliveira dos Brejinhos,0,0,0
+Bahia,2923308,Ouriçangas,0,0,0
+Bahia,2923357,Ourolândia,0,0,0
+Bahia,2923407,Palmas de Monte Alto,0,0,0
+Bahia,2923506,Palmeiras,0,0,0
+Bahia,2923605,Paramirim,0,0,0
+Bahia,2923704,Paratinga,0,0,0
+Bahia,2923803,Paripiranga,0,0,0
+Bahia,2923902,Pau Brasil,0,0,0
+Bahia,2924009,Paulo Afonso,0,0,0
+Bahia,2924058,Pé de Serra,0,0,0
+Bahia,2924108,Pedrão,0,0,0
+Bahia,2924207,Pedro Alexandre,0,0,0
+Bahia,2924306,Piatã,0,0,0
+Bahia,2924405,Pilão Arcado,0,0,0
+Bahia,2924504,Pindaí,0,0,0
+Bahia,2924603,Pindobaçu,0,0,0
+Bahia,2924652,Pintadas,0,0,0
+Bahia,2924678,Piraí do Norte,0,0,0
+Bahia,2924702,Piripá,0,0,0
+Bahia,2924801,Piritiba,0,0,0
+Bahia,2924900,Planaltino,0,0,0
+Bahia,2925006,Planalto,0,0,0
+Bahia,2925105,Poções,0,0,0
+Bahia,2925204,Pojuca,0,0,0
+Bahia,2925253,Ponto Novo,0,0,0
+Bahia,2925303,Porto Seguro,3,1,8
+Bahia,2925402,Potiraguá,0,0,0
+Bahia,2925501,Prado,0,0,0
+Bahia,2925600,Presidente Dutra,0,0,0
+Bahia,2925709,Presidente Jânio Quadros,0,0,0
+Bahia,2925758,Presidente Tancredo Neves,0,0,0
+Bahia,2925808,Queimadas,0,0,0
+Bahia,2925907,Quijingue,0,0,0
+Bahia,2925931,Quixabeira,0,0,0
+Bahia,2925956,Rafael Jambeiro,0,0,0
+Bahia,2926004,Remanso,0,0,0
+Bahia,2926103,Retirolândia,0,0,0
+Bahia,2926202,Riachão das Neves,0,0,0
+Bahia,2926301,Riachão do Jacuípe,0,0,0
+Bahia,2926400,Riacho de Santana,0,0,0
+Bahia,2926509,Ribeira do Amparo,0,0,0
+Bahia,2926608,Ribeira do Pombal,0,0,0
+Bahia,2926657,Ribeirão do Largo,0,0,0
+Bahia,2926707,Rio de Contas,0,0,0
+Bahia,2926806,Rio do Antônio,0,0,0
+Bahia,2926905,Rio do Pires,0,0,0
+Bahia,2927002,Rio Real,0,0,0
+Bahia,2927101,Rodelas,0,0,0
+Bahia,2927200,Ruy Barbosa,16,9,461
+Bahia,2927309,Salinas da Margarida,0,0,0
+Bahia,2927408,Salvador,203,35,2053
+Bahia,2927507,Santa Bárbara,0,0,0
+Bahia,2927606,Santa Brígida,0,0,0
+Bahia,2927705,Santa Cruz Cabrália,0,0,0
+Bahia,2927804,Santa Cruz da Vitória,0,0,0
+Bahia,2927903,Santa Inês,0,0,0
+Bahia,2928000,Santaluz,0,0,0
+Bahia,2928059,Santa Luzia,0,0,0
+Bahia,2928109,Santa Maria da Vitória,0,0,0
+Bahia,2928208,Santana,0,0,0
+Bahia,2928307,Santanópolis,0,0,0
+Bahia,2928406,Santa Rita de Cássia,0,0,0
+Bahia,2928505,Santa Terezinha,0,0,0
+Bahia,2928604,Santo Amaro,0,0,0
+Bahia,2928703,Santo Antônio de Jesus,0,0,0
+Bahia,2928802,Santo Estêvão,0,0,0
+Bahia,2928901,São Desidério,0,0,0
+Bahia,2928950,São Domingos,0,0,0
+Bahia,2929008,São Félix,0,0,0
+Bahia,2929057,São Félix do Coribe,0,0,0
+Bahia,2929107,São Felipe,0,0,0
+Bahia,2929206,São Francisco do Conde,0,0,0
+Bahia,2929255,São Gabriel,0,0,0
+Bahia,2929305,São Gonçalo dos Campos,0,0,0
+Bahia,2929354,São José da Vitória,0,0,0
+Bahia,2929370,São José do Jacuípe,0,0,0
+Bahia,2929404,São Miguel das Matas,0,0,0
+Bahia,2929503,São Sebastião do Passé,0,0,0
+Bahia,2929602,Sapeaçu,0,0,0
+Bahia,2929701,Sátiro Dias,0,0,0
+Bahia,2929750,Saubara,0,0,0
+Bahia,2929800,Saúde,0,0,0
+Bahia,2929909,Seabra,0,0,0
+Bahia,2930006,Sebastião Laranjeiras,0,0,0
+Bahia,2930105,Senhor do Bonfim,91,20,576
+Bahia,2930154,Serra do Ramalho,0,0,0
+Bahia,2930204,Sento Sé,0,0,0
+Bahia,2930303,Serra Dourada,0,0,0
+Bahia,2930402,Serra Preta,0,0,0
+Bahia,2930501,Serrinha,0,0,0
+Bahia,2930600,Serrolândia,0,0,0
+Bahia,2930709,Simões Filho,0,0,0
+Bahia,2930758,Sítio do Mato,0,0,0
+Bahia,2930766,Sítio do Quinto,0,0,0
+Bahia,2930774,Sobradinho,0,0,0
+Bahia,2930808,Souto Soares,0,0,0
+Bahia,2930907,Tabocas do Brejo Velho,0,0,0
+Bahia,2931004,Tanhaçu,0,0,0
+Bahia,2931053,Tanque Novo,0,0,0
+Bahia,2931103,Tanquinho,0,0,0
+Bahia,2931202,Taperoá,0,0,0
+Bahia,2931301,Tapiramutá,0,0,0
+Bahia,2931350,Teixeira de Freitas,0,0,0
+Bahia,2931400,Teodoro Sampaio,0,0,0
+Bahia,2931509,Teofilândia,0,0,0
+Bahia,2931608,Teolândia,0,0,0
+Bahia,2931707,Terra Nova,0,0,0
+Bahia,2931806,Tremedal,0,0,0
+Bahia,2931905,Tucano,0,0,0
+Bahia,2932002,Uauá,0,0,0
+Bahia,2932101,Ubaíra,0,0,0
+Bahia,2932200,Ubaitaba,0,0,0
+Bahia,2932309,Ubatã,0,0,0
+Bahia,2932408,Uibaí,0,0,0
+Bahia,2932457,Umburanas,0,0,0
+Bahia,2932507,Una,0,0,0
+Bahia,2932606,Urandi,0,0,0
+Bahia,2932705,Uruçuca,0,0,0
+Bahia,2932804,Utinga,0,0,0
+Bahia,2932903,Valença,0,0,0
+Bahia,2933000,Valente,0,0,0
+Bahia,2933059,Várzea da Roça,0,0,0
+Bahia,2933109,Várzea do Poço,0,0,0
+Bahia,2933158,Várzea Nova,0,0,0
+Bahia,2933174,Varzedo,0,0,0
+Bahia,2933208,Vera Cruz,0,0,0
+Bahia,2933257,Vereda,0,0,0
+Bahia,2933307,Vitória da Conquista,19,5,560
+Bahia,2933406,Wagner,24,20,1352
+Bahia,2933455,Wanderley,0,0,0
+Bahia,2933505,Wenceslau Guimarães,0,0,0
+Bahia,2933604,Xique-Xique,0,0,0
+Minas Gerais,3100104,Abadia dos Dourados,0,0,0
+Minas Gerais,3100203,Abaeté,0,0,0
+Minas Gerais,3100302,Abre Campo,0,0,0
+Minas Gerais,3100401,Acaiaca,0,0,0
+Minas Gerais,3100500,Açucena,0,0,0
+Minas Gerais,3100609,Água Boa,0,0,0
+Minas Gerais,3100708,Água Comprida,0,0,0
+Minas Gerais,3100807,Aguanil,0,0,0
+Minas Gerais,3100906,Águas Formosas,0,0,0
+Minas Gerais,3101003,Águas Vermelhas,0,0,0
+Minas Gerais,3101102,Aimorés,0,0,0
+Minas Gerais,3101201,Aiuruoca,0,0,0
+Minas Gerais,3101300,Alagoa,0,0,0
+Minas Gerais,3101409,Albertina,0,0,0
+Minas Gerais,3101508,Além Paraíba,0,0,0
+Minas Gerais,3101607,Alfenas,0,0,0
+Minas Gerais,3101631,Alfredo Vasconcelos,0,0,0
+Minas Gerais,3101706,Almenara,0,0,0
+Minas Gerais,3101805,Alpercata,0,0,0
+Minas Gerais,3101904,Alpinópolis,0,0,0
+Minas Gerais,3102001,Alterosa,0,0,0
+Minas Gerais,3102050,Alto Caparaó,0,0,0
+Minas Gerais,3102100,Alto Rio Doce,0,0,0
+Minas Gerais,3102209,Alvarenga,0,0,0
+Minas Gerais,3102308,Alvinópolis,0,0,0
+Minas Gerais,3102407,Alvorada de Minas,0,0,0
+Minas Gerais,3102506,Amparo do Serra,0,0,0
+Minas Gerais,3102605,Andradas,0,0,0
+Minas Gerais,3102704,Cachoeira de Pajeú,0,0,0
+Minas Gerais,3102803,Andrelândia,0,0,0
+Minas Gerais,3102852,Angelândia,0,0,0
+Minas Gerais,3102902,Antônio Carlos,0,0,0
+Minas Gerais,3103009,Antônio Dias,0,0,0
+Minas Gerais,3103108,Antônio Prado de Minas,0,0,0
+Minas Gerais,3103207,Araçaí,0,0,0
+Minas Gerais,3103306,Aracitaba,0,0,0
+Minas Gerais,3103405,Araçuaí,0,0,0
+Minas Gerais,3103504,Araguari,0,0,0
+Minas Gerais,3103603,Arantina,0,0,0
+Minas Gerais,3103702,Araponga,0,0,0
+Minas Gerais,3103751,Araporã,0,0,0
+Minas Gerais,3103801,Arapuá,0,0,0
+Minas Gerais,3103900,Araújos,0,0,0
+Minas Gerais,3104007,Araxá,0,0,0
+Minas Gerais,3104106,Arceburgo,0,0,0
+Minas Gerais,3104205,Arcos,0,0,0
+Minas Gerais,3104304,Areado,0,0,0
+Minas Gerais,3104403,Argirita,0,0,0
+Minas Gerais,3104452,Aricanduva,0,0,0
+Minas Gerais,3104502,Arinos,0,0,0
+Minas Gerais,3104601,Astolfo Dutra,0,0,0
+Minas Gerais,3104700,Ataléia,0,0,0
+Minas Gerais,3104809,Augusto de Lima,0,0,0
+Minas Gerais,3104908,Baependi,0,0,0
+Minas Gerais,3105004,Baldim,0,0,0
+Minas Gerais,3105103,Bambuí,0,0,0
+Minas Gerais,3105202,Bandeira,0,0,0
+Minas Gerais,3105301,Bandeira do Sul,0,0,0
+Minas Gerais,3105400,Barão de Cocais,0,0,0
+Minas Gerais,3105509,Barão de Monte Alto,0,0,0
+Minas Gerais,3105608,Barbacena,14,16,411
+Minas Gerais,3105707,Barra Longa,0,0,0
+Minas Gerais,3105905,Barroso,0,0,0
+Minas Gerais,3106002,Bela Vista de Minas,0,0,0
+Minas Gerais,3106101,Belmiro Braga,0,0,0
+Minas Gerais,3106200,Belo Horizonte,1036,78,948
+Minas Gerais,3106309,Belo Oriente,0,0,0
+Minas Gerais,3106408,Belo Vale,0,0,0
+Minas Gerais,3106507,Berilo,0,0,0
+Minas Gerais,3106606,Bertópolis,0,0,0
+Minas Gerais,3106655,Berizal,0,0,0
+Minas Gerais,3106705,Betim,0,0,0
+Minas Gerais,3106804,Bias Fortes,0,0,0
+Minas Gerais,3106903,Bicas,0,0,0
+Minas Gerais,3107000,Biquinhas,0,0,0
+Minas Gerais,3107109,Boa Esperança,0,0,0
+Minas Gerais,3107208,Bocaina de Minas,0,0,0
+Minas Gerais,3107307,Bocaiúva,0,0,0
+Minas Gerais,3107406,Bom Despacho,0,0,0
+Minas Gerais,3107505,Bom Jardim de Minas,0,0,0
+Minas Gerais,3107604,Bom Jesus da Penha,0,0,0
+Minas Gerais,3107703,Bom Jesus do Amparo,0,0,0
+Minas Gerais,3107802,Bom Jesus do Galho,0,0,0
+Minas Gerais,3107901,Bom Repouso,0,0,0
+Minas Gerais,3108008,Bom Sucesso,0,0,0
+Minas Gerais,3108107,Bonfim,0,0,0
+Minas Gerais,3108206,Bonfinópolis de Minas,0,0,0
+Minas Gerais,3108255,Bonito de Minas,0,0,0
+Minas Gerais,3108305,Borda da Mata,0,0,0
+Minas Gerais,3108404,Botelhos,0,0,0
+Minas Gerais,3108503,Botumirim,0,0,0
+Minas Gerais,3108552,Brasilândia de Minas,0,0,0
+Minas Gerais,3108602,Brasília de Minas,0,0,0
+Minas Gerais,3108701,Brás Pires,0,0,0
+Minas Gerais,3108800,Braúnas,0,0,0
+Minas Gerais,3108909,Brazópolis,0,0,0
+Minas Gerais,3109006,Brumadinho,0,0,0
+Minas Gerais,3109105,Bueno Brandão,0,0,0
+Minas Gerais,3109204,Buenópolis,0,0,0
+Minas Gerais,3109253,Bugre,0,0,0
+Minas Gerais,3109303,Buritis,0,0,0
+Minas Gerais,3109402,Buritizeiro,0,0,0
+Minas Gerais,3109451,Cabeceira Grande,0,0,0
+Minas Gerais,3109501,Cabo Verde,0,0,0
+Minas Gerais,3109600,Cachoeira da Prata,0,0,0
+Minas Gerais,3109709,Cachoeira de Minas,0,0,0
+Minas Gerais,3109808,Cachoeira Dourada,0,0,0
+Minas Gerais,3109907,Caetanópolis,0,0,0
+Minas Gerais,3110004,Caeté,0,0,0
+Minas Gerais,3110103,Caiana,0,0,0
+Minas Gerais,3110202,Cajuri,0,0,0
+Minas Gerais,3110301,Caldas,0,0,0
+Minas Gerais,3110400,Camacho,0,0,0
+Minas Gerais,3110509,Camanducaia,4,3,230
+Minas Gerais,3110608,Cambuí,0,0,0
+Minas Gerais,3110707,Cambuquira,0,0,0
+Minas Gerais,3110806,Campanário,0,0,0
+Minas Gerais,3110905,Campanha,0,0,0
+Minas Gerais,3111002,Campestre,0,0,0
+Minas Gerais,3111101,Campina Verde,0,0,0
+Minas Gerais,3111150,Campo Azul,0,0,0
+Minas Gerais,3111200,Campo Belo,0,0,0
+Minas Gerais,3111309,Campo do Meio,0,0,0
+Minas Gerais,3111408,Campo Florido,0,0,0
+Minas Gerais,3111507,Campos Altos,0,0,0
+Minas Gerais,3111606,Campos Gerais,0,0,0
+Minas Gerais,3111705,Canaã,0,0,0
+Minas Gerais,3111804,Canápolis,0,0,0
+Minas Gerais,3111903,Cana Verde,0,0,0
+Minas Gerais,3112000,Candeias,0,0,0
+Minas Gerais,3112059,Cantagalo,0,0,0
+Minas Gerais,3112109,Caparaó,0,0,0
+Minas Gerais,3112208,Capela Nova,0,0,0
+Minas Gerais,3112307,Capelinha,0,0,0
+Minas Gerais,3112406,Capetinga,0,0,0
+Minas Gerais,3112505,Capim Branco,0,0,0
+Minas Gerais,3112604,Capinópolis,0,0,0
+Minas Gerais,3112653,Capitão Andrade,0,0,0
+Minas Gerais,3112703,Capitão Enéas,0,0,0
+Minas Gerais,3112802,Capitólio,0,0,0
+Minas Gerais,3112901,Caputira,0,0,0
+Minas Gerais,3113008,Caraí,0,0,0
+Minas Gerais,3113107,Caranaíba,0,0,0
+Minas Gerais,3113206,Carandaí,0,0,0
+Minas Gerais,3113305,Carangola,0,0,0
+Minas Gerais,3113404,Caratinga,0,0,0
+Minas Gerais,3113503,Carbonita,0,0,0
+Minas Gerais,3113602,Careaçu,0,0,0
+Minas Gerais,3113701,Carlos Chagas,0,0,0
+Minas Gerais,3113800,Carmésia,0,0,0
+Minas Gerais,3113909,Carmo da Cachoeira,0,0,0
+Minas Gerais,3114006,Carmo da Mata,0,0,0
+Minas Gerais,3114105,Carmo de Minas,0,0,0
+Minas Gerais,3114204,Carmo do Cajuru,0,0,0
+Minas Gerais,3114303,Carmo do Paranaíba,0,0,0
+Minas Gerais,3114402,Carmo do Rio Claro,0,0,0
+Minas Gerais,3114501,Carmópolis de Minas,0,0,0
+Minas Gerais,3114550,Carneirinho,0,0,0
+Minas Gerais,3114600,Carrancas,0,0,0
+Minas Gerais,3114709,Carvalhópolis,0,0,0
+Minas Gerais,3114808,Carvalhos,0,0,0
+Minas Gerais,3114907,Casa Grande,0,0,0
+Minas Gerais,3115003,Cascalho Rico,0,0,0
+Minas Gerais,3115102,Cássia,0,0,0
+Minas Gerais,3115201,Conceição da Barra de Minas,0,0,0
+Minas Gerais,3115300,Cataguases,0,0,0
+Minas Gerais,3115359,Catas Altas,0,0,0
+Minas Gerais,3115409,Catas Altas da Noruega,0,0,0
+Minas Gerais,3115458,Catuji,0,0,0
+Minas Gerais,3115474,Catuti,0,0,0
+Minas Gerais,3115508,Caxambu,0,0,0
+Minas Gerais,3115607,Cedro do Abaeté,0,0,0
+Minas Gerais,3115706,Central de Minas,0,0,0
+Minas Gerais,3115805,Centralina,0,0,0
+Minas Gerais,3115904,Chácara,0,0,0
+Minas Gerais,3116001,Chalé,0,0,0
+Minas Gerais,3116100,Chapada do Norte,0,0,0
+Minas Gerais,3116159,Chapada Gaúcha,0,0,0
+Minas Gerais,3116209,Chiador,0,0,0
+Minas Gerais,3116308,Cipotânea,0,0,0
+Minas Gerais,3116407,Claraval,0,0,0
+Minas Gerais,3116506,Claro dos Poções,0,0,0
+Minas Gerais,3116605,Cláudio,0,0,0
+Minas Gerais,3116704,Coimbra,0,0,0
+Minas Gerais,3116803,Coluna,0,0,0
+Minas Gerais,3116902,Comendador Gomes,0,0,0
+Minas Gerais,3117009,Comercinho,0,0,0
+Minas Gerais,3117108,Conceição da Aparecida,0,0,0
+Minas Gerais,3117207,Conceição das Pedras,0,0,0
+Minas Gerais,3117306,Conceição das Alagoas,0,0,0
+Minas Gerais,3117405,Conceição de Ipanema,0,0,0
+Minas Gerais,3117504,Conceição do Mato Dentro,0,0,0
+Minas Gerais,3117603,Conceição do Pará,0,0,0
+Minas Gerais,3117702,Conceição do Rio Verde,0,0,0
+Minas Gerais,3117801,Conceição dos Ouros,0,0,0
+Minas Gerais,3117836,Cônego Marinho,0,0,0
+Minas Gerais,3117876,Confins,0,0,0
+Minas Gerais,3117900,Congonhal,0,0,0
+Minas Gerais,3118007,Congonhas,0,0,0
+Minas Gerais,3118106,Congonhas do Norte,0,0,0
+Minas Gerais,3118205,Conquista,0,0,0
+Minas Gerais,3118304,Conselheiro Lafaiete,0,0,0
+Minas Gerais,3118403,Conselheiro Pena,0,0,0
+Minas Gerais,3118502,Consolação,0,0,0
+Minas Gerais,3118601,Contagem,470,31,2737
+Minas Gerais,3118700,Coqueiral,0,0,0
+Minas Gerais,3118809,Coração de Jesus,0,0,0
+Minas Gerais,3118908,Cordisburgo,0,0,0
+Minas Gerais,3119005,Cordislândia,0,0,0
+Minas Gerais,3119104,Corinto,0,0,0
+Minas Gerais,3119203,Coroaci,0,0,0
+Minas Gerais,3119302,Coromandel,0,0,0
+Minas Gerais,3119401,Coronel Fabriciano,0,0,0
+Minas Gerais,3119500,Coronel Murta,0,0,0
+Minas Gerais,3119609,Coronel Pacheco,0,0,0
+Minas Gerais,3119708,Coronel Xavier Chaves,0,0,0
+Minas Gerais,3119807,Córrego Danta,0,0,0
+Minas Gerais,3119906,Córrego do Bom Jesus,0,0,0
+Minas Gerais,3119955,Córrego Fundo,0,0,0
+Minas Gerais,3120003,Córrego Novo,0,0,0
+Minas Gerais,3120102,Couto de Magalhães de Minas,0,0,0
+Minas Gerais,3120151,Crisólita,0,0,0
+Minas Gerais,3120201,Cristais,0,0,0
+Minas Gerais,3120300,Cristália,0,0,0
+Minas Gerais,3120409,Cristiano Otoni,0,0,0
+Minas Gerais,3120508,Cristina,0,0,0
+Minas Gerais,3120607,Crucilândia,0,0,0
+Minas Gerais,3120706,Cruzeiro da Fortaleza,0,0,0
+Minas Gerais,3120805,Cruzília,0,0,0
+Minas Gerais,3120839,Cuparaque,0,0,0
+Minas Gerais,3120870,Curral de Dentro,0,0,0
+Minas Gerais,3120904,Curvelo,0,0,0
+Minas Gerais,3121001,Datas,0,0,0
+Minas Gerais,3121100,Delfim Moreira,0,0,0
+Minas Gerais,3121209,Delfinópolis,0,0,0
+Minas Gerais,3121258,Delta,0,0,0
+Minas Gerais,3121308,Descoberto,0,0,0
+Minas Gerais,3121407,Desterro de Entre Rios,0,0,0
+Minas Gerais,3121506,Desterro do Melo,0,0,0
+Minas Gerais,3121605,Diamantina,0,0,0
+Minas Gerais,3121704,Diogo de Vasconcelos,0,0,0
+Minas Gerais,3121803,Dionísio,0,0,0
+Minas Gerais,3121902,Divinésia,0,0,0
+Minas Gerais,3122009,Divino,0,0,0
+Minas Gerais,3122108,Divino das Laranjeiras,0,0,0
+Minas Gerais,3122207,Divinolândia de Minas,0,0,0
+Minas Gerais,3122306,Divinópolis,0,0,0
+Minas Gerais,3122355,Divisa Alegre,0,0,0
+Minas Gerais,3122405,Divisa Nova,0,0,0
+Minas Gerais,3122454,Divisópolis,0,0,0
+Minas Gerais,3122470,Dom Bosco,0,0,0
+Minas Gerais,3122504,Dom Cavati,0,0,0
+Minas Gerais,3122603,Dom Joaquim,0,0,0
+Minas Gerais,3122702,Dom Silvério,0,0,0
+Minas Gerais,3122801,Dom Viçoso,0,0,0
+Minas Gerais,3122900,Dona Eusébia,0,0,0
+Minas Gerais,3123007,Dores de Campos,0,0,0
+Minas Gerais,3123106,Dores de Guanhães,0,0,0
+Minas Gerais,3123205,Dores do Indaiá,0,0,0
+Minas Gerais,3123304,Dores do Turvo,0,0,0
+Minas Gerais,3123403,Doresópolis,0,0,0
+Minas Gerais,3123502,Douradoquara,0,0,0
+Minas Gerais,3123528,Durandé,0,0,0
+Minas Gerais,3123601,Elói Mendes,0,0,0
+Minas Gerais,3123700,Engenheiro Caldas,0,0,0
+Minas Gerais,3123809,Engenheiro Navarro,0,0,0
+Minas Gerais,3123858,Entre Folhas,0,0,0
+Minas Gerais,3123908,Entre Rios de Minas,0,0,0
+Minas Gerais,3124005,Ervália,0,0,0
+Minas Gerais,3124104,Esmeraldas,0,0,0
+Minas Gerais,3124203,Espera Feliz,0,0,0
+Minas Gerais,3124302,Espinosa,0,0,0
+Minas Gerais,3124401,Espírito Santo do Dourado,0,0,0
+Minas Gerais,3124500,Estiva,0,0,0
+Minas Gerais,3124609,Estrela Dalva,0,0,0
+Minas Gerais,3124708,Estrela do Indaiá,0,0,0
+Minas Gerais,3124807,Estrela do Sul,0,0,0
+Minas Gerais,3124906,Eugenópolis,0,0,0
+Minas Gerais,3125002,Ewbank da Câmara,0,0,0
+Minas Gerais,3125101,Extrema,0,0,0
+Minas Gerais,3125200,Fama,0,0,0
+Minas Gerais,3125309,Faria Lemos,0,0,0
+Minas Gerais,3125408,Felício dos Santos,0,0,0
+Minas Gerais,3125507,São Gonçalo do Rio Preto,0,0,0
+Minas Gerais,3125606,Felisburgo,0,0,0
+Minas Gerais,3125705,Felixlândia,0,0,0
+Minas Gerais,3125804,Fernandes Tourinho,0,0,0
+Minas Gerais,3125903,Ferros,0,0,0
+Minas Gerais,3125952,Fervedouro,0,0,0
+Minas Gerais,3126000,Florestal,0,0,0
+Minas Gerais,3126109,Formiga,18,13,711
+Minas Gerais,3126208,Formoso,0,0,0
+Minas Gerais,3126307,Fortaleza de Minas,0,0,0
+Minas Gerais,3126406,Fortuna de Minas,0,0,0
+Minas Gerais,3126505,Francisco Badaró,0,0,0
+Minas Gerais,3126604,Francisco Dumont,0,0,0
+Minas Gerais,3126703,Francisco Sá,0,0,0
+Minas Gerais,3126752,Franciscópolis,0,0,0
+Minas Gerais,3126802,Frei Gaspar,0,0,0
+Minas Gerais,3126901,Frei Inocêncio,0,0,0
+Minas Gerais,3126950,Frei Lagonegro,0,0,0
+Minas Gerais,3127008,Fronteira,0,0,0
+Minas Gerais,3127057,Fronteira dos Vales,0,0,0
+Minas Gerais,3127073,Fruta de Leite,0,0,0
+Minas Gerais,3127107,Frutal,0,0,0
+Minas Gerais,3127206,Funilândia,0,0,0
+Minas Gerais,3127305,Galiléia,0,0,0
+Minas Gerais,3127339,Gameleiras,0,0,0
+Minas Gerais,3127354,Glaucilândia,0,0,0
+Minas Gerais,3127370,Goiabeira,0,0,0
+Minas Gerais,3127388,Goianá,0,0,0
+Minas Gerais,3127404,Gonçalves,0,0,0
+Minas Gerais,3127503,Gonzaga,0,0,0
+Minas Gerais,3127602,Gouveia,0,0,0
+Minas Gerais,3127701,Governador Valadares,240,49,1649
+Minas Gerais,3127800,Grão Mogol,0,0,0
+Minas Gerais,3127909,Grupiara,0,0,0
+Minas Gerais,3128006,Guanhães,0,0,0
+Minas Gerais,3128105,Guapé,0,0,0
+Minas Gerais,3128204,Guaraciaba,0,0,0
+Minas Gerais,3128253,Guaraciama,0,0,0
+Minas Gerais,3128303,Guaranésia,0,0,0
+Minas Gerais,3128402,Guarani,0,0,0
+Minas Gerais,3128501,Guarará,0,0,0
+Minas Gerais,3128600,Guarda-Mor,0,0,0
+Minas Gerais,3128709,Guaxupé,188,45,2163
+Minas Gerais,3128808,Guidoval,0,0,0
+Minas Gerais,3128907,Guimarânia,0,0,0
+Minas Gerais,3129004,Guiricema,0,0,0
+Minas Gerais,3129103,Gurinhatã,0,0,0
+Minas Gerais,3129202,Heliodora,0,0,0
+Minas Gerais,3129301,Iapu,0,0,0
+Minas Gerais,3129400,Ibertioga,0,0,0
+Minas Gerais,3129509,Ibiá,0,0,0
+Minas Gerais,3129608,Ibiaí,0,0,0
+Minas Gerais,3129657,Ibiracatu,0,0,0
+Minas Gerais,3129707,Ibiraci,0,0,0
+Minas Gerais,3129806,Ibirité,0,0,0
+Minas Gerais,3129905,Ibitiúra de Minas,0,0,0
+Minas Gerais,3130002,Ibituruna,0,0,0
+Minas Gerais,3130051,Icaraí de Minas,0,0,0
+Minas Gerais,3130101,Igarapé,0,0,0
+Minas Gerais,3130200,Igaratinga,0,0,0
+Minas Gerais,3130309,Iguatama,0,0,0
+Minas Gerais,3130408,Ijaci,0,0,0
+Minas Gerais,3130507,Ilicínea,0,0,0
+Minas Gerais,3130556,Imbé de Minas,0,0,0
+Minas Gerais,3130606,Inconfidentes,0,0,0
+Minas Gerais,3130655,Indaiabira,0,0,0
+Minas Gerais,3130705,Indianópolis,0,0,0
+Minas Gerais,3130804,Ingaí,0,0,0
+Minas Gerais,3130903,Inhapim,0,0,0
+Minas Gerais,3131000,Inhaúma,0,0,0
+Minas Gerais,3131109,Inimutaba,0,0,0
+Minas Gerais,3131158,Ipaba,0,0,0
+Minas Gerais,3131208,Ipanema,37,14,1106
+Minas Gerais,3131307,Ipatinga,166,25,1224
+Minas Gerais,3131406,Ipiaçu,0,0,0
+Minas Gerais,3131505,Ipuiúna,0,0,0
+Minas Gerais,3131604,Iraí de Minas,0,0,0
+Minas Gerais,3131703,Itabira,0,0,0
+Minas Gerais,3131802,Itabirinha,0,0,0
+Minas Gerais,3131901,Itabirito,0,0,0
+Minas Gerais,3132008,Itacambira,0,0,0
+Minas Gerais,3132107,Itacarambi,0,0,0
+Minas Gerais,3132206,Itaguara,0,0,0
+Minas Gerais,3132305,Itaipé,0,0,0
+Minas Gerais,3132404,Itajubá,0,0,0
+Minas Gerais,3132503,Itamarandiba,0,0,0
+Minas Gerais,3132602,Itamarati de Minas,0,0,0
+Minas Gerais,3132701,Itambacuri,0,0,0
+Minas Gerais,3132800,Itambé do Mato Dentro,0,0,0
+Minas Gerais,3132909,Itamogi,0,0,0
+Minas Gerais,3133006,Itamonte,0,0,0
+Minas Gerais,3133105,Itanhandu,0,0,0
+Minas Gerais,3133204,Itanhomi,0,0,0
+Minas Gerais,3133303,Itaobim,0,0,0
+Minas Gerais,3133402,Itapagipe,0,0,0
+Minas Gerais,3133501,Itapecerica,0,0,0
+Minas Gerais,3133600,Itapeva,0,0,0
+Minas Gerais,3133709,Itatiaiuçu,0,0,0
+Minas Gerais,3133758,Itaú de Minas,0,0,0
+Minas Gerais,3133808,Itaúna,0,0,0
+Minas Gerais,3133907,Itaverava,0,0,0
+Minas Gerais,3134004,Itinga,0,0,0
+Minas Gerais,3134103,Itueta,0,0,0
+Minas Gerais,3134202,Ituiutaba,0,0,0
+Minas Gerais,3134301,Itumirim,0,0,0
+Minas Gerais,3134400,Iturama,0,0,0
+Minas Gerais,3134509,Itutinga,0,0,0
+Minas Gerais,3134608,Jaboticatubas,0,0,0
+Minas Gerais,3134707,Jacinto,0,0,0
+Minas Gerais,3134806,Jacuí,0,0,0
+Minas Gerais,3134905,Jacutinga,0,0,0
+Minas Gerais,3135001,Jaguaraçu,0,0,0
+Minas Gerais,3135050,Jaíba,0,0,0
+Minas Gerais,3135076,Jampruca,0,0,0
+Minas Gerais,3135100,Janaúba,0,0,0
+Minas Gerais,3135209,Januária,0,0,0
+Minas Gerais,3135308,Japaraíba,0,0,0
+Minas Gerais,3135357,Japonvar,0,0,0
+Minas Gerais,3135407,Jeceaba,0,0,0
+Minas Gerais,3135456,Jenipapo de Minas,0,0,0
+Minas Gerais,3135506,Jequeri,0,0,0
+Minas Gerais,3135605,Jequitaí,0,0,0
+Minas Gerais,3135704,Jequitibá,0,0,0
+Minas Gerais,3135803,Jequitinhonha,0,0,0
+Minas Gerais,3135902,Jesuânia,0,0,0
+Minas Gerais,3136009,Joaíma,0,0,0
+Minas Gerais,3136108,Joanésia,0,0,0
+Minas Gerais,3136207,João Monlevade,0,0,0
+Minas Gerais,3136306,João Pinheiro,0,0,0
+Minas Gerais,3136405,Joaquim Felício,0,0,0
+Minas Gerais,3136504,Jordânia,0,0,0
+Minas Gerais,3136520,José Gonçalves de Minas,0,0,0
+Minas Gerais,3136553,José Raydan,0,0,0
+Minas Gerais,3136579,Josenópolis,0,0,0
+Minas Gerais,3136603,Nova União,0,0,0
+Minas Gerais,3136652,Juatuba,0,0,0
+Minas Gerais,3136702,Juiz de Fora,0,0,0
+Minas Gerais,3136801,Juramento,0,0,0
+Minas Gerais,3136900,Juruaia,0,0,0
+Minas Gerais,3136959,Juvenília,0,0,0
+Minas Gerais,3137007,Ladainha,0,0,0
+Minas Gerais,3137106,Lagamar,0,0,0
+Minas Gerais,3137205,Lagoa da Prata,82,10,504
+Minas Gerais,3137304,Lagoa dos Patos,0,0,0
+Minas Gerais,3137403,Lagoa Dourada,0,0,0
+Minas Gerais,3137502,Lagoa Formosa,0,0,0
+Minas Gerais,3137536,Lagoa Grande,0,0,0
+Minas Gerais,3137601,Lagoa Santa,0,0,0
+Minas Gerais,3137700,Lajinha,0,0,0
+Minas Gerais,3137809,Lambari,0,0,0
+Minas Gerais,3137908,Lamim,0,0,0
+Minas Gerais,3138005,Laranjal,0,0,0
+Minas Gerais,3138104,Lassance,0,0,0
+Minas Gerais,3138203,Lavras,0,0,0
+Minas Gerais,3138302,Leandro Ferreira,0,0,0
+Minas Gerais,3138351,Leme do Prado,0,0,0
+Minas Gerais,3138401,Leopoldina,0,0,0
+Minas Gerais,3138500,Liberdade,0,0,0
+Minas Gerais,3138609,Lima Duarte,0,0,0
+Minas Gerais,3138625,Limeira do Oeste,0,0,0
+Minas Gerais,3138658,Lontra,0,0,0
+Minas Gerais,3138674,Luisburgo,0,0,0
+Minas Gerais,3138682,Luislândia,0,0,0
+Minas Gerais,3138708,Luminárias,0,0,0
+Minas Gerais,3138807,Luz,0,0,0
+Minas Gerais,3138906,Machacalis,0,0,0
+Minas Gerais,3139003,Machado,0,0,0
+Minas Gerais,3139102,Madre de Deus de Minas,0,0,0
+Minas Gerais,3139201,Malacacheta,0,0,0
+Minas Gerais,3139250,Mamonas,0,0,0
+Minas Gerais,3139300,Manga,0,0,0
+Minas Gerais,3139409,Manhuaçu,0,0,0
+Minas Gerais,3139508,Manhumirim,0,0,0
+Minas Gerais,3139607,Mantena,15,12,962
+Minas Gerais,3139706,Maravilhas,0,0,0
+Minas Gerais,3139805,Mar de Espanha,0,0,0
+Minas Gerais,3139904,Maria da Fé,0,0,0
+Minas Gerais,3140001,Mariana,552,30,1049
+Minas Gerais,3140100,Marilac,0,0,0
+Minas Gerais,3140159,Mário Campos,0,0,0
+Minas Gerais,3140209,Maripá de Minas,0,0,0
+Minas Gerais,3140308,Marliéria,0,0,0
+Minas Gerais,3140407,Marmelópolis,0,0,0
+Minas Gerais,3140506,Martinho Campos,0,0,0
+Minas Gerais,3140530,Martins Soares,0,0,0
+Minas Gerais,3140555,Mata Verde,0,0,0
+Minas Gerais,3140605,Materlândia,0,0,0
+Minas Gerais,3140704,Mateus Leme,0,0,0
+Minas Gerais,3140803,Matias Barbosa,0,0,0
+Minas Gerais,3140852,Matias Cardoso,0,0,0
+Minas Gerais,3140902,Matipó,0,0,0
+Minas Gerais,3141009,Mato Verde,0,0,0
+Minas Gerais,3141108,Matozinhos,116,16,1014
+Minas Gerais,3141207,Matutina,0,0,0
+Minas Gerais,3141306,Medeiros,0,0,0
+Minas Gerais,3141405,Medina,0,0,0
+Minas Gerais,3141504,Mendes Pimentel,0,0,0
+Minas Gerais,3141603,Mercês,0,0,0
+Minas Gerais,3141702,Mesquita,0,0,0
+Minas Gerais,3141801,Minas Novas,0,0,0
+Minas Gerais,3141900,Minduri,0,0,0
+Minas Gerais,3142007,Mirabela,0,0,0
+Minas Gerais,3142106,Miradouro,0,0,0
+Minas Gerais,3142205,Miraí,0,0,0
+Minas Gerais,3142254,Miravânia,0,0,0
+Minas Gerais,3142304,Moeda,0,0,0
+Minas Gerais,3142403,Moema,0,0,0
+Minas Gerais,3142502,Monjolos,0,0,0
+Minas Gerais,3142601,Monsenhor Paulo,0,0,0
+Minas Gerais,3142700,Montalvânia,0,0,0
+Minas Gerais,3142809,Monte Alegre de Minas,0,0,0
+Minas Gerais,3142908,Monte Azul,0,0,0
+Minas Gerais,3143005,Monte Belo,0,0,0
+Minas Gerais,3143104,Monte Carmelo,0,0,0
+Minas Gerais,3143153,Monte Formoso,0,0,0
+Minas Gerais,3143203,Monte Santo de Minas,0,0,0
+Minas Gerais,3143302,Montes Claros,296,24,1546
+Minas Gerais,3143401,Monte Sião,0,0,0
+Minas Gerais,3143450,Montezuma,0,0,0
+Minas Gerais,3143500,Morada Nova de Minas,0,0,0
+Minas Gerais,3143609,Morro da Garça,0,0,0
+Minas Gerais,3143708,Morro do Pilar,0,0,0
+Minas Gerais,3143807,Munhoz,0,0,0
+Minas Gerais,3143906,Muriaé,0,0,0
+Minas Gerais,3144003,Mutum,0,0,0
+Minas Gerais,3144102,Muzambinho,0,0,0
+Minas Gerais,3144201,Nacip Raydan,0,0,0
+Minas Gerais,3144300,Nanuque,0,0,0
+Minas Gerais,3144359,Naque,0,0,0
+Minas Gerais,3144375,Natalândia,0,0,0
+Minas Gerais,3144409,Natércia,0,0,0
+Minas Gerais,3144508,Nazareno,0,0,0
+Minas Gerais,3144607,Nepomuceno,0,0,0
+Minas Gerais,3144656,Ninheira,0,0,0
+Minas Gerais,3144672,Nova Belém,0,0,0
+Minas Gerais,3144706,Nova Era,0,0,0
+Minas Gerais,3144805,Nova Lima,0,0,0
+Minas Gerais,3144904,Nova Módica,0,0,0
+Minas Gerais,3145000,Nova Ponte,0,0,0
+Minas Gerais,3145059,Nova Porteirinha,0,0,0
+Minas Gerais,3145109,Nova Resende,0,0,0
+Minas Gerais,3145208,Nova Serrana,0,0,0
+Minas Gerais,3145307,Novo Cruzeiro,0,0,0
+Minas Gerais,3145356,Novo Oriente de Minas,0,0,0
+Minas Gerais,3145372,Novorizonte,0,0,0
+Minas Gerais,3145406,Olaria,0,0,0
+Minas Gerais,3145455,Olhos-d'Água,0,0,0
+Minas Gerais,3145505,Olímpio Noronha,0,0,0
+Minas Gerais,3145604,Oliveira,0,0,0
+Minas Gerais,3145703,Oliveira Fortes,0,0,0
+Minas Gerais,3145802,Onça de Pitangui,0,0,0
+Minas Gerais,3145851,Oratórios,0,0,0
+Minas Gerais,3145877,Orizânia,0,0,0
+Minas Gerais,3145901,Ouro Branco,0,0,0
+Minas Gerais,3146008,Ouro Fino,0,0,0
+Minas Gerais,3146107,Ouro Preto,0,0,0
+Minas Gerais,3146206,Ouro Verde de Minas,0,0,0
+Minas Gerais,3146255,Padre Carvalho,0,0,0
+Minas Gerais,3146305,Padre Paraíso,0,0,0
+Minas Gerais,3146404,Paineiras,0,0,0
+Minas Gerais,3146503,Pains,0,0,0
+Minas Gerais,3146552,Pai Pedro,0,0,0
+Minas Gerais,3146602,Paiva,0,0,0
+Minas Gerais,3146701,Palma,0,0,0
+Minas Gerais,3146750,Palmópolis,0,0,0
+Minas Gerais,3146909,Papagaios,0,0,0
+Minas Gerais,3147006,Paracatu,0,0,0
+Minas Gerais,3147105,Pará de Minas,0,0,0
+Minas Gerais,3147204,Paraguaçu,0,0,0
+Minas Gerais,3147303,Paraisópolis,0,0,0
+Minas Gerais,3147402,Paraopeba,0,0,0
+Minas Gerais,3147501,Passabém,0,0,0
+Minas Gerais,3147600,Passa Quatro,0,0,0
+Minas Gerais,3147709,Passa Tempo,0,0,0
+Minas Gerais,3147808,Passa Vinte,0,0,0
+Minas Gerais,3147907,Passos,0,0,0
+Minas Gerais,3147956,Patis,0,0,0
+Minas Gerais,3148004,Patos de Minas,188,35,1196
+Minas Gerais,3148103,Patrocínio,0,0,0
+Minas Gerais,3148202,Patrocínio do Muriaé,0,0,0
+Minas Gerais,3148301,Paula Cândido,0,0,0
+Minas Gerais,3148400,Paulistas,0,0,0
+Minas Gerais,3148509,Pavão,0,0,0
+Minas Gerais,3148608,Peçanha,0,0,0
+Minas Gerais,3148707,Pedra Azul,0,0,0
+Minas Gerais,3148756,Pedra Bonita,0,0,0
+Minas Gerais,3148806,Pedra do Anta,0,0,0
+Minas Gerais,3148905,Pedra do Indaiá,0,0,0
+Minas Gerais,3149002,Pedra Dourada,0,0,0
+Minas Gerais,3149101,Pedralva,0,0,0
+Minas Gerais,3149150,Pedras de Maria da Cruz,0,0,0
+Minas Gerais,3149200,Pedrinópolis,0,0,0
+Minas Gerais,3149309,Pedro Leopoldo,0,0,0
+Minas Gerais,3149408,Pedro Teixeira,0,0,0
+Minas Gerais,3149507,Pequeri,0,0,0
+Minas Gerais,3149606,Pequi,0,0,0
+Minas Gerais,3149705,Perdigão,0,0,0
+Minas Gerais,3149804,Perdizes,0,0,0
+Minas Gerais,3149903,Perdões,0,0,0
+Minas Gerais,3149952,Periquito,0,0,0
+Minas Gerais,3150000,Pescador,0,0,0
+Minas Gerais,3150109,Piau,0,0,0
+Minas Gerais,3150158,Piedade de Caratinga,0,0,0
+Minas Gerais,3150208,Piedade de Ponte Nova,0,0,0
+Minas Gerais,3150307,Piedade do Rio Grande,0,0,0
+Minas Gerais,3150406,Piedade dos Gerais,0,0,0
+Minas Gerais,3150505,Pimenta,0,0,0
+Minas Gerais,3150539,Pingo d'Água,0,0,0
+Minas Gerais,3150570,Pintópolis,0,0,0
+Minas Gerais,3150604,Piracema,0,0,0
+Minas Gerais,3150703,Pirajuba,0,0,0
+Minas Gerais,3150802,Piranga,0,0,0
+Minas Gerais,3150901,Piranguçu,0,0,0
+Minas Gerais,3151008,Piranguinho,0,0,0
+Minas Gerais,3151107,Pirapetinga,0,0,0
+Minas Gerais,3151206,Pirapora,0,0,0
+Minas Gerais,3151305,Piraúba,0,0,0
+Minas Gerais,3151404,Pitangui,0,0,0
+Minas Gerais,3151503,Piumhi,373,91,1960
+Minas Gerais,3151602,Planura,0,0,0
+Minas Gerais,3151701,Poço Fundo,0,0,0
+Minas Gerais,3151800,Poços de Caldas,0,0,0
+Minas Gerais,3151909,Pocrane,0,0,0
+Minas Gerais,3152006,Pompéu,0,0,0
+Minas Gerais,3152105,Ponte Nova,0,0,0
+Minas Gerais,3152131,Ponto Chique,0,0,0
+Minas Gerais,3152170,Ponto dos Volantes,0,0,0
+Minas Gerais,3152204,Porteirinha,0,0,0
+Minas Gerais,3152303,Porto Firme,0,0,0
+Minas Gerais,3152402,Poté,0,0,0
+Minas Gerais,3152501,Pouso Alegre,59,15,410
+Minas Gerais,3152600,Pouso Alto,0,0,0
+Minas Gerais,3152709,Prados,0,0,0
+Minas Gerais,3152808,Prata,0,0,0
+Minas Gerais,3152907,Pratápolis,0,0,0
+Minas Gerais,3153004,Pratinha,0,0,0
+Minas Gerais,3153103,Presidente Bernardes,0,0,0
+Minas Gerais,3153202,Presidente Juscelino,0,0,0
+Minas Gerais,3153301,Presidente Kubitschek,0,0,0
+Minas Gerais,3153400,Presidente Olegário,0,0,0
+Minas Gerais,3153509,Alto Jequitibá,0,0,0
+Minas Gerais,3153608,Prudente de Morais,0,0,0
+Minas Gerais,3153707,Quartel Geral,0,0,0
+Minas Gerais,3153806,Queluzito,0,0,0
+Minas Gerais,3153905,Raposos,0,0,0
+Minas Gerais,3154002,Raul Soares,0,0,0
+Minas Gerais,3154101,Recreio,0,0,0
+Minas Gerais,3154150,Reduto,0,0,0
+Minas Gerais,3154200,Resende Costa,0,0,0
+Minas Gerais,3154309,Resplendor,0,0,0
+Minas Gerais,3154408,Ressaquinha,0,0,0
+Minas Gerais,3154457,Riachinho,0,0,0
+Minas Gerais,3154507,Riacho dos Machados,0,0,0
+Minas Gerais,3154606,Ribeirão das Neves,0,0,0
+Minas Gerais,3154705,Ribeirão Vermelho,0,0,0
+Minas Gerais,3154804,Rio Acima,0,0,0
+Minas Gerais,3154903,Rio Casca,0,0,0
+Minas Gerais,3155009,Rio Doce,0,0,0
+Minas Gerais,3155108,Rio do Prado,0,0,0
+Minas Gerais,3155207,Rio Espera,0,0,0
+Minas Gerais,3155306,Rio Manso,0,0,0
+Minas Gerais,3155405,Rio Novo,0,0,0
+Minas Gerais,3155504,Rio Paranaíba,0,0,0
+Minas Gerais,3155603,Rio Pardo de Minas,0,0,0
+Minas Gerais,3155702,Rio Piracicaba,0,0,0
+Minas Gerais,3155801,Rio Pomba,0,0,0
+Minas Gerais,3155900,Rio Preto,0,0,0
+Minas Gerais,3156007,Rio Vermelho,0,0,0
+Minas Gerais,3156106,Ritápolis,0,0,0
+Minas Gerais,3156205,Rochedo de Minas,0,0,0
+Minas Gerais,3156304,Rodeiro,0,0,0
+Minas Gerais,3156403,Romaria,0,0,0
+Minas Gerais,3156452,Rosário da Limeira,0,0,0
+Minas Gerais,3156502,Rubelita,0,0,0
+Minas Gerais,3156601,Rubim,0,0,0
+Minas Gerais,3156700,Sabará,0,0,0
+Minas Gerais,3156809,Sabinópolis,0,0,0
+Minas Gerais,3156908,Sacramento,0,0,0
+Minas Gerais,3157005,Salinas,0,0,0
+Minas Gerais,3157104,Salto da Divisa,0,0,0
+Minas Gerais,3157203,Santa Bárbara,0,0,0
+Minas Gerais,3157252,Santa Bárbara do Leste,0,0,0
+Minas Gerais,3157278,Santa Bárbara do Monte Verde,0,0,0
+Minas Gerais,3157302,Santa Bárbara do Tugúrio,0,0,0
+Minas Gerais,3157336,Santa Cruz de Minas,0,0,0
+Minas Gerais,3157377,Santa Cruz de Salinas,0,0,0
+Minas Gerais,3157401,Santa Cruz do Escalvado,0,0,0
+Minas Gerais,3157500,Santa Efigênia de Minas,0,0,0
+Minas Gerais,3157609,Santa Fé de Minas,0,0,0
+Minas Gerais,3157658,Santa Helena de Minas,0,0,0
+Minas Gerais,3157708,Santa Juliana,0,0,0
+Minas Gerais,3157807,Santa Luzia,0,0,0
+Minas Gerais,3157906,Santa Margarida,0,0,0
+Minas Gerais,3158003,Santa Maria de Itabira,0,0,0
+Minas Gerais,3158102,Santa Maria do Salto,0,0,0
+Minas Gerais,3158201,Santa Maria do Suaçuí,0,0,0
+Minas Gerais,3158300,Santana da Vargem,0,0,0
+Minas Gerais,3158409,Santana de Cataguases,0,0,0
+Minas Gerais,3158508,Santana de Pirapama,0,0,0
+Minas Gerais,3158607,Santana do Deserto,0,0,0
+Minas Gerais,3158706,Santana do Garambéu,0,0,0
+Minas Gerais,3158805,Santana do Jacaré,0,0,0
+Minas Gerais,3158904,Santana do Manhuaçu,0,0,0
+Minas Gerais,3158953,Santana do Paraíso,0,0,0
+Minas Gerais,3159001,Santana do Riacho,0,0,0
+Minas Gerais,3159100,Santana dos Montes,0,0,0
+Minas Gerais,3159209,Santa Rita de Caldas,0,0,0
+Minas Gerais,3159308,Santa Rita de Jacutinga,0,0,0
+Minas Gerais,3159357,Santa Rita de Minas,0,0,0
+Minas Gerais,3159407,Santa Rita de Ibitipoca,0,0,0
+Minas Gerais,3159506,Santa Rita do Itueto,0,0,0
+Minas Gerais,3159605,Santa Rita do Sapucaí,1009,34,1631
+Minas Gerais,3159704,Santa Rosa da Serra,0,0,0
+Minas Gerais,3159803,Santa Vitória,0,0,0
+Minas Gerais,3159902,Santo Antônio do Amparo,0,0,0
+Minas Gerais,3160009,Santo Antônio do Aventureiro,0,0,0
+Minas Gerais,3160108,Santo Antônio do Grama,0,0,0
+Minas Gerais,3160207,Santo Antônio do Itambé,0,0,0
+Minas Gerais,3160306,Santo Antônio do Jacinto,0,0,0
+Minas Gerais,3160405,Santo Antônio do Monte,0,0,0
+Minas Gerais,3160454,Santo Antônio do Retiro,0,0,0
+Minas Gerais,3160504,Santo Antônio do Rio Abaixo,0,0,0
+Minas Gerais,3160603,Santo Hipólito,0,0,0
+Minas Gerais,3160702,Santos Dumont,0,0,0
+Minas Gerais,3160801,São Bento Abade,0,0,0
+Minas Gerais,3160900,São Brás do Suaçuí,0,0,0
+Minas Gerais,3160959,São Domingos das Dores,0,0,0
+Minas Gerais,3161007,São Domingos do Prata,0,0,0
+Minas Gerais,3161056,São Félix de Minas,0,0,0
+Minas Gerais,3161106,São Francisco,0,0,0
+Minas Gerais,3161205,São Francisco de Paula,0,0,0
+Minas Gerais,3161304,São Francisco de Sales,0,0,0
+Minas Gerais,3161403,São Francisco do Glória,0,0,0
+Minas Gerais,3161502,São Geraldo,0,0,0
+Minas Gerais,3161601,São Geraldo da Piedade,0,0,0
+Minas Gerais,3161650,São Geraldo do Baixio,0,0,0
+Minas Gerais,3161700,São Gonçalo do Abaeté,0,0,0
+Minas Gerais,3161809,São Gonçalo do Pará,0,0,0
+Minas Gerais,3161908,São Gonçalo do Rio Abaixo,0,0,0
+Minas Gerais,3162005,São Gonçalo do Sapucaí,0,0,0
+Minas Gerais,3162104,São Gotardo,0,0,0
+Minas Gerais,3162203,São João Batista do Glória,0,0,0
+Minas Gerais,3162252,São João da Lagoa,0,0,0
+Minas Gerais,3162302,São João da Mata,0,0,0
+Minas Gerais,3162401,São João da Ponte,0,0,0
+Minas Gerais,3162450,São João das Missões,0,0,0
+Minas Gerais,3162500,São João del Rei,162,15,893
+Minas Gerais,3162559,São João do Manhuaçu,0,0,0
+Minas Gerais,3162575,São João do Manteninha,0,0,0
+Minas Gerais,3162609,São João do Oriente,0,0,0
+Minas Gerais,3162658,São João do Pacuí,0,0,0
+Minas Gerais,3162708,São João do Paraíso,0,0,0
+Minas Gerais,3162807,São João Evangelista,0,0,0
+Minas Gerais,3162906,São João Nepomuceno,0,0,0
+Minas Gerais,3162922,São Joaquim de Bicas,0,0,0
+Minas Gerais,3162948,São José da Barra,0,0,0
+Minas Gerais,3162955,São José da Lapa,0,0,0
+Minas Gerais,3163003,São José da Safira,0,0,0
+Minas Gerais,3163102,São José da Varginha,0,0,0
+Minas Gerais,3163201,São José do Alegre,0,0,0
+Minas Gerais,3163300,São José do Divino,0,0,0
+Minas Gerais,3163409,São José do Goiabal,0,0,0
+Minas Gerais,3163508,São José do Jacuri,0,0,0
+Minas Gerais,3163607,São José do Mantimento,0,0,0
+Minas Gerais,3163706,São Lourenço,0,0,0
+Minas Gerais,3163805,São Miguel do Anta,0,0,0
+Minas Gerais,3163904,São Pedro da União,0,0,0
+Minas Gerais,3164001,São Pedro dos Ferros,0,0,0
+Minas Gerais,3164100,São Pedro do Suaçuí,0,0,0
+Minas Gerais,3164209,São Romão,0,0,0
+Minas Gerais,3164308,São Roque de Minas,0,0,0
+Minas Gerais,3164407,São Sebastião da Bela Vista,0,0,0
+Minas Gerais,3164431,São Sebastião da Vargem Alegre,0,0,0
+Minas Gerais,3164472,São Sebastião do Anta,0,0,0
+Minas Gerais,3164506,São Sebastião do Maranhão,0,0,0
+Minas Gerais,3164605,São Sebastião do Oeste,0,0,0
+Minas Gerais,3164704,São Sebastião do Paraíso,0,0,0
+Minas Gerais,3164803,São Sebastião do Rio Preto,0,0,0
+Minas Gerais,3164902,São Sebastião do Rio Verde,0,0,0
+Minas Gerais,3165008,São Tiago,0,0,0
+Minas Gerais,3165107,São Tomás de Aquino,0,0,0
+Minas Gerais,3165206,São Thomé das Letras,0,0,0
+Minas Gerais,3165305,São Vicente de Minas,0,0,0
+Minas Gerais,3165404,Sapucaí-Mirim,0,0,0
+Minas Gerais,3165503,Sardoá,0,0,0
+Minas Gerais,3165537,Sarzedo,0,0,0
+Minas Gerais,3165552,Setubinha,0,0,0
+Minas Gerais,3165560,Sem-Peixe,0,0,0
+Minas Gerais,3165578,Senador Amaral,0,0,0
+Minas Gerais,3165602,Senador Cortes,0,0,0
+Minas Gerais,3165701,Senador Firmino,0,0,0
+Minas Gerais,3165800,Senador José Bento,0,0,0
+Minas Gerais,3165909,Senador Modestino Gonçalves,0,0,0
+Minas Gerais,3166006,Senhora de Oliveira,0,0,0
+Minas Gerais,3166105,Senhora do Porto,0,0,0
+Minas Gerais,3166204,Senhora dos Remédios,0,0,0
+Minas Gerais,3166303,Sericita,0,0,0
+Minas Gerais,3166402,Seritinga,0,0,0
+Minas Gerais,3166501,Serra Azul de Minas,0,0,0
+Minas Gerais,3166600,Serra da Saudade,0,0,0
+Minas Gerais,3166709,Serra dos Aimorés,0,0,0
+Minas Gerais,3166808,Serra do Salitre,0,0,0
+Minas Gerais,3166907,Serrania,0,0,0
+Minas Gerais,3166956,Serranópolis de Minas,0,0,0
+Minas Gerais,3167004,Serranos,0,0,0
+Minas Gerais,3167103,Serro,0,0,0
+Minas Gerais,3167202,Sete Lagoas,188,42,1388
+Minas Gerais,3167301,Silveirânia,0,0,0
+Minas Gerais,3167400,Silvianópolis,0,0,0
+Minas Gerais,3167509,Simão Pereira,0,0,0
+Minas Gerais,3167608,Simonésia,0,0,0
+Minas Gerais,3167707,Sobrália,0,0,0
+Minas Gerais,3167806,Soledade de Minas,0,0,0
+Minas Gerais,3167905,Tabuleiro,0,0,0
+Minas Gerais,3168002,Taiobeiras,0,0,0
+Minas Gerais,3168051,Taparuba,0,0,0
+Minas Gerais,3168101,Tapira,0,0,0
+Minas Gerais,3168200,Tapiraí,0,0,0
+Minas Gerais,3168309,Taquaraçu de Minas,0,0,0
+Minas Gerais,3168408,Tarumirim,0,0,0
+Minas Gerais,3168507,Teixeiras,0,0,0
+Minas Gerais,3168606,Teófilo Otoni,0,0,0
+Minas Gerais,3168705,Timóteo,0,0,0
+Minas Gerais,3168804,Tiradentes,0,0,0
+Minas Gerais,3168903,Tiros,0,0,0
+Minas Gerais,3169000,Tocantins,0,0,0
+Minas Gerais,3169059,Tocos do Moji,0,0,0
+Minas Gerais,3169109,Toledo,240,13,426
+Minas Gerais,3169208,Tombos,0,0,0
+Minas Gerais,3169307,Três Corações,0,0,0
+Minas Gerais,3169356,Três Marias,0,0,0
+Minas Gerais,3169406,Três Pontas,0,0,0
+Minas Gerais,3169505,Tumiritinga,0,0,0
+Minas Gerais,3169604,Tupaciguara,0,0,0
+Minas Gerais,3169703,Turmalina,0,0,0
+Minas Gerais,3169802,Turvolândia,0,0,0
+Minas Gerais,3169901,Ubá,0,0,0
+Minas Gerais,3170008,Ubaí,0,0,0
+Minas Gerais,3170057,Ubaporanga,0,0,0
+Minas Gerais,3170107,Uberaba,113,2,71
+Minas Gerais,3170206,Uberlândia,395,136,4147
+Minas Gerais,3170305,Umburatiba,0,0,0
+Minas Gerais,3170404,Unaí,0,0,0
+Minas Gerais,3170438,União de Minas,0,0,0
+Minas Gerais,3170479,Uruana de Minas,0,0,0
+Minas Gerais,3170503,Urucânia,0,0,0
+Minas Gerais,3170529,Urucuia,0,0,0
+Minas Gerais,3170578,Vargem Alegre,0,0,0
+Minas Gerais,3170602,Vargem Bonita,0,0,0
+Minas Gerais,3170651,Vargem Grande do Rio Pardo,0,0,0
+Minas Gerais,3170701,Varginha,11,7,153
+Minas Gerais,3170750,Varjão de Minas,0,0,0
+Minas Gerais,3170800,Várzea da Palma,0,0,0
+Minas Gerais,3170909,Varzelândia,0,0,0
+Minas Gerais,3171006,Vazante,0,0,0
+Minas Gerais,3171030,Verdelândia,0,0,0
+Minas Gerais,3171071,Veredinha,0,0,0
+Minas Gerais,3171105,Veríssimo,0,0,0
+Minas Gerais,3171154,Vermelho Novo,0,0,0
+Minas Gerais,3171204,Vespasiano,9,8,367
+Minas Gerais,3171303,Viçosa,0,0,0
+Minas Gerais,3171402,Vieiras,0,0,0
+Minas Gerais,3171501,Mathias Lobato,0,0,0
+Minas Gerais,3171600,Virgem da Lapa,0,0,0
+Minas Gerais,3171709,Virgínia,0,0,0
+Minas Gerais,3171808,Virginópolis,0,0,0
+Minas Gerais,3171907,Virgolândia,0,0,0
+Minas Gerais,3172004,Visconde do Rio Branco,0,0,0
+Minas Gerais,3172103,Volta Grande,0,0,0
+Minas Gerais,3172202,Wenceslau Braz,0,0,0
+Espírito Santo,3200102,Afonso Cláudio,0,0,0
+Espírito Santo,3200136,Águia Branca,0,0,0
+Espírito Santo,3200169,Água Doce do Norte,0,0,0
+Espírito Santo,3200201,Alegre,0,0,0
+Espírito Santo,3200300,Alfredo Chaves,0,0,0
+Espírito Santo,3200359,Alto Rio Novo,0,0,0
+Espírito Santo,3200409,Anchieta,0,0,0
+Espírito Santo,3200508,Apiacá,0,0,0
+Espírito Santo,3200607,Aracruz,0,0,0
+Espírito Santo,3200706,Atílio Vivacqua,0,0,0
+Espírito Santo,3200805,Baixo Guandu,0,0,0
+Espírito Santo,3200904,Barra de São Francisco,0,0,0
+Espírito Santo,3201001,Boa Esperança,0,0,0
+Espírito Santo,3201100,Bom Jesus do Norte,0,0,0
+Espírito Santo,3201159,Brejetuba,0,0,0
+Espírito Santo,3201209,Cachoeiro de Itapemirim,0,0,0
+Espírito Santo,3201308,Cariacica,0,0,0
+Espírito Santo,3201407,Castelo,0,0,0
+Espírito Santo,3201506,Colatina,0,0,0
+Espírito Santo,3201605,Conceição da Barra,0,0,0
+Espírito Santo,3201704,Conceição do Castelo,0,0,0
+Espírito Santo,3201803,Divino de São Lourenço,0,0,0
+Espírito Santo,3201902,Domingos Martins,0,0,0
+Espírito Santo,3202009,Dores do Rio Preto,0,0,0
+Espírito Santo,3202108,Ecoporanga,0,0,0
+Espírito Santo,3202207,Fundão,0,0,0
+Espírito Santo,3202256,Governador Lindenberg,0,0,0
+Espírito Santo,3202306,Guaçuí,0,0,0
+Espírito Santo,3202405,Guarapari,0,0,0
+Espírito Santo,3202454,Ibatiba,0,0,0
+Espírito Santo,3202504,Ibiraçu,0,0,0
+Espírito Santo,3202553,Ibitirama,0,0,0
+Espírito Santo,3202603,Iconha,0,0,0
+Espírito Santo,3202652,Irupi,0,0,0
+Espírito Santo,3202702,Itaguaçu,0,0,0
+Espírito Santo,3202801,Itapemirim,0,0,0
+Espírito Santo,3202900,Itarana,0,0,0
+Espírito Santo,3203007,Iúna,0,0,0
+Espírito Santo,3203056,Jaguaré,0,0,0
+Espírito Santo,3203106,Jerônimo Monteiro,0,0,0
+Espírito Santo,3203130,João Neiva,0,0,0
+Espírito Santo,3203163,Laranja da Terra,0,0,0
+Espírito Santo,3203205,Linhares,0,0,0
+Espírito Santo,3203304,Mantenópolis,0,0,0
+Espírito Santo,3203320,Marataízes,0,0,0
+Espírito Santo,3203346,Marechal Floriano,0,0,0
+Espírito Santo,3203353,Marilândia,0,0,0
+Espírito Santo,3203403,Mimoso do Sul,0,0,0
+Espírito Santo,3203502,Montanha,0,0,0
+Espírito Santo,3203601,Mucurici,0,0,0
+Espírito Santo,3203700,Muniz Freire,0,0,0
+Espírito Santo,3203809,Muqui,0,0,0
+Espírito Santo,3203908,Nova Venécia,0,0,0
+Espírito Santo,3204005,Pancas,0,0,0
+Espírito Santo,3204054,Pedro Canário,0,0,0
+Espírito Santo,3204104,Pinheiros,0,0,0
+Espírito Santo,3204203,Piúma,0,0,0
+Espírito Santo,3204252,Ponto Belo,0,0,0
+Espírito Santo,3204302,Presidente Kennedy,0,0,0
+Espírito Santo,3204351,Rio Bananal,0,0,0
+Espírito Santo,3204401,Rio Novo do Sul,0,0,0
+Espírito Santo,3204500,Santa Leopoldina,0,0,0
+Espírito Santo,3204559,Santa Maria de Jetibá,0,0,0
+Espírito Santo,3204609,Santa Teresa,0,0,0
+Espírito Santo,3204658,São Domingos do Norte,0,0,0
+Espírito Santo,3204708,São Gabriel da Palha,0,0,0
+Espírito Santo,3204807,São José do Calçado,0,0,0
+Espírito Santo,3204906,São Mateus,0,0,0
+Espírito Santo,3204955,São Roque do Canaã,0,0,0
+Espírito Santo,3205002,Serra,0,0,0
+Espírito Santo,3205010,Sooretama,0,0,0
+Espírito Santo,3205036,Vargem Alta,0,0,0
+Espírito Santo,3205069,Venda Nova do Imigrante,0,0,0
+Espírito Santo,3205101,Viana,0,0,0
+Espírito Santo,3205150,Vila Pavão,0,0,0
+Espírito Santo,3205176,Vila Valério,0,0,0
+Espírito Santo,3205200,Vila Velha,0,0,0
+Espírito Santo,3205309,Vitória,0,0,0
+Rio de Janeiro,3300100,Angra dos Reis,0,0,0
+Rio de Janeiro,3300159,Aperibé,0,0,0
+Rio de Janeiro,3300209,Araruama,0,0,0
+Rio de Janeiro,3300225,Areal,0,0,0
+Rio de Janeiro,3300233,Armação dos Búzios,0,0,0
+Rio de Janeiro,3300258,Arraial do Cabo,0,0,0
+Rio de Janeiro,3300308,Barra do Piraí,0,0,0
+Rio de Janeiro,3300407,Barra Mansa,0,0,0
+Rio de Janeiro,3300456,Belford Roxo,0,0,0
+Rio de Janeiro,3300506,Bom Jardim,0,0,0
+Rio de Janeiro,3300605,Bom Jesus do Itabapoana,0,0,0
+Rio de Janeiro,3300704,Cabo Frio,211,34,966
+Rio de Janeiro,3300803,Cachoeiras de Macacu,0,0,0
+Rio de Janeiro,3300902,Cambuci,340,17,613
+Rio de Janeiro,3300936,Carapebus,0,0,0
+Rio de Janeiro,3300951,Comendador Levy Gasparian,0,0,0
+Rio de Janeiro,3301009,Campos dos Goytacazes,30,18,616
+Rio de Janeiro,3301108,Cantagalo,0,0,0
+Rio de Janeiro,3301157,Cardoso Moreira,0,0,0
+Rio de Janeiro,3301207,Carmo,0,0,0
+Rio de Janeiro,3301306,Casimiro de Abreu,0,0,0
+Rio de Janeiro,3301405,Conceição de Macabu,0,0,0
+Rio de Janeiro,3301504,Cordeiro,2,1,6
+Rio de Janeiro,3301603,Duas Barras,0,0,0
+Rio de Janeiro,3301702,Duque de Caxias,0,0,0
+Rio de Janeiro,3301801,Engenheiro Paulo de Frontin,0,0,0
+Rio de Janeiro,3301850,Guapimirim,0,0,0
+Rio de Janeiro,3301876,Iguaba Grande,0,0,0
+Rio de Janeiro,3301900,Itaboraí,0,0,0
+Rio de Janeiro,3302007,Itaguaí,0,0,0
+Rio de Janeiro,3302056,Italva,0,0,0
+Rio de Janeiro,3302106,Itaocara,0,0,0
+Rio de Janeiro,3302205,Itaperuna,0,0,0
+Rio de Janeiro,3302254,Itatiaia,0,0,0
+Rio de Janeiro,3302270,Japeri,0,0,0
+Rio de Janeiro,3302304,Laje do Muriaé,0,0,0
+Rio de Janeiro,3302403,Macaé,855,73,2492
+Rio de Janeiro,3302452,Macuco,0,0,0
+Rio de Janeiro,3302502,Magé,15,12,581
+Rio de Janeiro,3302601,Mangaratiba,0,0,0
+Rio de Janeiro,3302700,Maricá,0,0,0
+Rio de Janeiro,3302809,Mendes,0,0,0
+Rio de Janeiro,3302858,Mesquita,0,0,0
+Rio de Janeiro,3302908,Miguel Pereira,0,0,0
+Rio de Janeiro,3303005,Miracema,0,0,0
+Rio de Janeiro,3303104,Natividade,0,0,0
+Rio de Janeiro,3303203,Nilópolis,75,41,1441
+Rio de Janeiro,3303302,Niterói,173,18,879
+Rio de Janeiro,3303401,Nova Friburgo,0,0,0
+Rio de Janeiro,3303500,Nova Iguaçu,195,31,1524
+Rio de Janeiro,3303609,Paracambi,0,0,0
+Rio de Janeiro,3303708,Paraíba do Sul,0,0,0
+Rio de Janeiro,3303807,Paraty,0,0,0
+Rio de Janeiro,3303856,Paty do Alferes,0,0,0
+Rio de Janeiro,3303906,Petrópolis,0,0,0
+Rio de Janeiro,3303955,Pinheiral,0,0,0
+Rio de Janeiro,3304003,Piraí,346,20,775
+Rio de Janeiro,3304102,Porciúncula,0,0,0
+Rio de Janeiro,3304110,Porto Real,0,0,0
+Rio de Janeiro,3304128,Quatis,0,0,0
+Rio de Janeiro,3304144,Queimados,0,0,0
+Rio de Janeiro,3304151,Quissamã,0,0,0
+Rio de Janeiro,3304201,Resende,240,11,827
+Rio de Janeiro,3304300,Rio Bonito,0,0,0
+Rio de Janeiro,3304409,Rio Claro,39,14,885
+Rio de Janeiro,3304508,Rio das Flores,0,0,0
+Rio de Janeiro,3304524,Rio das Ostras,0,0,0
+Rio de Janeiro,3304557,Rio de Janeiro,362,135,3725
+Rio de Janeiro,3304607,Santa Maria Madalena,0,0,0
+Rio de Janeiro,3304706,Santo Antônio de Pádua,0,0,0
+Rio de Janeiro,3304755,São Francisco de Itabapoana,0,0,0
+Rio de Janeiro,3304805,São Fidélis,0,0,0
+Rio de Janeiro,3304904,São Gonçalo,36,1,17
+Rio de Janeiro,3305000,São João da Barra,0,0,0
+Rio de Janeiro,3305109,São João de Meriti,0,0,0
+Rio de Janeiro,3305133,São José de Ubá,0,0,0
+Rio de Janeiro,3305158,São José do Vale do Rio Preto,0,0,0
+Rio de Janeiro,3305208,São Pedro da Aldeia,0,0,0
+Rio de Janeiro,3305307,São Sebastião do Alto,0,0,0
+Rio de Janeiro,3305406,Sapucaia,0,0,0
+Rio de Janeiro,3305505,Saquarema,0,0,0
+Rio de Janeiro,3305554,Seropédica,0,0,0
+Rio de Janeiro,3305604,Silva Jardim,0,0,0
+Rio de Janeiro,3305703,Sumidouro,0,0,0
+Rio de Janeiro,3305752,Tanguá,0,0,0
+Rio de Janeiro,3305802,Teresópolis,12,6,130
+Rio de Janeiro,3305901,Trajano de Moraes,0,0,0
+Rio de Janeiro,3306008,Três Rios,0,0,0
+Rio de Janeiro,3306107,Valença,0,0,0
+Rio de Janeiro,3306156,Varre-Sai,0,0,0
+Rio de Janeiro,3306206,Vassouras,0,0,0
+Rio de Janeiro,3306305,Volta Redonda,18,17,310
+São Paulo,3500105,Adamantina,0,0,0
+São Paulo,3500204,Adolfo,0,0,0
+São Paulo,3500303,Aguaí,0,0,0
+São Paulo,3500402,Águas da Prata,0,0,0
+São Paulo,3500501,Águas de Lindóia,0,0,0
+São Paulo,3500550,Águas de Santa Bárbara,0,0,0
+São Paulo,3500600,Águas de São Pedro,0,0,0
+São Paulo,3500709,Agudos,0,0,0
+São Paulo,3500758,Alambari,0,0,0
+São Paulo,3500808,Alfredo Marcondes,0,0,0
+São Paulo,3500907,Altair,0,0,0
+São Paulo,3501004,Altinópolis,0,0,0
+São Paulo,3501103,Alto Alegre,0,0,0
+São Paulo,3501152,Alumínio,0,0,0
+São Paulo,3501202,Álvares Florence,0,0,0
+São Paulo,3501301,Álvares Machado,0,0,0
+São Paulo,3501400,Álvaro de Carvalho,0,0,0
+São Paulo,3501509,Alvinlândia,0,0,0
+São Paulo,3501608,Americana,33,10,610
+São Paulo,3501707,Américo Brasiliense,0,0,0
+São Paulo,3501806,Américo de Campos,0,0,0
+São Paulo,3501905,Amparo,0,0,0
+São Paulo,3502002,Analândia,0,0,0
+São Paulo,3502101,Andradina,0,0,0
+São Paulo,3502200,Angatuba,0,0,0
+São Paulo,3502309,Anhembi,0,0,0
+São Paulo,3502408,Anhumas,0,0,0
+São Paulo,3502507,Aparecida,0,0,0
+São Paulo,3502606,Aparecida d'Oeste,0,0,0
+São Paulo,3502705,Apiaí,0,0,0
+São Paulo,3502754,Araçariguama,0,0,0
+São Paulo,3502804,Araçatuba,0,0,0
+São Paulo,3502903,Araçoiaba da Serra,0,0,0
+São Paulo,3503000,Aramina,0,0,0
+São Paulo,3503109,Arandu,0,0,0
+São Paulo,3503158,Arapeí,0,0,0
+São Paulo,3503208,Araraquara,1,1,3
+São Paulo,3503307,Araras,47,2,85
+São Paulo,3503356,Arco-Íris,0,0,0
+São Paulo,3503406,Arealva,0,0,0
+São Paulo,3503505,Areias,0,0,0
+São Paulo,3503604,Areiópolis,0,0,0
+São Paulo,3503703,Ariranha,0,0,0
+São Paulo,3503802,Artur Nogueira,0,0,0
+São Paulo,3503901,Arujá,0,0,0
+São Paulo,3503950,Aspásia,0,0,0
+São Paulo,3504008,Assis,63,6,147
+São Paulo,3504107,Atibaia,237,45,1279
+São Paulo,3504206,Auriflama,0,0,0
+São Paulo,3504305,Avaí,0,0,0
+São Paulo,3504404,Avanhandava,0,0,0
+São Paulo,3504503,Avaré,509,33,1873
+São Paulo,3504602,Bady Bassitt,0,0,0
+São Paulo,3504701,Balbinos,0,0,0
+São Paulo,3504800,Bálsamo,0,0,0
+São Paulo,3504909,Bananal,0,0,0
+São Paulo,3505005,Barão de Antonina,0,0,0
+São Paulo,3505104,Barbosa,0,0,0
+São Paulo,3505203,Bariri,0,0,0
+São Paulo,3505302,Barra Bonita,0,0,0
+São Paulo,3505351,Barra do Chapéu,0,0,0
+São Paulo,3505401,Barra do Turvo,0,0,0
+São Paulo,3505500,Barretos,49,42,1293
+São Paulo,3505609,Barrinha,0,0,0
+São Paulo,3505708,Barueri,45,27,1055
+São Paulo,3505807,Bastos,0,0,0
+São Paulo,3505906,Batatais,67,15,489
+São Paulo,3506003,Bauru,1536,87,3222
+São Paulo,3506102,Bebedouro,0,0,0
+São Paulo,3506201,Bento de Abreu,0,0,0
+São Paulo,3506300,Bernardino de Campos,0,0,0
+São Paulo,3506359,Bertioga,0,0,0
+São Paulo,3506409,Bilac,0,0,0
+São Paulo,3506508,Birigui,0,0,0
+São Paulo,3506607,Biritiba Mirim,0,0,0
+São Paulo,3506706,Boa Esperança do Sul,0,0,0
+São Paulo,3506805,Bocaina,0,0,0
+São Paulo,3506904,Bofete,0,0,0
+São Paulo,3507001,Boituva,0,0,0
+São Paulo,3507100,Bom Jesus dos Perdões,0,0,0
+São Paulo,3507159,Bom Sucesso de Itararé,0,0,0
+São Paulo,3507209,Borá,0,0,0
+São Paulo,3507308,Boracéia,0,0,0
+São Paulo,3507407,Borborema,0,0,0
+São Paulo,3507456,Borebi,0,0,0
+São Paulo,3507506,Botucatu,210,42,1491
+São Paulo,3507605,Bragança Paulista,355,40,2491
+São Paulo,3507704,Braúna,0,0,0
+São Paulo,3507753,Brejo Alegre,0,0,0
+São Paulo,3507803,Brodowski,0,0,0
+São Paulo,3507902,Brotas,23,17,473
+São Paulo,3508009,Buri,0,0,0
+São Paulo,3508108,Buritama,0,0,0
+São Paulo,3508207,Buritizal,0,0,0
+São Paulo,3508306,Cabrália Paulista,0,0,0
+São Paulo,3508405,Cabreúva,0,0,0
+São Paulo,3508504,Caçapava,0,0,0
+São Paulo,3508603,Cachoeira Paulista,0,0,0
+São Paulo,3508702,Caconde,0,0,0
+São Paulo,3508801,Cafelândia,0,0,0
+São Paulo,3508900,Caiabu,0,0,0
+São Paulo,3509007,Caieiras,369,31,984
+São Paulo,3509106,Caiuá,0,0,0
+São Paulo,3509205,Cajamar,18,11,827
+São Paulo,3509254,Cajati,0,0,0
+São Paulo,3509304,Cajobi,0,0,0
+São Paulo,3509403,Cajuru,0,0,0
+São Paulo,3509452,Campina do Monte Alegre,0,0,0
+São Paulo,3509502,Campinas,1682,133,4183
+São Paulo,3509601,Campo Limpo Paulista,89,26,793
+São Paulo,3509700,Campos do Jordão,0,0,0
+São Paulo,3509809,Campos Novos Paulista,0,0,0
+São Paulo,3509908,Cananéia,0,0,0
+São Paulo,3509957,Canas,0,0,0
+São Paulo,3510005,Cândido Mota,0,0,0
+São Paulo,3510104,Cândido Rodrigues,0,0,0
+São Paulo,3510153,Canitar,0,0,0
+São Paulo,3510203,Capão Bonito,6,6,259
+São Paulo,3510302,Capela do Alto,0,0,0
+São Paulo,3510401,Capivari,0,0,0
+São Paulo,3510500,Caraguatatuba,0,0,0
+São Paulo,3510609,Carapicuíba,80,44,2166
+São Paulo,3510708,Cardoso,0,0,0
+São Paulo,3510807,Casa Branca,29,2,5
+São Paulo,3510906,Cássia dos Coqueiros,0,0,0
+São Paulo,3511003,Castilho,0,0,0
+São Paulo,3511102,Catanduva,165,64,3123
+São Paulo,3511201,Catiguá,0,0,0
+São Paulo,3511300,Cedral,0,0,0
+São Paulo,3511409,Cerqueira César,0,0,0
+São Paulo,3511508,Cerquilho,0,0,0
+São Paulo,3511607,Cesário Lange,0,0,0
+São Paulo,3511706,Charqueada,0,0,0
+São Paulo,3511904,Clementina,0,0,0
+São Paulo,3512001,Colina,0,0,0
+São Paulo,3512100,Colômbia,0,0,0
+São Paulo,3512209,Conchal,0,0,0
+São Paulo,3512308,Conchas,0,0,0
+São Paulo,3512407,Cordeirópolis,0,0,0
+São Paulo,3512506,Coroados,0,0,0
+São Paulo,3512605,Coronel Macedo,0,0,0
+São Paulo,3512704,Corumbataí,0,0,0
+São Paulo,3512803,Cosmópolis,0,0,0
+São Paulo,3512902,Cosmorama,0,0,0
+São Paulo,3513009,Cotia,688,112,4611
+São Paulo,3513108,Cravinhos,0,0,0
+São Paulo,3513207,Cristais Paulista,0,0,0
+São Paulo,3513306,Cruzália,0,0,0
+São Paulo,3513405,Cruzeiro,116,32,1424
+São Paulo,3513504,Cubatão,109,15,568
+São Paulo,3513603,Cunha,0,0,0
+São Paulo,3513702,Descalvado,0,0,0
+São Paulo,3513801,Diadema,0,0,0
+São Paulo,3513850,Dirce Reis,0,0,0
+São Paulo,3513900,Divinolândia,0,0,0
+São Paulo,3514007,Dobrada,0,0,0
+São Paulo,3514106,Dois Córregos,0,0,0
+São Paulo,3514205,Dolcinópolis,0,0,0
+São Paulo,3514304,Dourado,0,0,0
+São Paulo,3514403,Dracena,77,5,298
+São Paulo,3514502,Duartina,0,0,0
+São Paulo,3514601,Dumont,0,0,0
+São Paulo,3514700,Echaporã,0,0,0
+São Paulo,3514809,Eldorado,0,0,0
+São Paulo,3514908,Elias Fausto,0,0,0
+São Paulo,3514924,Elisiário,0,0,0
+São Paulo,3514957,Embaúba,0,0,0
+São Paulo,3515004,Embu das Artes,832,82,2541
+São Paulo,3515103,Embu-Guaçu,0,0,0
+São Paulo,3515129,Emilianópolis,0,0,0
+São Paulo,3515152,Engenheiro Coelho,0,0,0
+São Paulo,3515186,Espírito Santo do Pinhal,0,0,0
+São Paulo,3515194,Espírito Santo do Turvo,0,0,0
+São Paulo,3515202,Estrela d'Oeste,0,0,0
+São Paulo,3515301,Estrela do Norte,0,0,0
+São Paulo,3515350,Euclides da Cunha Paulista,0,0,0
+São Paulo,3515400,Fartura,0,0,0
+São Paulo,3515509,Fernandópolis,57,14,796
+São Paulo,3515608,Fernando Prestes,0,0,0
+São Paulo,3515657,Fernão,0,0,0
+São Paulo,3515707,Ferraz de Vasconcelos,0,0,0
+São Paulo,3515806,Flora Rica,0,0,0
+São Paulo,3515905,Floreal,0,0,0
+São Paulo,3516002,Flórida Paulista,0,0,0
+São Paulo,3516101,Florínea,0,0,0
+São Paulo,3516200,Franca,177,15,902
+São Paulo,3516309,Francisco Morato,0,0,0
+São Paulo,3516408,Franco da Rocha,0,0,0
+São Paulo,3516507,Gabriel Monteiro,0,0,0
+São Paulo,3516606,Gália,0,0,0
+São Paulo,3516705,Garça,0,0,0
+São Paulo,3516804,Gastão Vidigal,0,0,0
+São Paulo,3516853,Gavião Peixoto,0,0,0
+São Paulo,3516903,General Salgado,0,0,0
+São Paulo,3517000,Getulina,0,0,0
+São Paulo,3517109,Glicério,0,0,0
+São Paulo,3517208,Guaiçara,0,0,0
+São Paulo,3517307,Guaimbê,0,0,0
+São Paulo,3517406,Guaíra,0,0,0
+São Paulo,3517505,Guapiaçu,0,0,0
+São Paulo,3517604,Guapiara,0,0,0
+São Paulo,3517703,Guará,0,0,0
+São Paulo,3517802,Guaraçaí,0,0,0
+São Paulo,3517901,Guaraci,0,0,0
+São Paulo,3518008,Guarani d'Oeste,0,0,0
+São Paulo,3518107,Guarantã,0,0,0
+São Paulo,3518206,Guararapes,458,12,1637
+São Paulo,3518305,Guararema,0,0,0
+São Paulo,3518404,Guaratinguetá,0,0,0
+São Paulo,3518503,Guareí,0,0,0
+São Paulo,3518602,Guariba,0,0,0
+São Paulo,3518701,Guarujá,0,0,0
+São Paulo,3518800,Guarulhos,521,99,2786
+São Paulo,3518859,Guatapará,0,0,0
+São Paulo,3518909,Guzolândia,0,0,0
+São Paulo,3519006,Herculândia,0,0,0
+São Paulo,3519055,Holambra,0,0,0
+São Paulo,3519071,Hortolândia,130,51,2113
+São Paulo,3519105,Iacanga,0,0,0
+São Paulo,3519204,Iacri,0,0,0
+São Paulo,3519253,Iaras,0,0,0
+São Paulo,3519303,Ibaté,0,0,0
+São Paulo,3519402,Ibirá,0,0,0
+São Paulo,3519501,Ibirarema,0,0,0
+São Paulo,3519600,Ibitinga,0,0,0
+São Paulo,3519709,Ibiúna,0,0,0
+São Paulo,3519808,Icém,189,60,1502
+São Paulo,3519907,Iepê,0,0,0
+São Paulo,3520004,Igaraçu do Tietê,0,0,0
+São Paulo,3520103,Igarapava,0,0,0
+São Paulo,3520202,Igaratá,0,0,0
+São Paulo,3520301,Iguape,0,0,0
+São Paulo,3520400,Ilhabela,0,0,0
+São Paulo,3520426,Ilha Comprida,0,0,0
+São Paulo,3520442,Ilha Solteira,0,0,0
+São Paulo,3520509,Indaiatuba,0,0,0
+São Paulo,3520608,Indiana,0,0,0
+São Paulo,3520707,Indiaporã,0,0,0
+São Paulo,3520806,Inúbia Paulista,0,0,0
+São Paulo,3520905,Ipaussu,0,0,0
+São Paulo,3521002,Iperó,0,0,0
+São Paulo,3521101,Ipeúna,0,0,0
+São Paulo,3521150,Ipiguá,0,0,0
+São Paulo,3521200,Iporanga,0,0,0
+São Paulo,3521309,Ipuã,0,0,0
+São Paulo,3521408,Iracemápolis,0,0,0
+São Paulo,3521507,Irapuã,0,0,0
+São Paulo,3521606,Irapuru,0,0,0
+São Paulo,3521705,Itaberá,0,0,0
+São Paulo,3521804,Itaí,0,0,0
+São Paulo,3521903,Itajobi,0,0,0
+São Paulo,3522000,Itaju,0,0,0
+São Paulo,3522109,Itanhaém,8,7,379
+São Paulo,3522158,Itaoca,0,0,0
+São Paulo,3522208,Itapecerica da Serra,77,20,1115
+São Paulo,3522307,Itapetininga,0,0,0
+São Paulo,3522406,Itapeva,0,0,0
+São Paulo,3522505,Itapevi,12,14,450
+São Paulo,3522604,Itapira,0,0,0
+São Paulo,3522653,Itapirapuã Paulista,0,0,0
+São Paulo,3522703,Itápolis,0,0,0
+São Paulo,3522802,Itaporanga,0,0,0
+São Paulo,3522901,Itapuí,0,0,0
+São Paulo,3523008,Itapura,0,0,0
+São Paulo,3523107,Itaquaquecetuba,160,27,1044
+São Paulo,3523206,Itararé,0,0,0
+São Paulo,3523305,Itariri,0,0,0
+São Paulo,3523404,Itatiba,14,14,649
+São Paulo,3523503,Itatinga,0,0,0
+São Paulo,3523602,Itirapina,0,0,0
+São Paulo,3523701,Itirapuã,0,0,0
+São Paulo,3523800,Itobi,0,0,0
+São Paulo,3523909,Itu,123,1,30
+São Paulo,3524006,Itupeva,0,0,0
+São Paulo,3524105,Ituverava,47,18,741
+São Paulo,3524204,Jaborandi,0,0,0
+São Paulo,3524303,Jaboticabal,0,0,0
+São Paulo,3524402,Jacareí,43,2,210
+São Paulo,3524501,Jaci,0,0,0
+São Paulo,3524600,Jacupiranga,0,0,0
+São Paulo,3524709,Jaguariúna,0,0,0
+São Paulo,3524808,Jales,0,0,0
+São Paulo,3524907,Jambeiro,0,0,0
+São Paulo,3525003,Jandira,228,24,1365
+São Paulo,3525102,Jardinópolis,0,0,0
+São Paulo,3525201,Jarinu,0,0,0
+São Paulo,3525300,Jaú,284,39,820
+São Paulo,3525409,Jeriquara,0,0,0
+São Paulo,3525508,Joanópolis,0,0,0
+São Paulo,3525607,João Ramalho,0,0,0
+São Paulo,3525706,José Bonifácio,0,0,0
+São Paulo,3525805,Júlio Mesquita,0,0,0
+São Paulo,3525854,Jumirim,0,0,0
+São Paulo,3525904,Jundiaí,315,91,3173
+São Paulo,3526001,Junqueirópolis,0,0,0
+São Paulo,3526100,Juquiá,0,0,0
+São Paulo,3526209,Juquitiba,0,0,0
+São Paulo,3526308,Lagoinha,0,0,0
+São Paulo,3526407,Laranjal Paulista,0,0,0
+São Paulo,3526506,Lavínia,0,0,0
+São Paulo,3526605,Lavrinhas,0,0,0
+São Paulo,3526704,Leme,0,0,0
+São Paulo,3526803,Lençóis Paulista,0,0,0
+São Paulo,3526902,Limeira,1221,122,2959
+São Paulo,3527009,Lindóia,0,0,0
+São Paulo,3527108,Lins,19,17,1113
+São Paulo,3527207,Lorena,12,12,394
+São Paulo,3527256,Lourdes,0,0,0
+São Paulo,3527306,Louveira,57,9,459
+São Paulo,3527405,Lucélia,0,0,0
+São Paulo,3527504,Lucianópolis,0,0,0
+São Paulo,3527603,Luís Antônio,0,0,0
+São Paulo,3527702,Luiziânia,0,0,0
+São Paulo,3527801,Lupércio,0,0,0
+São Paulo,3527900,Lutécia,0,0,0
+São Paulo,3528007,Macatuba,0,0,0
+São Paulo,3528106,Macaubal,0,0,0
+São Paulo,3528205,Macedônia,0,0,0
+São Paulo,3528304,Magda,0,0,0
+São Paulo,3528403,Mairinque,0,0,0
+São Paulo,3528502,Mairiporã,451,91,3059
+São Paulo,3528601,Manduri,0,0,0
+São Paulo,3528700,Marabá Paulista,0,0,0
+São Paulo,3528809,Maracaí,0,0,0
+São Paulo,3528858,Marapoama,0,0,0
+São Paulo,3528908,Mariápolis,0,0,0
+São Paulo,3529005,Marília,0,0,0
+São Paulo,3529104,Marinópolis,0,0,0
+São Paulo,3529203,Martinópolis,0,0,0
+São Paulo,3529302,Matão,0,0,0
+São Paulo,3529401,Mauá,20,18,800
+São Paulo,3529500,Mendonça,0,0,0
+São Paulo,3529609,Meridiano,0,0,0
+São Paulo,3529658,Mesópolis,0,0,0
+São Paulo,3529708,Miguelópolis,0,0,0
+São Paulo,3529807,Mineiros do Tietê,0,0,0
+São Paulo,3529906,Miracatu,0,0,0
+São Paulo,3530003,Mira Estrela,0,0,0
+São Paulo,3530102,Mirandópolis,0,0,0
+São Paulo,3530201,Mirante do Paranapanema,0,0,0
+São Paulo,3530300,Mirassol,3,1,212
+São Paulo,3530409,Mirassolândia,0,0,0
+São Paulo,3530508,Mococa,0,0,0
+São Paulo,3530607,Mogi das Cruzes,16,15,179
+São Paulo,3530706,Mogi Guaçu,284,76,2480
+São Paulo,3530805,Mogi Mirim,0,0,0
+São Paulo,3530904,Mombuca,0,0,0
+São Paulo,3531001,Monções,0,0,0
+São Paulo,3531100,Mongaguá,0,0,0
+São Paulo,3531209,Monte Alegre do Sul,0,0,0
+São Paulo,3531308,Monte Alto,0,0,0
+São Paulo,3531407,Monte Aprazível,0,0,0
+São Paulo,3531506,Monte Azul Paulista,0,0,0
+São Paulo,3531605,Monte Castelo,0,0,0
+São Paulo,3531704,Monteiro Lobato,0,0,0
+São Paulo,3531803,Monte Mor,156,21,857
+São Paulo,3531902,Morro Agudo,0,0,0
+São Paulo,3532009,Morungaba,0,0,0
+São Paulo,3532058,Motuca,0,0,0
+São Paulo,3532108,Murutinga do Sul,0,0,0
+São Paulo,3532157,Nantes,0,0,0
+São Paulo,3532207,Narandiba,0,0,0
+São Paulo,3532306,Natividade da Serra,0,0,0
+São Paulo,3532405,Nazaré Paulista,0,0,0
+São Paulo,3532504,Neves Paulista,0,0,0
+São Paulo,3532603,Nhandeara,0,0,0
+São Paulo,3532702,Nipoã,0,0,0
+São Paulo,3532801,Nova Aliança,0,0,0
+São Paulo,3532827,Nova Campina,0,0,0
+São Paulo,3532843,Nova Canaã Paulista,0,0,0
+São Paulo,3532868,Nova Castilho,0,0,0
+São Paulo,3532900,Nova Europa,0,0,0
+São Paulo,3533007,Nova Granada,0,0,0
+São Paulo,3533106,Nova Guataporanga,0,0,0
+São Paulo,3533205,Nova Independência,0,0,0
+São Paulo,3533254,Novais,0,0,0
+São Paulo,3533304,Nova Luzitânia,0,0,0
+São Paulo,3533403,Nova Odessa,0,0,0
+São Paulo,3533502,Novo Horizonte,0,0,0
+São Paulo,3533601,Nuporanga,0,0,0
+São Paulo,3533700,Ocauçu,0,0,0
+São Paulo,3533809,Óleo,0,0,0
+São Paulo,3533908,Olímpia,0,0,0
+São Paulo,3534005,Onda Verde,0,0,0
+São Paulo,3534104,Oriente,0,0,0
+São Paulo,3534203,Orindiúva,0,0,0
+São Paulo,3534302,Orlândia,0,0,0
+São Paulo,3534401,Osasco,884,100,3615
+São Paulo,3534500,Oscar Bressane,0,0,0
+São Paulo,3534609,Osvaldo Cruz,0,0,0
+São Paulo,3534708,Ourinhos,0,0,0
+São Paulo,3534757,Ouroeste,0,0,0
+São Paulo,3534807,Ouro Verde,0,0,0
+São Paulo,3534906,Pacaembu,0,0,0
+São Paulo,3535002,Palestina,0,0,0
+São Paulo,3535101,Palmares Paulista,0,0,0
+São Paulo,3535200,Palmeira d'Oeste,0,0,0
+São Paulo,3535309,Palmital,0,0,0
+São Paulo,3535408,Panorama,0,0,0
+São Paulo,3535507,Paraguaçu Paulista,0,0,0
+São Paulo,3535606,Paraibuna,0,0,0
+São Paulo,3535705,Paraíso,0,0,0
+São Paulo,3535804,Paranapanema,0,0,0
+São Paulo,3535903,Paranapuã,0,0,0
+São Paulo,3536000,Parapuã,0,0,0
+São Paulo,3536109,Pardinho,0,0,0
+São Paulo,3536208,Pariquera-Açu,0,0,0
+São Paulo,3536257,Parisi,0,0,0
+São Paulo,3536307,Patrocínio Paulista,0,0,0
+São Paulo,3536406,Paulicéia,0,0,0
+São Paulo,3536505,Paulínia,1324,220,2590
+São Paulo,3536570,Paulistânia,0,0,0
+São Paulo,3536604,Paulo de Faria,0,0,0
+São Paulo,3536703,Pederneiras,0,0,0
+São Paulo,3536802,Pedra Bela,0,0,0
+São Paulo,3536901,Pedranópolis,0,0,0
+São Paulo,3537008,Pedregulho,0,0,0
+São Paulo,3537107,Pedreira,0,0,0
+São Paulo,3537156,Pedrinhas Paulista,0,0,0
+São Paulo,3537206,Pedro de Toledo,0,0,0
+São Paulo,3537305,Penápolis,0,0,0
+São Paulo,3537404,Pereira Barreto,0,0,0
+São Paulo,3537503,Pereiras,0,0,0
+São Paulo,3537602,Peruíbe,12,10,502
+São Paulo,3537701,Piacatu,0,0,0
+São Paulo,3537800,Piedade,0,0,0
+São Paulo,3537909,Pilar do Sul,0,0,0
+São Paulo,3538006,Pindamonhangaba,122,25,656
+São Paulo,3538105,Pindorama,0,0,0
+São Paulo,3538204,Pinhalzinho,0,0,0
+São Paulo,3538303,Piquerobi,0,0,0
+São Paulo,3538501,Piquete,0,0,0
+São Paulo,3538600,Piracaia,1,1,1
+São Paulo,3538709,Piracicaba,0,0,0
+São Paulo,3538808,Piraju,0,0,0
+São Paulo,3538907,Pirajuí,0,0,0
+São Paulo,3539004,Pirangi,0,0,0
+São Paulo,3539103,Pirapora do Bom Jesus,0,0,0
+São Paulo,3539202,Pirapozinho,0,0,0
+São Paulo,3539301,Pirassununga,0,0,0
+São Paulo,3539400,Piratininga,0,0,0
+São Paulo,3539509,Pitangueiras,0,0,0
+São Paulo,3539608,Planalto,0,0,0
+São Paulo,3539707,Platina,0,0,0
+São Paulo,3539806,Poá,0,0,0
+São Paulo,3539905,Poloni,0,0,0
+São Paulo,3540002,Pompéia,0,0,0
+São Paulo,3540101,Pongaí,0,0,0
+São Paulo,3540200,Pontal,0,0,0
+São Paulo,3540259,Pontalinda,0,0,0
+São Paulo,3540309,Pontes Gestal,0,0,0
+São Paulo,3540408,Populina,0,0,0
+São Paulo,3540507,Porangaba,0,0,0
+São Paulo,3540606,Porto Feliz,354,50,1056
+São Paulo,3540705,Porto Ferreira,0,0,0
+São Paulo,3540754,Potim,0,0,0
+São Paulo,3540804,Potirendaba,0,0,0
+São Paulo,3540853,Pracinha,0,0,0
+São Paulo,3540903,Pradópolis,0,0,0
+São Paulo,3541000,Praia Grande,0,0,0
+São Paulo,3541059,Pratânia,0,0,0
+São Paulo,3541109,Presidente Alves,0,0,0
+São Paulo,3541208,Presidente Bernardes,0,0,0
+São Paulo,3541307,Presidente Epitácio,0,0,0
+São Paulo,3541406,Presidente Prudente,655,54,811
+São Paulo,3541505,Presidente Venceslau,0,0,0
+São Paulo,3541604,Promissão,0,0,0
+São Paulo,3541653,Quadra,0,0,0
+São Paulo,3541703,Quatá,0,0,0
+São Paulo,3541802,Queiroz,0,0,0
+São Paulo,3541901,Queluz,0,0,0
+São Paulo,3542008,Quintana,0,0,0
+São Paulo,3542107,Rafard,0,0,0
+São Paulo,3542206,Rancharia,0,0,0
+São Paulo,3542305,Redenção da Serra,0,0,0
+São Paulo,3542404,Regente Feijó,0,0,0
+São Paulo,3542503,Reginópolis,0,0,0
+São Paulo,3542602,Registro,60,8,304
+São Paulo,3542701,Restinga,0,0,0
+São Paulo,3542800,Ribeira,0,0,0
+São Paulo,3542909,Ribeirão Bonito,0,0,0
+São Paulo,3543006,Ribeirão Branco,0,0,0
+São Paulo,3543105,Ribeirão Corrente,0,0,0
+São Paulo,3543204,Ribeirão do Sul,0,0,0
+São Paulo,3543238,Ribeirão dos Índios,0,0,0
+São Paulo,3543253,Ribeirão Grande,0,0,0
+São Paulo,3543303,Ribeirão Pires,0,0,0
+São Paulo,3543402,Ribeirão Preto,1642,63,2160
+São Paulo,3543501,Riversul,0,0,0
+São Paulo,3543600,Rifaina,0,0,0
+São Paulo,3543709,Rincão,0,0,0
+São Paulo,3543808,Rinópolis,0,0,0
+São Paulo,3543907,Rio Claro,39,14,885
+São Paulo,3544004,Rio das Pedras,0,0,0
+São Paulo,3544103,Rio Grande da Serra,0,0,0
+São Paulo,3544202,Riolândia,0,0,0
+São Paulo,3544251,Rosana,0,0,0
+São Paulo,3544301,Roseira,0,0,0
+São Paulo,3544400,Rubiácea,0,0,0
+São Paulo,3544509,Rubinéia,0,0,0
+São Paulo,3544608,Sabino,0,0,0
+São Paulo,3544707,Sagres,0,0,0
+São Paulo,3544806,Sales,0,0,0
+São Paulo,3544905,Sales Oliveira,0,0,0
+São Paulo,3545001,Salesópolis,0,0,0
+São Paulo,3545100,Salmourão,0,0,0
+São Paulo,3545159,Saltinho,0,0,0
+São Paulo,3545209,Salto,0,0,0
+São Paulo,3545308,Salto de Pirapora,0,0,0
+São Paulo,3545407,Salto Grande,0,0,0
+São Paulo,3545506,Sandovalina,0,0,0
+São Paulo,3545605,Santa Adélia,0,0,0
+São Paulo,3545704,Santa Albertina,0,0,0
+São Paulo,3545803,Santa Bárbara d'Oeste,0,0,0
+São Paulo,3546009,Santa Branca,0,0,0
+São Paulo,3546108,Santa Clara d'Oeste,0,0,0
+São Paulo,3546207,Santa Cruz da Conceição,0,0,0
+São Paulo,3546256,Santa Cruz da Esperança,0,0,0
+São Paulo,3546306,Santa Cruz das Palmeiras,0,0,0
+São Paulo,3546405,Santa Cruz do Rio Pardo,0,0,0
+São Paulo,3546504,Santa Ernestina,0,0,0
+São Paulo,3546603,Santa Fé do Sul,0,0,0
+São Paulo,3546702,Santa Gertrudes,0,0,0
+São Paulo,3546801,Santa Isabel,0,0,0
+São Paulo,3546900,Santa Lúcia,0,0,0
+São Paulo,3547007,Santa Maria da Serra,0,0,0
+São Paulo,3547106,Santa Mercedes,0,0,0
+São Paulo,3547205,Santana da Ponte Pensa,0,0,0
+São Paulo,3547304,Santana de Parnaíba,0,0,0
+São Paulo,3547403,Santa Rita d'Oeste,0,0,0
+São Paulo,3547502,Santa Rita do Passa Quatro,0,0,0
+São Paulo,3547601,Santa Rosa de Viterbo,0,0,0
+São Paulo,3547650,Santa Salete,0,0,0
+São Paulo,3547700,Santo Anastácio,0,0,0
+São Paulo,3547809,Santo André,63,27,995
+São Paulo,3547908,Santo Antônio da Alegria,0,0,0
+São Paulo,3548005,Santo Antônio de Posse,0,0,0
+São Paulo,3548054,Santo Antônio do Aracanguá,0,0,0
+São Paulo,3548104,Santo Antônio do Jardim,0,0,0
+São Paulo,3548203,Santo Antônio do Pinhal,0,0,0
+São Paulo,3548302,Santo Expedito,0,0,0
+São Paulo,3548401,Santópolis do Aguapeí,0,0,0
+São Paulo,3548500,Santos,18,16,575
+São Paulo,3548609,São Bento do Sapucaí,0,0,0
+São Paulo,3548708,São Bernardo do Campo,231,34,1275
+São Paulo,3548807,São Caetano do Sul,263,28,929
+São Paulo,3548906,São Carlos,0,0,0
+São Paulo,3549003,São Francisco,0,0,0
+São Paulo,3549102,São João da Boa Vista,404,25,727
+São Paulo,3549201,São João das Duas Pontes,0,0,0
+São Paulo,3549250,São João de Iracema,0,0,0
+São Paulo,3549300,São João do Pau d'Alho,0,0,0
+São Paulo,3549409,São Joaquim da Barra,0,0,0
+São Paulo,3549508,São José da Bela Vista,0,0,0
+São Paulo,3549607,São José do Barreiro,0,0,0
+São Paulo,3549706,São José do Rio Pardo,0,0,0
+São Paulo,3549805,São José do Rio Preto,0,0,0
+São Paulo,3549904,São José dos Campos,1464,189,6607
+São Paulo,3549953,São Lourenço da Serra,0,0,0
+São Paulo,3550001,São Luís do Paraitinga,0,0,0
+São Paulo,3550100,São Manuel,0,0,0
+São Paulo,3550209,São Miguel Arcanjo,0,0,0
+São Paulo,3550308,São Paulo,6238,1211,37704
+São Paulo,3550407,São Pedro,0,0,0
+São Paulo,3550506,São Pedro do Turvo,0,0,0
+São Paulo,3550605,São Roque,0,0,0
+São Paulo,3550704,São Sebastião,0,0,0
+São Paulo,3550803,São Sebastião da Grama,0,0,0
+São Paulo,3550902,São Simão,0,0,0
+São Paulo,3551009,São Vicente,475,21,908
+São Paulo,3551108,Sarapuí,0,0,0
+São Paulo,3551207,Sarutaiá,0,0,0
+São Paulo,3551306,Sebastianópolis do Sul,0,0,0
+São Paulo,3551405,Serra Azul,0,0,0
+São Paulo,3551504,Serrana,0,0,0
+São Paulo,3551603,Serra Negra,0,0,0
+São Paulo,3551702,Sertãozinho,0,0,0
+São Paulo,3551801,Sete Barras,0,0,0
+São Paulo,3551900,Severínia,0,0,0
+São Paulo,3552007,Silveiras,0,0,0
+São Paulo,3552106,Socorro,0,0,0
+São Paulo,3552205,Sorocaba,869,223,7115
+São Paulo,3552304,Sud Mennucci,0,0,0
+São Paulo,3552403,Sumaré,314,34,723
+São Paulo,3552502,Suzano,416,31,1151
+São Paulo,3552551,Suzanápolis,0,0,0
+São Paulo,3552601,Tabapuã,0,0,0
+São Paulo,3552700,Tabatinga,0,0,0
+São Paulo,3552809,Taboão da Serra,526,21,956
+São Paulo,3552908,Taciba,0,0,0
+São Paulo,3553005,Taguaí,0,0,0
+São Paulo,3553104,Taiaçu,0,0,0
+São Paulo,3553203,Taiúva,0,0,0
+São Paulo,3553302,Tambaú,0,0,0
+São Paulo,3553401,Tanabi,5,1,650
+São Paulo,3553500,Tapiraí,0,0,0
+São Paulo,3553609,Tapiratiba,0,0,0
+São Paulo,3553658,Taquaral,0,0,0
+São Paulo,3553708,Taquaritinga,0,0,0
+São Paulo,3553807,Taquarituba,0,0,0
+São Paulo,3553856,Taquarivaí,0,0,0
+São Paulo,3553906,Tarabai,0,0,0
+São Paulo,3553955,Tarumã,0,0,0
+São Paulo,3554003,Tatuí,474,44,1389
+São Paulo,3554102,Taubaté,307,22,1071
+São Paulo,3554201,Tejupá,0,0,0
+São Paulo,3554300,Teodoro Sampaio,0,0,0
+São Paulo,3554409,Terra Roxa,0,0,0
+São Paulo,3554508,Tietê,0,0,0
+São Paulo,3554607,Timburi,0,0,0
+São Paulo,3554656,Torre de Pedra,0,0,0
+São Paulo,3554706,Torrinha,0,0,0
+São Paulo,3554755,Trabiju,0,0,0
+São Paulo,3554805,Tremembé,27,3,333
+São Paulo,3554904,Três Fronteiras,0,0,0
+São Paulo,3554953,Tuiuti,0,0,0
+São Paulo,3555000,Tupã,0,0,0
+São Paulo,3555109,Tupi Paulista,0,0,0
+São Paulo,3555208,Turiúba,0,0,0
+São Paulo,3555307,Turmalina,0,0,0
+São Paulo,3555356,Ubarana,0,0,0
+São Paulo,3555406,Ubatuba,0,0,0
+São Paulo,3555505,Ubirajara,0,0,0
+São Paulo,3555604,Uchoa,0,0,0
+São Paulo,3555703,União Paulista,0,0,0
+São Paulo,3555802,Urânia,0,0,0
+São Paulo,3555901,Uru,0,0,0
+São Paulo,3556008,Urupês,0,0,0
+São Paulo,3556107,Valentim Gentil,0,0,0
+São Paulo,3556206,Valinhos,0,0,0
+São Paulo,3556305,Valparaíso,0,0,0
+São Paulo,3556354,Vargem,0,0,0
+São Paulo,3556404,Vargem Grande do Sul,0,0,0
+São Paulo,3556453,Vargem Grande Paulista,86,38,1055
+São Paulo,3556503,Várzea Paulista,62,33,1687
+São Paulo,3556602,Vera Cruz,0,0,0
+São Paulo,3556701,Vinhedo,37,7,254
+São Paulo,3556800,Viradouro,0,0,0
+São Paulo,3556909,Vista Alegre do Alto,0,0,0
+São Paulo,3556958,Vitória Brasil,0,0,0
+São Paulo,3557006,Votorantim,910,75,1790
+São Paulo,3557105,Votuporanga,7,8,409
+São Paulo,3557154,Zacarias,0,0,0
+São Paulo,3557204,Chavantes,0,0,0
+São Paulo,3557303,Estiva Gerbi,0,0,0
+Paraná,4100103,Abatiá,0,0,0
+Paraná,4100202,Adrianópolis,0,0,0
+Paraná,4100301,Agudos do Sul,0,0,0
+Paraná,4100400,Almirante Tamandaré,0,0,0
+Paraná,4100459,Altamira do Paraná,0,0,0
+Paraná,4100509,Altônia,0,0,0
+Paraná,4100608,Alto Paraná,0,0,0
+Paraná,4100707,Alto Piquiri,0,0,0
+Paraná,4100806,Alvorada do Sul,0,0,0
+Paraná,4100905,Amaporã,0,0,0
+Paraná,4101002,Ampére,0,0,0
+Paraná,4101051,Anahy,0,0,0
+Paraná,4101101,Andirá,0,0,0
+Paraná,4101150,Ângulo,0,0,0
+Paraná,4101200,Antonina,0,0,0
+Paraná,4101309,Antônio Olinto,0,0,0
+Paraná,4101408,Apucarana,1046,9,1128
+Paraná,4101507,Arapongas,0,0,0
+Paraná,4101606,Arapoti,0,0,0
+Paraná,4101655,Arapuã,0,0,0
+Paraná,4101705,Araruna,0,0,0
+Paraná,4101804,Araucária,0,0,0
+Paraná,4101853,Ariranha do Ivaí,0,0,0
+Paraná,4101903,Assaí,0,0,0
+Paraná,4102000,Assis Chateaubriand,0,0,0
+Paraná,4102109,Astorga,0,0,0
+Paraná,4102208,Atalaia,0,0,0
+Paraná,4102307,Balsa Nova,0,0,0
+Paraná,4102406,Bandeirantes,0,0,0
+Paraná,4102505,Barbosa Ferraz,0,0,0
+Paraná,4102604,Barracão,0,0,0
+Paraná,4102703,Barra do Jacaré,0,0,0
+Paraná,4102752,Bela Vista da Caroba,0,0,0
+Paraná,4102802,Bela Vista do Paraíso,0,0,0
+Paraná,4102901,Bituruna,0,0,0
+Paraná,4103008,Boa Esperança,0,0,0
+Paraná,4103024,Boa Esperança do Iguaçu,0,0,0
+Paraná,4103040,Boa Ventura de São Roque,0,0,0
+Paraná,4103057,Boa Vista da Aparecida,0,0,0
+Paraná,4103107,Bocaiúva do Sul,0,0,0
+Paraná,4103156,Bom Jesus do Sul,0,0,0
+Paraná,4103206,Bom Sucesso,0,0,0
+Paraná,4103222,Bom Sucesso do Sul,0,0,0
+Paraná,4103305,Borrazópolis,0,0,0
+Paraná,4103354,Braganey,0,0,0
+Paraná,4103370,Brasilândia do Sul,0,0,0
+Paraná,4103404,Cafeara,0,0,0
+Paraná,4103453,Cafelândia,0,0,0
+Paraná,4103479,Cafezal do Sul,0,0,0
+Paraná,4103503,Califórnia,0,0,0
+Paraná,4103602,Cambará,0,0,0
+Paraná,4103701,Cambé,0,0,0
+Paraná,4103800,Cambira,0,0,0
+Paraná,4103909,Campina da Lagoa,0,0,0
+Paraná,4103958,Campina do Simão,0,0,0
+Paraná,4104006,Campina Grande do Sul,0,0,0
+Paraná,4104055,Campo Bonito,0,0,0
+Paraná,4104105,Campo do Tenente,0,0,0
+Paraná,4104204,Campo Largo,427,118,3152
+Paraná,4104253,Campo Magro,0,0,0
+Paraná,4104303,Campo Mourão,0,0,0
+Paraná,4104402,Cândido de Abreu,0,0,0
+Paraná,4104428,Candói,0,0,0
+Paraná,4104451,Cantagalo,0,0,0
+Paraná,4104501,Capanema,0,0,0
+Paraná,4104600,Capitão Leônidas Marques,0,0,0
+Paraná,4104659,Carambeí,0,0,0
+Paraná,4104709,Carlópolis,0,0,0
+Paraná,4104808,Cascavel,0,0,0
+Paraná,4104907,Castro,342,29,446
+Paraná,4105003,Catanduvas,0,0,0
+Paraná,4105102,Centenário do Sul,0,0,0
+Paraná,4105201,Cerro Azul,0,0,0
+Paraná,4105300,Céu Azul,0,0,0
+Paraná,4105409,Chopinzinho,0,0,0
+Paraná,4105508,Cianorte,0,0,0
+Paraná,4105607,Cidade Gaúcha,0,0,0
+Paraná,4105706,Clevelândia,0,0,0
+Paraná,4105805,Colombo,0,0,0
+Paraná,4105904,Colorado,0,0,0
+Paraná,4106001,Congonhinhas,0,0,0
+Paraná,4106100,Conselheiro Mairinck,0,0,0
+Paraná,4106209,Contenda,0,0,0
+Paraná,4106308,Corbélia,0,0,0
+Paraná,4106407,Cornélio Procópio,0,0,0
+Paraná,4106456,Coronel Domingos Soares,0,0,0
+Paraná,4106506,Coronel Vivida,0,0,0
+Paraná,4106555,Corumbataí do Sul,0,0,0
+Paraná,4106571,Cruzeiro do Iguaçu,0,0,0
+Paraná,4106605,Cruzeiro do Oeste,0,0,0
+Paraná,4106704,Cruzeiro do Sul,0,0,0
+Paraná,4106803,Cruz Machado,0,0,0
+Paraná,4106852,Cruzmaltina,0,0,0
+Paraná,4106902,Curitiba,1131,150,3218
+Paraná,4107009,Curiúva,0,0,0
+Paraná,4107108,Diamante do Norte,0,0,0
+Paraná,4107124,Diamante do Sul,0,0,0
+Paraná,4107157,Diamante D'Oeste,0,0,0
+Paraná,4107207,Dois Vizinhos,0,0,0
+Paraná,4107256,Douradina,0,0,0
+Paraná,4107306,Doutor Camargo,0,0,0
+Paraná,4107405,Enéas Marques,0,0,0
+Paraná,4107504,Engenheiro Beltrão,0,0,0
+Paraná,4107520,Esperança Nova,0,0,0
+Paraná,4107538,Entre Rios do Oeste,0,0,0
+Paraná,4107546,Espigão Alto do Iguaçu,0,0,0
+Paraná,4107553,Farol,0,0,0
+Paraná,4107603,Faxinal,0,0,0
+Paraná,4107652,Fazenda Rio Grande,0,0,0
+Paraná,4107702,Fênix,0,0,0
+Paraná,4107736,Fernandes Pinheiro,0,0,0
+Paraná,4107751,Figueira,0,0,0
+Paraná,4107801,Floraí,0,0,0
+Paraná,4107850,Flor da Serra do Sul,0,0,0
+Paraná,4107900,Floresta,0,0,0
+Paraná,4108007,Florestópolis,0,0,0
+Paraná,4108106,Flórida,0,0,0
+Paraná,4108205,Formosa do Oeste,0,0,0
+Paraná,4108304,Foz do Iguaçu,1852,136,5002
+Paraná,4108320,Francisco Alves,0,0,0
+Paraná,4108403,Francisco Beltrão,0,0,0
+Paraná,4108452,Foz do Jordão,0,0,0
+Paraná,4108502,General Carneiro,0,0,0
+Paraná,4108551,Godoy Moreira,0,0,0
+Paraná,4108601,Goioerê,0,0,0
+Paraná,4108650,Goioxim,0,0,0
+Paraná,4108700,Grandes Rios,0,0,0
+Paraná,4108809,Guaíra,0,0,0
+Paraná,4108908,Guairaçá,0,0,0
+Paraná,4108957,Guamiranga,0,0,0
+Paraná,4109005,Guapirama,0,0,0
+Paraná,4109104,Guaporema,0,0,0
+Paraná,4109203,Guaraci,0,0,0
+Paraná,4109302,Guaraniaçu,0,0,0
+Paraná,4109401,Guarapuava,0,0,0
+Paraná,4109500,Guaraqueçaba,0,0,0
+Paraná,4109609,Guaratuba,0,0,0
+Paraná,4109658,Honório Serpa,0,0,0
+Paraná,4109708,Ibaiti,0,0,0
+Paraná,4109757,Ibema,0,0,0
+Paraná,4109807,Ibiporã,9,4,263
+Paraná,4109906,Icaraíma,0,0,0
+Paraná,4110003,Iguaraçu,0,0,0
+Paraná,4110052,Iguatu,0,0,0
+Paraná,4110078,Imbaú,0,0,0
+Paraná,4110102,Imbituva,0,0,0
+Paraná,4110201,Inácio Martins,0,0,0
+Paraná,4110300,Inajá,0,0,0
+Paraná,4110409,Indianópolis,0,0,0
+Paraná,4110508,Ipiranga,0,0,0
+Paraná,4110607,Iporã,0,0,0
+Paraná,4110656,Iracema do Oeste,0,0,0
+Paraná,4110706,Irati,0,0,0
+Paraná,4110805,Iretama,0,0,0
+Paraná,4110904,Itaguajé,0,0,0
+Paraná,4110953,Itaipulândia,0,0,0
+Paraná,4111001,Itambaracá,0,0,0
+Paraná,4111100,Itambé,0,0,0
+Paraná,4111209,Itapejara d'Oeste,0,0,0
+Paraná,4111258,Itaperuçu,0,0,0
+Paraná,4111308,Itaúna do Sul,0,0,0
+Paraná,4111407,Ivaí,0,0,0
+Paraná,4111506,Ivaiporã,0,0,0
+Paraná,4111555,Ivaté,0,0,0
+Paraná,4111605,Ivatuba,0,0,0
+Paraná,4111704,Jaboti,0,0,0
+Paraná,4111803,Jacarezinho,0,0,0
+Paraná,4111902,Jaguapitã,0,0,0
+Paraná,4112009,Jaguariaíva,0,0,0
+Paraná,4112108,Jandaia do Sul,0,0,0
+Paraná,4112207,Janiópolis,0,0,0
+Paraná,4112306,Japira,0,0,0
+Paraná,4112405,Japurá,0,0,0
+Paraná,4112504,Jardim Alegre,0,0,0
+Paraná,4112603,Jardim Olinda,0,0,0
+Paraná,4112702,Jataizinho,0,0,0
+Paraná,4112751,Jesuítas,0,0,0
+Paraná,4112801,Joaquim Távora,0,0,0
+Paraná,4112900,Jundiaí do Sul,0,0,0
+Paraná,4112959,Juranda,0,0,0
+Paraná,4113007,Jussara,0,0,0
+Paraná,4113106,Kaloré,0,0,0
+Paraná,4113205,Lapa,0,0,0
+Paraná,4113254,Laranjal,0,0,0
+Paraná,4113304,Laranjeiras do Sul,0,0,0
+Paraná,4113403,Leópolis,0,0,0
+Paraná,4113429,Lidianópolis,0,0,0
+Paraná,4113452,Lindoeste,0,0,0
+Paraná,4113502,Loanda,0,0,0
+Paraná,4113601,Lobato,0,0,0
+Paraná,4113700,Londrina,98,16,626
+Paraná,4113734,Luiziana,0,0,0
+Paraná,4113759,Lunardelli,0,0,0
+Paraná,4113809,Lupionópolis,0,0,0
+Paraná,4113908,Mallet,0,0,0
+Paraná,4114005,Mamborê,0,0,0
+Paraná,4114104,Mandaguaçu,0,0,0
+Paraná,4114203,Mandaguari,0,0,0
+Paraná,4114302,Mandirituba,0,0,0
+Paraná,4114351,Manfrinópolis,0,0,0
+Paraná,4114401,Mangueirinha,0,0,0
+Paraná,4114500,Manoel Ribas,0,0,0
+Paraná,4114609,Marechal Cândido Rondon,0,0,0
+Paraná,4114708,Maria Helena,0,0,0
+Paraná,4114807,Marialva,0,0,0
+Paraná,4114906,Marilândia do Sul,0,0,0
+Paraná,4115002,Marilena,0,0,0
+Paraná,4115101,Mariluz,0,0,0
+Paraná,4115200,Maringá,29,19,529
+Paraná,4115309,Mariópolis,0,0,0
+Paraná,4115358,Maripá,0,0,0
+Paraná,4115408,Marmeleiro,0,0,0
+Paraná,4115457,Marquinho,0,0,0
+Paraná,4115507,Marumbi,0,0,0
+Paraná,4115606,Matelândia,0,0,0
+Paraná,4115705,Matinhos,0,0,0
+Paraná,4115739,Mato Rico,0,0,0
+Paraná,4115754,Mauá da Serra,0,0,0
+Paraná,4115804,Medianeira,0,0,0
+Paraná,4115853,Mercedes,0,0,0
+Paraná,4115903,Mirador,0,0,0
+Paraná,4116000,Miraselva,0,0,0
+Paraná,4116059,Missal,0,0,0
+Paraná,4116109,Moreira Sales,0,0,0
+Paraná,4116208,Morretes,0,0,0
+Paraná,4116307,Munhoz de Melo,0,0,0
+Paraná,4116406,Nossa Senhora das Graças,0,0,0
+Paraná,4116505,Nova Aliança do Ivaí,0,0,0
+Paraná,4116604,Nova América da Colina,0,0,0
+Paraná,4116703,Nova Aurora,0,0,0
+Paraná,4116802,Nova Cantu,0,0,0
+Paraná,4116901,Nova Esperança,0,0,0
+Paraná,4116950,Nova Esperança do Sudoeste,0,0,0
+Paraná,4117008,Nova Fátima,0,0,0
+Paraná,4117057,Nova Laranjeiras,0,0,0
+Paraná,4117107,Nova Londrina,0,0,0
+Paraná,4117206,Nova Olímpia,0,0,0
+Paraná,4117214,Nova Santa Bárbara,0,0,0
+Paraná,4117222,Nova Santa Rosa,0,0,0
+Paraná,4117255,Nova Prata do Iguaçu,0,0,0
+Paraná,4117271,Nova Tebas,0,0,0
+Paraná,4117297,Novo Itacolomi,0,0,0
+Paraná,4117305,Ortigueira,0,0,0
+Paraná,4117404,Ourizona,0,0,0
+Paraná,4117453,Ouro Verde do Oeste,0,0,0
+Paraná,4117503,Paiçandu,0,0,0
+Paraná,4117602,Palmas,0,0,0
+Paraná,4117701,Palmeira,0,0,0
+Paraná,4117800,Palmital,0,0,0
+Paraná,4117909,Palotina,0,0,0
+Paraná,4118006,Paraíso do Norte,0,0,0
+Paraná,4118105,Paranacity,0,0,0
+Paraná,4118204,Paranaguá,0,0,0
+Paraná,4118303,Paranapoema,0,0,0
+Paraná,4118402,Paranavaí,0,0,0
+Paraná,4118451,Pato Bragado,0,0,0
+Paraná,4118501,Pato Branco,0,0,0
+Paraná,4118600,Paula Freitas,0,0,0
+Paraná,4118709,Paulo Frontin,0,0,0
+Paraná,4118808,Peabiru,0,0,0
+Paraná,4118857,Perobal,0,0,0
+Paraná,4118907,Pérola,125,18,727
+Paraná,4119004,Pérola d'Oeste,0,0,0
+Paraná,4119103,Piên,0,0,0
+Paraná,4119152,Pinhais,0,0,0
+Paraná,4119202,Pinhalão,0,0,0
+Paraná,4119251,Pinhal de São Bento,0,0,0
+Paraná,4119301,Pinhão,0,0,0
+Paraná,4119400,Piraí do Sul,0,0,0
+Paraná,4119509,Piraquara,0,0,0
+Paraná,4119608,Pitanga,0,0,0
+Paraná,4119657,Pitangueiras,0,0,0
+Paraná,4119707,Planaltina do Paraná,0,0,0
+Paraná,4119806,Planalto,0,0,0
+Paraná,4119905,Ponta Grossa,80,20,1420
+Paraná,4119954,Pontal do Paraná,0,0,0
+Paraná,4120002,Porecatu,0,0,0
+Paraná,4120101,Porto Amazonas,0,0,0
+Paraná,4120150,Porto Barreiro,0,0,0
+Paraná,4120200,Porto Rico,0,0,0
+Paraná,4120309,Porto Vitória,0,0,0
+Paraná,4120333,Prado Ferreira,0,0,0
+Paraná,4120358,Pranchita,0,0,0
+Paraná,4120408,Presidente Castelo Branco,0,0,0
+Paraná,4120507,Primeiro de Maio,0,0,0
+Paraná,4120606,Prudentópolis,0,0,0
+Paraná,4120655,Quarto Centenário,0,0,0
+Paraná,4120705,Quatiguá,0,0,0
+Paraná,4120804,Quatro Barras,45,25,931
+Paraná,4120853,Quatro Pontes,0,0,0
+Paraná,4120903,Quedas do Iguaçu,0,0,0
+Paraná,4121000,Querência do Norte,0,0,0
+Paraná,4121109,Quinta do Sol,0,0,0
+Paraná,4121208,Quitandinha,0,0,0
+Paraná,4121257,Ramilândia,0,0,0
+Paraná,4121307,Rancho Alegre,0,0,0
+Paraná,4121356,Rancho Alegre D'Oeste,0,0,0
+Paraná,4121406,Realeza,0,0,0
+Paraná,4121505,Rebouças,0,0,0
+Paraná,4121604,Renascença,0,0,0
+Paraná,4121703,Reserva,0,0,0
+Paraná,4121752,Reserva do Iguaçu,0,0,0
+Paraná,4121802,Ribeirão Claro,0,0,0
+Paraná,4121901,Ribeirão do Pinhal,0,0,0
+Paraná,4122008,Rio Azul,0,0,0
+Paraná,4122107,Rio Bom,0,0,0
+Paraná,4122156,Rio Bonito do Iguaçu,0,0,0
+Paraná,4122172,Rio Branco do Ivaí,0,0,0
+Paraná,4122206,Rio Branco do Sul,0,0,0
+Paraná,4122305,Rio Negro,0,0,0
+Paraná,4122404,Rolândia,0,0,0
+Paraná,4122503,Roncador,0,0,0
+Paraná,4122602,Rondon,0,0,0
+Paraná,4122651,Rosário do Ivaí,0,0,0
+Paraná,4122701,Sabáudia,0,0,0
+Paraná,4122800,Salgado Filho,0,0,0
+Paraná,4122909,Salto do Itararé,0,0,0
+Paraná,4123006,Salto do Lontra,0,0,0
+Paraná,4123105,Santa Amélia,0,0,0
+Paraná,4123204,Santa Cecília do Pavão,0,0,0
+Paraná,4123303,Santa Cruz de Monte Castelo,0,0,0
+Paraná,4123402,Santa Fé,0,0,0
+Paraná,4123501,Santa Helena,0,0,0
+Paraná,4123600,Santa Inês,0,0,0
+Paraná,4123709,Santa Isabel do Ivaí,0,0,0
+Paraná,4123808,Santa Izabel do Oeste,0,0,0
+Paraná,4123824,Santa Lúcia,0,0,0
+Paraná,4123857,Santa Maria do Oeste,0,0,0
+Paraná,4123907,Santa Mariana,0,0,0
+Paraná,4123956,Santa Mônica,0,0,0
+Paraná,4124004,Santana do Itararé,0,0,0
+Paraná,4124020,Santa Tereza do Oeste,0,0,0
+Paraná,4124053,Santa Terezinha de Itaipu,0,0,0
+Paraná,4124103,Santo Antônio da Platina,0,0,0
+Paraná,4124202,Santo Antônio do Caiuá,0,0,0
+Paraná,4124301,Santo Antônio do Paraíso,0,0,0
+Paraná,4124400,Santo Antônio do Sudoeste,0,0,0
+Paraná,4124509,Santo Inácio,0,0,0
+Paraná,4124608,São Carlos do Ivaí,0,0,0
+Paraná,4124707,São Jerônimo da Serra,0,0,0
+Paraná,4124806,São João,0,0,0
+Paraná,4124905,São João do Caiuá,0,0,0
+Paraná,4125001,São João do Ivaí,0,0,0
+Paraná,4125100,São João do Triunfo,0,0,0
+Paraná,4125209,São Jorge d'Oeste,0,0,0
+Paraná,4125308,São Jorge do Ivaí,0,0,0
+Paraná,4125357,São Jorge do Patrocínio,0,0,0
+Paraná,4125407,São José da Boa Vista,0,0,0
+Paraná,4125456,São José das Palmeiras,0,0,0
+Paraná,4125506,São José dos Pinhais,0,0,0
+Paraná,4125555,São Manoel do Paraná,0,0,0
+Paraná,4125605,São Mateus do Sul,0,0,0
+Paraná,4125704,São Miguel do Iguaçu,0,0,0
+Paraná,4125753,São Pedro do Iguaçu,0,0,0
+Paraná,4125803,São Pedro do Ivaí,0,0,0
+Paraná,4125902,São Pedro do Paraná,0,0,0
+Paraná,4126009,São Sebastião da Amoreira,0,0,0
+Paraná,4126108,São Tomé,0,0,0
+Paraná,4126207,Sapopema,0,0,0
+Paraná,4126256,Sarandi,0,0,0
+Paraná,4126272,Saudade do Iguaçu,0,0,0
+Paraná,4126306,Sengés,0,0,0
+Paraná,4126355,Serranópolis do Iguaçu,0,0,0
+Paraná,4126405,Sertaneja,0,0,0
+Paraná,4126504,Sertanópolis,0,0,0
+Paraná,4126603,Siqueira Campos,0,0,0
+Paraná,4126652,Sulina,0,0,0
+Paraná,4126678,Tamarana,0,0,0
+Paraná,4126702,Tamboara,0,0,0
+Paraná,4126801,Tapejara,0,0,0
+Paraná,4126900,Tapira,0,0,0
+Paraná,4127007,Teixeira Soares,0,0,0
+Paraná,4127106,Telêmaco Borba,0,0,0
+Paraná,4127205,Terra Boa,0,0,0
+Paraná,4127304,Terra Rica,0,0,0
+Paraná,4127403,Terra Roxa,0,0,0
+Paraná,4127502,Tibagi,0,0,0
+Paraná,4127601,Tijucas do Sul,0,0,0
+Paraná,4127700,Toledo,240,13,426
+Paraná,4127809,Tomazina,0,0,0
+Paraná,4127858,Três Barras do Paraná,0,0,0
+Paraná,4127882,Tunas do Paraná,0,0,0
+Paraná,4127908,Tuneiras do Oeste,0,0,0
+Paraná,4127957,Tupãssi,0,0,0
+Paraná,4127965,Turvo,0,0,0
+Paraná,4128005,Ubiratã,0,0,0
+Paraná,4128104,Umuarama,0,0,0
+Paraná,4128203,União da Vitória,0,0,0
+Paraná,4128302,Uniflor,0,0,0
+Paraná,4128401,Uraí,0,0,0
+Paraná,4128500,Wenceslau Braz,0,0,0
+Paraná,4128534,Ventania,0,0,0
+Paraná,4128559,Vera Cruz do Oeste,0,0,0
+Paraná,4128609,Verê,0,0,0
+Paraná,4128625,Alto Paraíso,0,0,0
+Paraná,4128633,Doutor Ulysses,0,0,0
+Paraná,4128658,Virmond,0,0,0
+Paraná,4128708,Vitorino,0,0,0
+Paraná,4128807,Xambrê,0,0,0
+Santa Catarina,4200051,Abdon Batista,0,0,0
+Santa Catarina,4200101,Abelardo Luz,0,0,0
+Santa Catarina,4200200,Agrolândia,0,0,0
+Santa Catarina,4200309,Agronômica,0,0,0
+Santa Catarina,4200408,Água Doce,0,0,0
+Santa Catarina,4200507,Águas de Chapecó,0,0,0
+Santa Catarina,4200556,Águas Frias,0,0,0
+Santa Catarina,4200606,Águas Mornas,0,0,0
+Santa Catarina,4200705,Alfredo Wagner,0,0,0
+Santa Catarina,4200754,Alto Bela Vista,0,0,0
+Santa Catarina,4200804,Anchieta,0,0,0
+Santa Catarina,4200903,Angelina,0,0,0
+Santa Catarina,4201000,Anita Garibaldi,0,0,0
+Santa Catarina,4201109,Anitápolis,0,0,0
+Santa Catarina,4201208,Antônio Carlos,0,0,0
+Santa Catarina,4201257,Apiúna,0,0,0
+Santa Catarina,4201273,Arabutã,0,0,0
+Santa Catarina,4201307,Araquari,0,0,0
+Santa Catarina,4201406,Araranguá,0,0,0
+Santa Catarina,4201505,Armazém,0,0,0
+Santa Catarina,4201604,Arroio Trinta,0,0,0
+Santa Catarina,4201653,Arvoredo,0,0,0
+Santa Catarina,4201703,Ascurra,0,0,0
+Santa Catarina,4201802,Atalanta,0,0,0
+Santa Catarina,4201901,Aurora,0,0,0
+Santa Catarina,4201950,Balneário Arroio do Silva,0,0,0
+Santa Catarina,4202008,Balneário Camboriú,0,0,0
+Santa Catarina,4202057,Balneário Barra do Sul,0,0,0
+Santa Catarina,4202073,Balneário Gaivota,0,0,0
+Santa Catarina,4202081,Bandeirante,0,0,0
+Santa Catarina,4202099,Barra Bonita,0,0,0
+Santa Catarina,4202107,Barra Velha,0,0,0
+Santa Catarina,4202131,Bela Vista do Toldo,0,0,0
+Santa Catarina,4202156,Belmonte,0,0,0
+Santa Catarina,4202206,Benedito Novo,0,0,0
+Santa Catarina,4202305,Biguaçu,0,0,0
+Santa Catarina,4202404,Blumenau,135,47,1300
+Santa Catarina,4202438,Bocaina do Sul,0,0,0
+Santa Catarina,4202453,Bombinhas,0,0,0
+Santa Catarina,4202503,Bom Jardim da Serra,0,0,0
+Santa Catarina,4202537,Bom Jesus,0,0,0
+Santa Catarina,4202578,Bom Jesus do Oeste,0,0,0
+Santa Catarina,4202602,Bom Retiro,0,0,0
+Santa Catarina,4202701,Botuverá,0,0,0
+Santa Catarina,4202800,Braço do Norte,0,0,0
+Santa Catarina,4202859,Braço do Trombudo,0,0,0
+Santa Catarina,4202875,Brunópolis,0,0,0
+Santa Catarina,4202909,Brusque,42,17,339
+Santa Catarina,4203006,Caçador,0,0,0
+Santa Catarina,4203105,Caibi,0,0,0
+Santa Catarina,4203154,Calmon,0,0,0
+Santa Catarina,4203204,Camboriú,0,0,0
+Santa Catarina,4203253,Capão Alto,0,0,0
+Santa Catarina,4203303,Campo Alegre,0,0,0
+Santa Catarina,4203402,Campo Belo do Sul,0,0,0
+Santa Catarina,4203501,Campo Erê,0,0,0
+Santa Catarina,4203600,Campos Novos,0,0,0
+Santa Catarina,4203709,Canelinha,0,0,0
+Santa Catarina,4203808,Canoinhas,0,0,0
+Santa Catarina,4203907,Capinzal,0,0,0
+Santa Catarina,4203956,Capivari de Baixo,0,0,0
+Santa Catarina,4204004,Catanduvas,0,0,0
+Santa Catarina,4204103,Caxambu do Sul,0,0,0
+Santa Catarina,4204152,Celso Ramos,0,0,0
+Santa Catarina,4204178,Cerro Negro,0,0,0
+Santa Catarina,4204194,Chapadão do Lageado,0,0,0
+Santa Catarina,4204202,Chapecó,0,0,0
+Santa Catarina,4204251,Cocal do Sul,0,0,0
+Santa Catarina,4204301,Concórdia,0,0,0
+Santa Catarina,4204350,Cordilheira Alta,0,0,0
+Santa Catarina,4204400,Coronel Freitas,0,0,0
+Santa Catarina,4204459,Coronel Martins,0,0,0
+Santa Catarina,4204509,Corupá,0,0,0
+Santa Catarina,4204558,Correia Pinto,0,0,0
+Santa Catarina,4204608,Criciúma,0,0,0
+Santa Catarina,4204707,Cunha Porã,0,0,0
+Santa Catarina,4204756,Cunhataí,0,0,0
+Santa Catarina,4204806,Curitibanos,0,0,0
+Santa Catarina,4204905,Descanso,0,0,0
+Santa Catarina,4205001,Dionísio Cerqueira,0,0,0
+Santa Catarina,4205100,Dona Emma,0,0,0
+Santa Catarina,4205159,Doutor Pedrinho,0,0,0
+Santa Catarina,4205175,Entre Rios,0,0,0
+Santa Catarina,4205191,Ermo,0,0,0
+Santa Catarina,4205209,Erval Velho,0,0,0
+Santa Catarina,4205308,Faxinal dos Guedes,0,0,0
+Santa Catarina,4205357,Flor do Sertão,0,0,0
+Santa Catarina,4205407,Florianópolis,0,0,0
+Santa Catarina,4205431,Formosa do Sul,0,0,0
+Santa Catarina,4205456,Forquilhinha,0,0,0
+Santa Catarina,4205506,Fraiburgo,0,0,0
+Santa Catarina,4205555,Frei Rogério,0,0,0
+Santa Catarina,4205605,Galvão,0,0,0
+Santa Catarina,4205704,Garopaba,0,0,0
+Santa Catarina,4205803,Garuva,0,0,0
+Santa Catarina,4205902,Gaspar,0,0,0
+Santa Catarina,4206009,Governador Celso Ramos,0,0,0
+Santa Catarina,4206108,Grão Pará,0,0,0
+Santa Catarina,4206207,Gravatal,0,0,0
+Santa Catarina,4206306,Guabiruba,0,0,0
+Santa Catarina,4206405,Guaraciaba,0,0,0
+Santa Catarina,4206504,Guaramirim,0,0,0
+Santa Catarina,4206603,Guarujá do Sul,0,0,0
+Santa Catarina,4206652,Guatambú,0,0,0
+Santa Catarina,4206702,Herval d'Oeste,0,0,0
+Santa Catarina,4206751,Ibiam,0,0,0
+Santa Catarina,4206801,Ibicaré,0,0,0
+Santa Catarina,4206900,Ibirama,0,0,0
+Santa Catarina,4207007,Içara,0,0,0
+Santa Catarina,4207106,Ilhota,0,0,0
+Santa Catarina,4207205,Imaruí,0,0,0
+Santa Catarina,4207304,Imbituba,0,0,0
+Santa Catarina,4207403,Imbuia,0,0,0
+Santa Catarina,4207502,Indaial,0,0,0
+Santa Catarina,4207577,Iomerê,0,0,0
+Santa Catarina,4207601,Ipira,0,0,0
+Santa Catarina,4207650,Iporã do Oeste,0,0,0
+Santa Catarina,4207684,Ipuaçu,0,0,0
+Santa Catarina,4207700,Ipumirim,0,0,0
+Santa Catarina,4207759,Iraceminha,0,0,0
+Santa Catarina,4207809,Irani,0,0,0
+Santa Catarina,4207858,Irati,0,0,0
+Santa Catarina,4207908,Irineópolis,0,0,0
+Santa Catarina,4208005,Itá,0,0,0
+Santa Catarina,4208104,Itaiópolis,0,0,0
+Santa Catarina,4208203,Itajaí,0,0,0
+Santa Catarina,4208302,Itapema,0,0,0
+Santa Catarina,4208401,Itapiranga,0,0,0
+Santa Catarina,4208450,Itapoá,0,0,0
+Santa Catarina,4208500,Ituporanga,0,0,0
+Santa Catarina,4208609,Jaborá,0,0,0
+Santa Catarina,4208708,Jacinto Machado,0,0,0
+Santa Catarina,4208807,Jaguaruna,0,0,0
+Santa Catarina,4208906,Jaraguá do Sul,60,9,292
+Santa Catarina,4208955,Jardinópolis,0,0,0
+Santa Catarina,4209003,Joaçaba,0,0,0
+Santa Catarina,4209102,Joinville,39,34,787
+Santa Catarina,4209151,José Boiteux,0,0,0
+Santa Catarina,4209177,Jupiá,0,0,0
+Santa Catarina,4209201,Lacerdópolis,0,0,0
+Santa Catarina,4209300,Lages,0,0,0
+Santa Catarina,4209409,Laguna,63,6,431
+Santa Catarina,4209458,Lajeado Grande,0,0,0
+Santa Catarina,4209508,Laurentino,0,0,0
+Santa Catarina,4209607,Lauro Müller,0,0,0
+Santa Catarina,4209706,Lebon Régis,0,0,0
+Santa Catarina,4209805,Leoberto Leal,0,0,0
+Santa Catarina,4209854,Lindóia do Sul,0,0,0
+Santa Catarina,4209904,Lontras,0,0,0
+Santa Catarina,4210001,Luiz Alves,0,0,0
+Santa Catarina,4210035,Luzerna,0,0,0
+Santa Catarina,4210050,Macieira,0,0,0
+Santa Catarina,4210100,Mafra,0,0,0
+Santa Catarina,4210209,Major Gercino,0,0,0
+Santa Catarina,4210308,Major Vieira,0,0,0
+Santa Catarina,4210407,Maracajá,0,0,0
+Santa Catarina,4210506,Maravilha,0,0,0
+Santa Catarina,4210555,Marema,0,0,0
+Santa Catarina,4210605,Massaranduba,0,0,0
+Santa Catarina,4210704,Matos Costa,0,0,0
+Santa Catarina,4210803,Meleiro,0,0,0
+Santa Catarina,4210852,Mirim Doce,0,0,0
+Santa Catarina,4210902,Modelo,0,0,0
+Santa Catarina,4211009,Mondaí,0,0,0
+Santa Catarina,4211058,Monte Carlo,0,0,0
+Santa Catarina,4211108,Monte Castelo,0,0,0
+Santa Catarina,4211207,Morro da Fumaça,0,0,0
+Santa Catarina,4211256,Morro Grande,0,0,0
+Santa Catarina,4211306,Navegantes,0,0,0
+Santa Catarina,4211405,Nova Erechim,0,0,0
+Santa Catarina,4211454,Nova Itaberaba,0,0,0
+Santa Catarina,4211504,Nova Trento,0,0,0
+Santa Catarina,4211603,Nova Veneza,0,0,0
+Santa Catarina,4211652,Novo Horizonte,0,0,0
+Santa Catarina,4211702,Orleans,0,0,0
+Santa Catarina,4211751,Otacílio Costa,0,0,0
+Santa Catarina,4211801,Ouro,0,0,0
+Santa Catarina,4211850,Ouro Verde,0,0,0
+Santa Catarina,4211876,Paial,0,0,0
+Santa Catarina,4211892,Painel,0,0,0
+Santa Catarina,4211900,Palhoça,206,61,2049
+Santa Catarina,4212007,Palma Sola,0,0,0
+Santa Catarina,4212056,Palmeira,0,0,0
+Santa Catarina,4212106,Palmitos,0,0,0
+Santa Catarina,4212205,Papanduva,0,0,0
+Santa Catarina,4212239,Paraíso,0,0,0
+Santa Catarina,4212254,Passo de Torres,0,0,0
+Santa Catarina,4212270,Passos Maia,0,0,0
+Santa Catarina,4212304,Paulo Lopes,0,0,0
+Santa Catarina,4212403,Pedras Grandes,0,0,0
+Santa Catarina,4212502,Penha,0,0,0
+Santa Catarina,4212601,Peritiba,0,0,0
+Santa Catarina,4212700,Petrolândia,0,0,0
+Santa Catarina,4212809,Balneário Piçarras,0,0,0
+Santa Catarina,4212908,Pinhalzinho,0,0,0
+Santa Catarina,4213005,Pinheiro Preto,0,0,0
+Santa Catarina,4213104,Piratuba,0,0,0
+Santa Catarina,4213153,Planalto Alegre,0,0,0
+Santa Catarina,4213203,Pomerode,0,0,0
+Santa Catarina,4213302,Ponte Alta,0,0,0
+Santa Catarina,4213351,Ponte Alta do Norte,0,0,0
+Santa Catarina,4213401,Ponte Serrada,0,0,0
+Santa Catarina,4213500,Porto Belo,0,0,0
+Santa Catarina,4213609,Porto União,0,0,0
+Santa Catarina,4213708,Pouso Redondo,0,0,0
+Santa Catarina,4213807,Praia Grande,0,0,0
+Santa Catarina,4213906,Presidente Castello Branco,0,0,0
+Santa Catarina,4214003,Presidente Getúlio,0,0,0
+Santa Catarina,4214102,Presidente Nereu,0,0,0
+Santa Catarina,4214151,Princesa,0,0,0
+Santa Catarina,4214201,Quilombo,0,0,0
+Santa Catarina,4214300,Rancho Queimado,0,0,0
+Santa Catarina,4214409,Rio das Antas,0,0,0
+Santa Catarina,4214508,Rio do Campo,0,0,0
+Santa Catarina,4214607,Rio do Oeste,0,0,0
+Santa Catarina,4214706,Rio dos Cedros,0,0,0
+Santa Catarina,4214805,Rio do Sul,0,0,0
+Santa Catarina,4214904,Rio Fortuna,0,0,0
+Santa Catarina,4215000,Rio Negrinho,0,0,0
+Santa Catarina,4215059,Rio Rufino,0,0,0
+Santa Catarina,4215075,Riqueza,0,0,0
+Santa Catarina,4215109,Rodeio,0,0,0
+Santa Catarina,4215208,Romelândia,0,0,0
+Santa Catarina,4215307,Salete,0,0,0
+Santa Catarina,4215356,Saltinho,0,0,0
+Santa Catarina,4215406,Salto Veloso,0,0,0
+Santa Catarina,4215455,Sangão,0,0,0
+Santa Catarina,4215505,Santa Cecília,0,0,0
+Santa Catarina,4215554,Santa Helena,0,0,0
+Santa Catarina,4215604,Santa Rosa de Lima,0,0,0
+Santa Catarina,4215653,Santa Rosa do Sul,0,0,0
+Santa Catarina,4215679,Santa Terezinha,0,0,0
+Santa Catarina,4215687,Santa Terezinha do Progresso,0,0,0
+Santa Catarina,4215695,Santiago do Sul,0,0,0
+Santa Catarina,4215703,Santo Amaro da Imperatriz,0,0,0
+Santa Catarina,4215752,São Bernardino,0,0,0
+Santa Catarina,4215802,São Bento do Sul,0,0,0
+Santa Catarina,4215901,São Bonifácio,0,0,0
+Santa Catarina,4216008,São Carlos,0,0,0
+Santa Catarina,4216057,São Cristóvão do Sul,0,0,0
+Santa Catarina,4216107,São Domingos,0,0,0
+Santa Catarina,4216206,São Francisco do Sul,0,0,0
+Santa Catarina,4216255,São João do Oeste,0,0,0
+Santa Catarina,4216305,São João Batista,0,0,0
+Santa Catarina,4216354,São João do Itaperiú,0,0,0
+Santa Catarina,4216404,São João do Sul,0,0,0
+Santa Catarina,4216503,São Joaquim,0,0,0
+Santa Catarina,4216602,São José,0,0,0
+Santa Catarina,4216701,São José do Cedro,0,0,0
+Santa Catarina,4216800,São José do Cerrito,0,0,0
+Santa Catarina,4216909,São Lourenço do Oeste,0,0,0
+Santa Catarina,4217006,São Ludgero,0,0,0
+Santa Catarina,4217105,São Martinho,0,0,0
+Santa Catarina,4217154,São Miguel da Boa Vista,0,0,0
+Santa Catarina,4217204,São Miguel do Oeste,0,0,0
+Santa Catarina,4217253,São Pedro de Alcântara,0,0,0
+Santa Catarina,4217303,Saudades,0,0,0
+Santa Catarina,4217402,Schroeder,0,0,0
+Santa Catarina,4217501,Seara,0,0,0
+Santa Catarina,4217550,Serra Alta,0,0,0
+Santa Catarina,4217600,Siderópolis,0,0,0
+Santa Catarina,4217709,Sombrio,0,0,0
+Santa Catarina,4217758,Sul Brasil,0,0,0
+Santa Catarina,4217808,Taió,0,0,0
+Santa Catarina,4217907,Tangará,0,0,0
+Santa Catarina,4217956,Tigrinhos,0,0,0
+Santa Catarina,4218004,Tijucas,0,0,0
+Santa Catarina,4218103,Timbé do Sul,0,0,0
+Santa Catarina,4218202,Timbó,0,0,0
+Santa Catarina,4218251,Timbó Grande,0,0,0
+Santa Catarina,4218301,Três Barras,0,0,0
+Santa Catarina,4218350,Treviso,0,0,0
+Santa Catarina,4218400,Treze de Maio,0,0,0
+Santa Catarina,4218509,Treze Tílias,0,0,0
+Santa Catarina,4218608,Trombudo Central,0,0,0
+Santa Catarina,4218707,Tubarão,265,11,345
+Santa Catarina,4218756,Tunápolis,0,0,0
+Santa Catarina,4218806,Turvo,0,0,0
+Santa Catarina,4218855,União do Oeste,0,0,0
+Santa Catarina,4218905,Urubici,0,0,0
+Santa Catarina,4218954,Urupema,0,0,0
+Santa Catarina,4219002,Urussanga,0,0,0
+Santa Catarina,4219101,Vargeão,0,0,0
+Santa Catarina,4219150,Vargem,0,0,0
+Santa Catarina,4219176,Vargem Bonita,0,0,0
+Santa Catarina,4219200,Vidal Ramos,0,0,0
+Santa Catarina,4219309,Videira,0,0,0
+Santa Catarina,4219358,Vitor Meireles,0,0,0
+Santa Catarina,4219408,Witmarsum,0,0,0
+Santa Catarina,4219507,Xanxerê,0,0,0
+Santa Catarina,4219606,Xavantina,0,0,0
+Santa Catarina,4219705,Xaxim,0,0,0
+Santa Catarina,4219853,Zortéa,0,0,0

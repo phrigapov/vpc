@@ -1,0 +1,647 @@
+"state","id","name","pib_current","population","pib_percapita"
+"S�o Paulo",3500105,"Adamantina",1152441,35094,32838.7
+"S�o Paulo",3500204,"Adolfo",86466,3616,23911.98
+"S�o Paulo",3500303,"Agua�",764288,35189,21719.5
+"S�o Paulo",3500402,"�guas da Prata",142654,8065,17688.07
+"S�o Paulo",3500501,"�guas de Lind�ia",455274,18412,24727.02
+"S�o Paulo",3500550,"�guas de Santa B�rbara",157569,5977,26362.59
+"S�o Paulo",3500600,"�guas de S�o Pedro",132617,3205,41378.02
+"S�o Paulo",3500709,"Agudos",2562986,36704,69828.53
+"S�o Paulo",3500758,"Alambari",87284,5658,15426.66
+"S�o Paulo",3500808,"Alfredo Marcondes",74432,4118,18074.69
+"S�o Paulo",3500907,"Altair",200101,4085,48984.4
+"S�o Paulo",3501004,"Altin�polis",462342,16199,28541.39
+"S�o Paulo",3501103,"Alto Alegre",102142,4164,24529.77
+"S�o Paulo",3501152,"Alum�nio",1808351,18194,99392.72
+"S�o Paulo",3501202,"�lvares Florence",94953,3824,24830.77
+"S�o Paulo",3501301,"�lvares Machado",470527,24733,19024.25
+"S�o Paulo",3501400,"�lvaro de Carvalho",49593,5075,9771.95
+"S�o Paulo",3501509,"Alvinl�ndia",47169,3182,14823.57
+"S�o Paulo",3501608,"Americana",10287915,231621,44417.02
+"S�o Paulo",3501707,"Am�rico Brasiliense",837641,38701,21643.91
+"S�o Paulo",3501806,"Am�rico de Campos",99184,5955,16655.61
+"S�o Paulo",3501905,"Amparo",3443771,70742,48680.71
+"S�o Paulo",3502002,"Anal�ndia",142577,4789,29771.71
+"S�o Paulo",3502101,"Andradina",3109727,57300,54270.98
+"S�o Paulo",3502200,"Angatuba",834417,24400,34197.41
+"S�o Paulo",3502309,"Anhembi",128698,6397,20118.47
+"S�o Paulo",3502408,"Anhumas",68007,4026,16891.98
+"S�o Paulo",3502507,"Aparecida",1115003,36248,30760.41
+"S�o Paulo",3502606,"Aparecida d'Oeste",98439,4362,22567.32
+"S�o Paulo",3502705,"Apia�",614359,25077,24498.9
+"S�o Paulo",3502754,"Ara�ariguama",2121497,20581,103080.36
+"S�o Paulo",3502804,"Ara�atuba",6938553,193828,35797.47
+"S�o Paulo",3502903,"Ara�oiaba da Serra",651158,31915,20402.88
+"S�o Paulo",3503000,"Aramina",125633,5519,22763.73
+"S�o Paulo",3503109,"Arandu",131273,6360,20640.43
+"S�o Paulo",3503158,"Arape�",25889,2516,10289.63
+"S�o Paulo",3503208,"Araraquara",8932928,228664,39065.74
+"S�o Paulo",3503307,"Araras",4997486,130102,38412.06
+"S�o Paulo",3503356,"Arco-�ris",51987,1873,27756.09
+"S�o Paulo",3503406,"Arealva",170709,8402,20317.67
+"S�o Paulo",3503505,"Areias",37753,3869,9757.85
+"S�o Paulo",3503604,"Arei�polis",129809,11078,11717.73
+"S�o Paulo",3503703,"Ariranha",654030,9365,69837.66
+"S�o Paulo",3503802,"Artur Nogueira",991269,51126,19388.74
+"S�o Paulo",3503901,"Aruj�",4730400,85199,55521.78
+"S�o Paulo",3503950,"Asp�sia",31012,1845,16808.44
+"S�o Paulo",3504008,"Assis",2855490,102268,27921.64
+"S�o Paulo",3504107,"Atibaia",5871980,138449,42412.58
+"S�o Paulo",3504206,"Auriflama",292085,15024,19441.24
+"S�o Paulo",3504305,"Ava�",283507,5306,53431.32
+"S�o Paulo",3504404,"Avanhandava",337182,12918,26101.7
+"S�o Paulo",3504503,"Avar�",2492529,88938,28025.47
+"S�o Paulo",3504602,"Bady Bassitt",320651,16604,19311.66
+"S�o Paulo",3504701,"Balbinos",42728,5006,8535.38
+"S�o Paulo",3504800,"B�lsamo",177045,8841,20025.4
+"S�o Paulo",3504909,"Bananal",217166,10821,20068.92
+"S�o Paulo",3505005,"Bar�o de Antonina",68573,3380,20287.75
+"S�o Paulo",3505104,"Barbosa",100123,7190,13925.31
+"S�o Paulo",3505203,"Bariri",1424982,34328,41510.78
+"S�o Paulo",3505302,"Barra Bonita",1385046,36326,38128.22
+"S�o Paulo",3505351,"Barra do Chap�u",81765,5619,14551.58
+"S�o Paulo",3505401,"Barra do Turvo",80277,7804,10286.62
+"S�o Paulo",3505500,"Barretos",4419155,119948,36842.26
+"S�o Paulo",3505609,"Barrinha",479540,31579,15185.41
+"S�o Paulo",3505708,"Barueri",47088302,264935,177735.3
+"S�o Paulo",3505807,"Bastos",822429,21070,39033.19
+"S�o Paulo",3505906,"Batatais",1662099,61040,27229.67
+"S�o Paulo",3506003,"Bauru",13141086,369368,35577.22
+"S�o Paulo",3506102,"Bebedouro",3220044,77695,41444.67
+"S�o Paulo",3506201,"Bento de Abreu",127997,2902,44106.36
+"S�o Paulo",3506300,"Bernardino de Campos",203837,11169,18250.23
+"S�o Paulo",3506359,"Bertioga",1487645,57942,25674.73
+"S�o Paulo",3506409,"Bilac",187384,7761,24144.27
+"S�o Paulo",3506508,"Birigui",3274072,119536,27389.84
+"S�o Paulo",3506607,"Biritiba Mirim",738495,31479,23459.93
+"S�o Paulo",3506706,"Boa Esperan�a do Sul",312038,14638,21317.01
+"S�o Paulo",3506805,"Bocaina",1045240,11926,87643.77
+"S�o Paulo",3506904,"Bofete",158687,11059,14349.1
+"S�o Paulo",3507001,"Boituva",2610873,56830,45941.81
+"S�o Paulo",3507100,"Bom Jesus dos Perd�es",550781,23530,23407.62
+"S�o Paulo",3507159,"Bom Sucesso de Itarar�",49398,3860,12797.53
+"S�o Paulo",3507209,"Bor�",83825,838,100029.91
+"S�o Paulo",3507308,"Borac�ia",199890,4675,42757.16
+"S�o Paulo",3507407,"Borborema",387635,15681,24720.06
+"S�o Paulo",3507456,"Borebi",60756,2548,23844.62
+"S�o Paulo",3507506,"Botucatu",4842900,141032,34339.02
+"S�o Paulo",3507605,"Bragan�a Paulista",5091765,162435,31346.47
+"S�o Paulo",3507704,"Bra�na",87397,5506,15873.08
+"S�o Paulo",3507753,"Brejo Alegre",766056,2790,274572.12
+"S�o Paulo",3507803,"Brodowski",537002,23780,22582.08
+"S�o Paulo",3507902,"Brotas",670395,23641,28357.32
+"S�o Paulo",3508009,"Buri",383837,19655,19528.74
+"S�o Paulo",3508108,"Buritama",517636,16714,30970.21
+"S�o Paulo",3508207,"Buritizal",332159,4377,75887.45
+"S�o Paulo",3508306,"Cabr�lia Paulista",80710,4371,18464.94
+"S�o Paulo",3508405,"Cabre�va",4141539,47210,87725.88
+"S�o Paulo",3508504,"Ca�apava",3580187,91883,38964.63
+"S�o Paulo",3508603,"Cachoeira Paulista",559694,32536,17202.31
+"S�o Paulo",3508702,"Caconde",308767,19001,16250.05
+"S�o Paulo",3508801,"Cafel�ndia",440010,17573,25039
+"S�o Paulo",3508900,"Caiabu",57475,4208,13658.49
+"S�o Paulo",3509007,"Caieiras",2706457,97016,27897.02
+"S�o Paulo",3509106,"Caiu�",78775,5628,13996.95
+"S�o Paulo",3509205,"Cajamar",13020610,72875,178670.47
+"S�o Paulo",3509254,"Cajati",1052221,28916,36388.89
+"S�o Paulo",3509304,"Cajobi",146390,10393,14085.49
+"S�o Paulo",3509403,"Cajuru",546609,25445,21481.97
+"S�o Paulo",3509452,"Campina do Monte Alegre",109869,5932,18521.39
+"S�o Paulo",3509502,"Campinas",58523733,1173370,49876.62
+"S�o Paulo",3509601,"Campo Limpo Paulista",1675995,81693,20515.77
+"S�o Paulo",3509700,"Campos do Jord�o",1197119,51157,23400.87
+"S�o Paulo",3509809,"Campos Novos Paulista",137858,4870,28307.64
+"S�o Paulo",3509908,"Canan�ia",203587,12606,16149.97
+"S�o Paulo",3509957,"Canas",150703,4914,30668.16
+"S�o Paulo",3510005,"C�ndido Mota",915663,31198,29350.05
+"S�o Paulo",3510104,"C�ndido Rodrigues",88309,2786,31697.4
+"S�o Paulo",3510153,"Canitar",101164,4956,20412.48
+"S�o Paulo",3510203,"Cap�o Bonito",832521,47475,17535.99
+"S�o Paulo",3510302,"Capela do Alto",286887,19747,14528.11
+"S�o Paulo",3510401,"Capivari",1606978,53731,29907.83
+"S�o Paulo",3510500,"Caraguatatuba",2658208,115071,23100.59
+"S�o Paulo",3510609,"Carapicu�ba",5214113,394465,13218.19
+"S�o Paulo",3510708,"Cardoso",209133,12305,16995.79
+"S�o Paulo",3510807,"Casa Branca",846568,30012,28207.64
+"S�o Paulo",3510906,"C�ssia dos Coqueiros",140978,2607,54076.6
+"S�o Paulo",3511003,"Castilho",594040,20120,29524.83
+"S�o Paulo",3511102,"Catanduva",3856233,120092,32110.65
+"S�o Paulo",3511201,"Catigu�",102921,7652,13450.24
+"S�o Paulo",3511300,"Cedral",272897,8870,30766.24
+"S�o Paulo",3511409,"Cerqueira C�sar",685904,19304,35531.7
+"S�o Paulo",3511508,"Cerquilho",1702651,45947,37056.84
+"S�o Paulo",3511607,"Ces�rio Lange",364362,17378,20966.88
+"S�o Paulo",3511706,"Charqueada",272057,16608,16381.07
+"S�o Paulo",3511904,"Clementina",214425,8124,26394.01
+"S�o Paulo",3512001,"Colina",1136379,18311,62059.9
+"S�o Paulo",3512100,"Col�mbia",339941,6218,54670.46
+"S�o Paulo",3512209,"Conchal",641063,27345,23443.53
+"S�o Paulo",3512308,"Conchas",323592,17523,18466.68
+"S�o Paulo",3512407,"Cordeir�polis",2258963,23517,96056.59
+"S�o Paulo",3512506,"Coroados",131468,5820,22589.03
+"S�o Paulo",3512605,"Coronel Macedo",77637,4881,15905.86
+"S�o Paulo",3512704,"Corumbata�",166351,4045,41125.16
+"S�o Paulo",3512803,"Cosm�polis",1318218,67960,19396.97
+"S�o Paulo",3512902,"Cosmorama",227706,7381,30850.27
+"S�o Paulo",3513009,"Cotia",10991458,233696,47033.14
+"S�o Paulo",3513108,"Cravinhos",1037157,34384,30163.95
+"S�o Paulo",3513207,"Cristais Paulista",177262,8343,21246.82
+"S�o Paulo",3513306,"Cruz�lia",69483,2185,31800.1
+"S�o Paulo",3513405,"Cruzeiro",1988301,81406,24424.5
+"S�o Paulo",3513504,"Cubat�o",17668001,127887,138153.22
+"S�o Paulo",3513603,"Cunha",213621,22007,9706.96
+"S�o Paulo",3513702,"Descalvado",1385107,33165,41764.12
+"S�o Paulo",3513801,"Diadema",13229745,415180,31865.08
+"S�o Paulo",3513850,"Dirce Reis",52678,1779,29611.09
+"S�o Paulo",3513900,"Divinol�ndia",269347,11437,23550.52
+"S�o Paulo",3514007,"Dobrada",98289,8669,11337.93
+"S�o Paulo",3514106,"Dois C�rregos",683548,26706,25595.29
+"S�o Paulo",3514205,"Dolcin�polis",43339,2139,20261.42
+"S�o Paulo",3514304,"Dourado",699915,8903,78615.59
+"S�o Paulo",3514403,"Dracena",1121150,46088,24326.29
+"S�o Paulo",3514502,"Duartina",215272,12558,17142.2
+"S�o Paulo",3514601,"Dumont",235050,9325,25206.39
+"S�o Paulo",3514700,"Echapor�",128877,6281,20518.61
+"S�o Paulo",3514809,"Eldorado",224075,15388,14561.67
+"S�o Paulo",3514908,"Elias Fausto",594381,17241,34474.83
+"S�o Paulo",3514924,"Elisi�rio",62634,3494,17926.03
+"S�o Paulo",3514957,"Emba�ba",47867,2479,19309.05
+"S�o Paulo",3515004,"Embu das Artes",10004647,264448,37832.19
+"S�o Paulo",3515103,"Embu-Gua�u",1063716,67788,15691.8
+"S�o Paulo",3515129,"Emilian�polis",59710,3186,18741.24
+"S�o Paulo",3515152,"Engenheiro Coelho",439779,19059,23074.63
+"S�o Paulo",3515186,"Esp�rito Santo do Pinhal",1327264,44036,30140.43
+"S�o Paulo",3515194,"Esp�rito Santo do Turvo",71692,4668,15358.13
+"S�o Paulo",3515202,"Estrela d'Oeste",578256,8464,68319.5
+"S�o Paulo",3515301,"Estrela do Norte",83360,2765,30148.17
+"S�o Paulo",3515350,"Euclides da Cunha Paulista",112224,9600,11689.99
+"S�o Paulo",3515400,"Fartura",356509,15994,22290.2
+"S�o Paulo",3515509,"Fernand�polis",1975540,68399,28882.59
+"S�o Paulo",3515608,"Fernando Prestes",163967,5771,28412.16
+"S�o Paulo",3515657,"Fern�o",48528,1680,28885.48
+"S�o Paulo",3515707,"Ferraz de Vasconcelos",2859009,186808,15304.53
+"S�o Paulo",3515806,"Flora Rica",35514,1602,22168.4
+"S�o Paulo",3515905,"Floreal",55110,2996,18394.68
+"S�o Paulo",3516002,"Fl�rida Paulista",188007,14143,13293.3
+"S�o Paulo",3516101,"Flor�nea",121784,2778,43838.84
+"S�o Paulo",3516200,"Franca",9689019,344704,28108.23
+"S�o Paulo",3516309,"Francisco Morato",1372211,169942,8074.58
+"S�o Paulo",3516408,"Franco da Rocha",2460082,147650,16661.58
+"S�o Paulo",3516507,"Gabriel Monteiro",59427,2791,21292.45
+"S�o Paulo",3516606,"G�lia",122800,6834,17968.98
+"S�o Paulo",3516705,"Gar�a",1091079,44557,24487.27
+"S�o Paulo",3516804,"Gast�o Vidigal",59542,4634,12848.93
+"S�o Paulo",3516853,"Gavi�o Peixoto",860154,4714,182468
+"S�o Paulo",3516903,"General Salgado",528457,10956,48234.52
+"S�o Paulo",3517000,"Getulina",170097,11325,15019.6
+"S�o Paulo",3517109,"Glic�rio",101973,4787,21302.04
+"S�o Paulo",3517208,"Guai�ara",186880,11752,15901.94
+"S�o Paulo",3517307,"Guaimb�",72903,5717,12751.97
+"S�o Paulo",3517406,"Gua�ra",3821035,40053,95399.47
+"S�o Paulo",3517505,"Guapia�u",508226,20340,24986.51
+"S�o Paulo",3517604,"Guapiara",529402,17758,29812.01
+"S�o Paulo",3517703,"Guar�",405948,20997,19333.63
+"S�o Paulo",3517802,"Guara�a�",259904,8495,30594.94
+"S�o Paulo",3517901,"Guaraci",325485,10872,29937.88
+"S�o Paulo",3518008,"Guarani d'Oeste",30634,2018,15180.46
+"S�o Paulo",3518107,"Guarant�",147331,6662,22115.08
+"S�o Paulo",3518206,"Guararapes",1237334,32502,38069.46
+"S�o Paulo",3518305,"Guararema",1427047,28664,49785.35
+"S�o Paulo",3518404,"Guaratinguet�",4232993,119753,35347.7
+"S�o Paulo",3518503,"Guare�",229066,17213,13307.71
+"S�o Paulo",3518602,"Guariba",1174644,38861,30226.8
+"S�o Paulo",3518701,"Guaruj�",7905851,313421,25224.38
+"S�o Paulo",3518800,"Guarulhos",53974919,1337087,40367.54
+"S�o Paulo",3518859,"Guatapar�",206085,7496,27492.67
+"S�o Paulo",3518909,"Guzol�ndia",64697,5142,12581.98
+"S�o Paulo",3519006,"Hercul�ndia",269831,9338,28896.01
+"S�o Paulo",3519055,"Holambra",909274,13698,66380.04
+"S�o Paulo",3519071,"Hortol�ndia",11515072,219039,52570.87
+"S�o Paulo",3519105,"Iacanga",629955,11206,56215.83
+"S�o Paulo",3519204,"Iacri",149486,6457,23150.97
+"S�o Paulo",3519253,"Iaras",134888,8230,16389.78
+"S�o Paulo",3519303,"Ibat�",774228,33884,22849.38
+"S�o Paulo",3519402,"Ibir�",221037,11980,18450.48
+"S�o Paulo",3519501,"Ibirarema",350597,7459,47003.22
+"S�o Paulo",3519600,"Ibitinga",1354044,58188,23270.16
+"S�o Paulo",3519709,"Ibi�na",1597888,77005,20750.45
+"S�o Paulo",3519808,"Ic�m",405233,8055,50308.27
+"S�o Paulo",3519907,"Iep�",243516,8070,30175.51
+"S�o Paulo",3520004,"Igara�u do Tiet�",281418,24525,11474.74
+"S�o Paulo",3520103,"Igarapava",1090395,29902,36465.62
+"S�o Paulo",3520202,"Igarat�",177756,9397,18916.28
+"S�o Paulo",3520301,"Iguape",620572,30519,20333.94
+"S�o Paulo",3520400,"Ilhabela",3011806,32782,91873.77
+"S�o Paulo",3520426,"Ilha Comprida",555228,10476,52999.97
+"S�o Paulo",3520442,"Ilha Solteira",568520,26443,21499.82
+"S�o Paulo",3520509,"Indaiatuba",11735700,235367,49861.28
+"S�o Paulo",3520608,"Indiana",60022,4936,12159.98
+"S�o Paulo",3520707,"Indiapor�",72565,3960,18324.5
+"S�o Paulo",3520806,"In�bia Paulista",124059,3907,31752.98
+"S�o Paulo",3520905,"Ipaussu",367707,14674,25058.43
+"S�o Paulo",3521002,"Iper�",476482,34149,13953.02
+"S�o Paulo",3521101,"Ipe�na",659789,7047,93626.98
+"S�o Paulo",3521150,"Ipigu�",85630,5101,16786.9
+"S�o Paulo",3521200,"Iporanga",43833,4316,10155.91
+"S�o Paulo",3521309,"Ipu�",353575,15752,22446.38
+"S�o Paulo",3521408,"Iracem�polis",1163373,22914,50771.27
+"S�o Paulo",3521507,"Irapu�",145822,7827,18630.64
+"S�o Paulo",3521606,"Irapuru",84026,8217,10225.93
+"S�o Paulo",3521705,"Itaber�",578194,17946,32218.56
+"S�o Paulo",3521804,"Ita�",771037,26287,29331.5
+"S�o Paulo",3521903,"Itajobi",560528,15212,36847.73
+"S�o Paulo",3522000,"Itaju",93804,3655,25664.53
+"S�o Paulo",3522109,"Itanha�m",1603283,97439,16454.23
+"S�o Paulo",3522158,"Itaoca",35904,3339,10752.82
+"S�o Paulo",3522208,"Itapecerica da Serra",3853304,169103,22786.72
+"S�o Paulo",3522307,"Itapetininga",4652157,158561,29339.86
+"S�o Paulo",3522406,"Itapeva",2409815,93145,25871.65
+"S�o Paulo",3522505,"Itapevi",12147662,226488,53634.91
+"S�o Paulo",3522604,"Itapira",3430994,73410,46737.42
+"S�o Paulo",3522653,"Itapirapu� Paulista",33631,4161,8082.46
+"S�o Paulo",3522703,"It�polis",1178197,42547,27691.66
+"S�o Paulo",3522802,"Itaporanga",280431,15140,18522.5
+"S�o Paulo",3522901,"Itapu�",610326,13475,45293.19
+"S�o Paulo",3523008,"Itapura",99604,4760,20925.19
+"S�o Paulo",3523107,"Itaquaquecetuba",6507690,356774,18240.37
+"S�o Paulo",3523206,"Itarar�",923172,50243,18374.14
+"S�o Paulo",3523305,"Itariri",231645,16913,13696.27
+"S�o Paulo",3523404,"Itatiba",5122839,114912,44580.54
+"S�o Paulo",3523503,"Itatinga",265525,19951,13308.85
+"S�o Paulo",3523602,"Itirapina",404518,17377,23278.9
+"S�o Paulo",3523701,"Itirapu�",77912,6363,12244.56
+"S�o Paulo",3523800,"Itobi",127387,7842,16244.19
+"S�o Paulo",3523909,"Itu",7641850,168643,45313.77
+"S�o Paulo",3524006,"Itupeva",4685473,55596,84277.15
+"S�o Paulo",3524105,"Ituverava",1247148,41206,30266.17
+"S�o Paulo",3524204,"Jaborandi",141217,6900,20466.28
+"S�o Paulo",3524303,"Jaboticabal",2668378,76196,35019.92
+"S�o Paulo",3524402,"Jacare�",9980970,228214,43735.14
+"S�o Paulo",3524501,"Jaci",387970,6609,58703.27
+"S�o Paulo",3524600,"Jacupiranga",445466,17876,24919.81
+"S�o Paulo",3524709,"Jaguari�na",8422261,53069,158703.96
+"S�o Paulo",3524808,"Jales",1314174,49017,26810.58
+"S�o Paulo",3524907,"Jambeiro",274960,6200,44348.46
+"S�o Paulo",3525003,"Jandira",3419632,120177,28454.96
+"S�o Paulo",3525102,"Jardin�polis",1012332,42358,23899.44
+"S�o Paulo",3525201,"Jarinu",1978140,28012,70617.6
+"S�o Paulo",3525300,"Ja�",4326560,144828,29873.78
+"S�o Paulo",3525409,"Jeriquara",97041,3209,30240.12
+"S�o Paulo",3525508,"Joan�polis",202175,12837,15749.4
+"S�o Paulo",3525607,"Jo�o Ramalho",158879,4442,35767.38
+"S�o Paulo",3525706,"Jos� Bonif�cio",1235143,35872,34431.94
+"S�o Paulo",3525805,"J�lio Mesquita",50979,4710,10823.59
+"S�o Paulo",3525854,"Jumirim",71860,3190,22526.58
+"S�o Paulo",3525904,"Jundia�",39782736,405740,98049.82
+"S�o Paulo",3526001,"Junqueir�polis",951295,20211,47068.18
+"S�o Paulo",3526100,"Juqui�",346043,19274,17953.89
+"S�o Paulo",3526209,"Juquitiba",442469,30837,14348.63
+"S�o Paulo",3526308,"Lagoinha",57554,4949,11629.45
+"S�o Paulo",3526407,"Laranjal Paulista",879382,27640,31815.57
+"S�o Paulo",3526506,"Lav�nia",146399,10876,13460.71
+"S�o Paulo",3526605,"Lavrinhas",104689,7102,14740.71
+"S�o Paulo",3526704,"Leme",2941350,100296,29326.69
+"S�o Paulo",3526803,"Len��is Paulista",2454900,66664,36824.98
+"S�o Paulo",3526902,"Limeira",11069068,298701,37057.35
+"S�o Paulo",3527009,"Lind�ia",151745,7591,19990.11
+"S�o Paulo",3527108,"Lins",4216272,76562,55070.04
+"S�o Paulo",3527207,"Lorena",2351891,87584,26852.97
+"S�o Paulo",3527256,"Lourdes",37867,2260,16755.3
+"S�o Paulo",3527306,"Louveira",11263136,44904,250827.01
+"S�o Paulo",3527405,"Luc�lia",395513,21330,18542.56
+"S�o Paulo",3527504,"Lucian�polis",53277,2372,22460.63
+"S�o Paulo",3527603,"Lu�s Ant�nio",1020110,13703,74444.27
+"S�o Paulo",3527702,"Luizi�nia",69319,5573,12438.45
+"S�o Paulo",3527801,"Lup�rcio",52071,4561,11416.47
+"S�o Paulo",3527900,"Lut�cia",87686,2717,32273.06
+"S�o Paulo",3528007,"Macatuba",624880,17063,36621.93
+"S�o Paulo",3528106,"Macaubal",143204,8060,17767.27
+"S�o Paulo",3528205,"Maced�nia",71746,3741,19178.36
+"S�o Paulo",3528304,"Magda",67989,3200,21246.6
+"S�o Paulo",3528403,"Mairinque",1802771,46294,38941.79
+"S�o Paulo",3528502,"Mairipor�",1639191,93981,17441.73
+"S�o Paulo",3528601,"Manduri",178525,9653,18494.25
+"S�o Paulo",3528700,"Marab� Paulista",146392,5524,26501.1
+"S�o Paulo",3528809,"Maraca�",515045,13948,36926.11
+"S�o Paulo",3528858,"Marapoama",427213,2917,146456.19
+"S�o Paulo",3528908,"Mari�polis",56211,4079,13780.63
+"S�o Paulo",3529005,"Mar�lia",7353419,233639,31473.42
+"S�o Paulo",3529104,"Marin�polis",30877,2145,14394.98
+"S�o Paulo",3529203,"Martin�polis",560867,25966,21600.06
+"S�o Paulo",3529302,"Mat�o",3720652,81878,45441.41
+"S�o Paulo",3529401,"Mau�",13963846,457696,30509
+"S�o Paulo",3529500,"Mendon�a",216568,5232,41393.06
+"S�o Paulo",3529609,"Meridiano",720319,3902,184602.58
+"S�o Paulo",3529658,"Mes�polis",50298,1928,26088.05
+"S�o Paulo",3529708,"Miguel�polis",1076838,21852,49278.71
+"S�o Paulo",3529807,"Mineiros do Tiet�",163743,12757,12835.54
+"S�o Paulo",3529906,"Miracatu",415713,20409,20369.11
+"S�o Paulo",3530003,"Mira Estrela",55530,3027,18344.76
+"S�o Paulo",3530102,"Mirand�polis",611657,29181,20960.79
+"S�o Paulo",3530201,"Mirante do Paranapanema",867180,18056,48027.27
+"S�o Paulo",3530300,"Mirassol",1751644,58314,30038.14
+"S�o Paulo",3530409,"Mirassol�ndia",85846,4714,18210.89
+"S�o Paulo",3530508,"Mococa",1937895,68897,28127.42
+"S�o Paulo",3530607,"Mogi das Cruzes",14426294,429321,33602.58
+"S�o Paulo",3530706,"Mogi Gua�u",4993575,148327,33665.99
+"S�o Paulo",3530805,"Mogi Mirim",4275830,91929,46512.31
+"S�o Paulo",3530904,"Mombuca",66889,3456,19354.6
+"S�o Paulo",3531001,"Mon��es",70990,2242,31663.66
+"S�o Paulo",3531100,"Mongagu�",913697,53384,17115.56
+"S�o Paulo",3531209,"Monte Alegre do Sul",192078,7804,24612.81
+"S�o Paulo",3531308,"Monte Alto",1747925,49721,35154.66
+"S�o Paulo",3531407,"Monte Apraz�vel",627139,24128,25992.18
+"S�o Paulo",3531506,"Monte Azul Paulista",490772,19268,25470.81
+"S�o Paulo",3531605,"Monte Castelo",89704,4189,21414.11
+"S�o Paulo",3531704,"Monteiro Lobato",57846,4509,12828.99
+"S�o Paulo",3531803,"Monte Mor",2260958,56335,40134.15
+"S�o Paulo",3531902,"Morro Agudo",1240390,31923,38855.69
+"S�o Paulo",3532009,"Morungaba",396690,13085,30316.36
+"S�o Paulo",3532058,"Motuca",82173,4642,17702.09
+"S�o Paulo",3532108,"Murutinga do Sul",58637,4434,13224.34
+"S�o Paulo",3532157,"Nantes",95465,3014,31673.75
+"S�o Paulo",3532207,"Narandiba",229625,4702,48835.62
+"S�o Paulo",3532306,"Natividade da Serra",66404,6770,9808.62
+"S�o Paulo",3532405,"Nazar� Paulista",310531,17959,17291.09
+"S�o Paulo",3532504,"Neves Paulista",188281,9003,20913.11
+"S�o Paulo",3532603,"Nhandeara",284482,11351,25062.32
+"S�o Paulo",3532702,"Nipo�",86712,4916,17638.77
+"S�o Paulo",3532801,"Nova Alian�a",117985,6645,17755.46
+"S�o Paulo",3532827,"Nova Campina",283828,9406,30175.15
+"S�o Paulo",3532843,"Nova Cana� Paulista",34657,2005,17285.14
+"S�o Paulo",3532868,"Nova Castilho",41099,1228,33468.35
+"S�o Paulo",3532900,"Nova Europa",313712,10599,29598.27
+"S�o Paulo",3533007,"Nova Granada",418622,20896,20033.57
+"S�o Paulo",3533106,"Nova Guataporanga",29363,2296,12788.73
+"S�o Paulo",3533205,"Nova Independ�ncia",123891,3667,33785.37
+"S�o Paulo",3533254,"Novais",48468,5421,8940.83
+"S�o Paulo",3533304,"Nova Luzit�nia",43209,3899,11081.96
+"S�o Paulo",3533403,"Nova Odessa",2810059,57504,48867.19
+"S�o Paulo",3533502,"Novo Horizonte",1246711,39888,31255.3
+"S�o Paulo",3533601,"Nuporanga",468829,7299,64231.96
+"S�o Paulo",3533700,"Ocau�u",96687,4305,22459.31
+"S�o Paulo",3533809,"�leo",88908,2605,34129.59
+"S�o Paulo",3533908,"Ol�mpia",1899213,53702,35365.77
+"S�o Paulo",3534005,"Onda Verde",202840,4248,47749.58
+"S�o Paulo",3534104,"Oriente",97475,6447,15119.42
+"S�o Paulo",3534203,"Orindi�va",443243,6614,67015.87
+"S�o Paulo",3534302,"Orl�ndia",1598881,42996,37186.74
+"S�o Paulo",3534401,"Osasco",74402691,696382,106841.78
+"S�o Paulo",3534500,"Oscar Bressane",83879,2615,32076.14
+"S�o Paulo",3534609,"Osvaldo Cruz",974585,32593,29901.68
+"S�o Paulo",3534708,"Ourinhos",2772919,111056,24968.65
+"S�o Paulo",3534757,"Ouroeste",424152,9733,43578.73
+"S�o Paulo",3534807,"Ouro Verde",99406,8386,11853.79
+"S�o Paulo",3534906,"Pacaembu",199374,14024,14216.64
+"S�o Paulo",3535002,"Palestina",565087,12388,45615.66
+"S�o Paulo",3535101,"Palmares Paulista",109618,12536,8744.25
+"S�o Paulo",3535200,"Palmeira d'Oeste",187300,9545,19622.88
+"S�o Paulo",3535309,"Palmital",612798,22146,27670.81
+"S�o Paulo",3535408,"Panorama",254551,15539,16381.45
+"S�o Paulo",3535507,"Paragua�u Paulista",1183813,45027,26291.19
+"S�o Paulo",3535606,"Paraibuna",255092,18166,14042.3
+"S�o Paulo",3535705,"Para�so",233785,6330,36932.83
+"S�o Paulo",3535804,"Paranapanema",644157,19545,32957.63
+"S�o Paulo",3535903,"Paranapu�",82281,4035,20391.86
+"S�o Paulo",3536000,"Parapu�",297743,11085,26859.95
+"S�o Paulo",3536109,"Pardinho",277182,6191,44771.78
+"S�o Paulo",3536208,"Pariquera-A�u",505246,19465,25956.61
+"S�o Paulo",3536257,"Parisi",37169,2142,17352.37
+"S�o Paulo",3536307,"Patroc�nio Paulista",889461,14223,62536.82
+"S�o Paulo",3536406,"Paulic�ia",575097,7065,81400.91
+"S�o Paulo",3536505,"Paul�nia",31504043,100128,314637.69
+"S�o Paulo",3536570,"Paulist�nia",30917,1840,16802.89
+"S�o Paulo",3536604,"Paulo de Faria",227325,8939,25430.72
+"S�o Paulo",3536703,"Pederneiras",1673972,45314,36941.61
+"S�o Paulo",3536802,"Pedra Bela",73567,6062,12135.78
+"S�o Paulo",3536901,"Pedran�polis",55748,2558,21793.53
+"S�o Paulo",3537008,"Pedregulho",831741,16582,50159.26
+"S�o Paulo",3537107,"Pedreira",1124078,46094,24386.64
+"S�o Paulo",3537156,"Pedrinhas Paulista",101683,3079,33024.83
+"S�o Paulo",3537206,"Pedro de Toledo",136391,11053,12339.71
+"S�o Paulo",3537305,"Pen�polis",1685692,62409,27010.39
+"S�o Paulo",3537404,"Pereira Barreto",819847,25779,31802.91
+"S�o Paulo",3537503,"Pereiras",150353,8312,18088.66
+"S�o Paulo",3537602,"Peru�be",1190689,65907,18066.2
+"S�o Paulo",3537701,"Piacatu",100550,5793,17357.2
+"S�o Paulo",3537800,"Piedade",1175922,54907,21416.61
+"S�o Paulo",3537909,"Pilar do Sul",594351,28516,20842.71
+"S�o Paulo",3538006,"Pindamonhangaba",6708744,162327,41328.58
+"S�o Paulo",3538105,"Pindorama",305689,16501,18525.51
+"S�o Paulo",3538204,"Pinhalzinho",235728,14595,16151.3
+"S�o Paulo",3538303,"Piquerobi",55685,3686,15107.21
+"S�o Paulo",3538501,"Piquete",148416,14048,10564.93
+"S�o Paulo",3538600,"Piracaia",443893,26841,16537.87
+"S�o Paulo",3538709,"Piracicaba",21557592,394419,54656.57
+"S�o Paulo",3538808,"Piraju",602191,29728,20256.69
+"S�o Paulo",3538907,"Piraju�",395072,24762,15954.78
+"S�o Paulo",3539004,"Pirangi",251809,11272,22339.34
+"S�o Paulo",3539103,"Pirapora do Bom Jesus",268354,17913,14980.96
+"S�o Paulo",3539202,"Pirapozinho",722609,26810,26952.95
+"S�o Paulo",3539301,"Pirassununga",2474551,75035,32978.62
+"S�o Paulo",3539400,"Piratininga",193094,13216,14610.61
+"S�o Paulo",3539509,"Pitangueiras",1028381,38554,26673.78
+"S�o Paulo",3539608,"Planalto",272408,5005,54427.24
+"S�o Paulo",3539707,"Platina",76772,3461,22182.07
+"S�o Paulo",3539806,"Po�",4343585,114650,37885.61
+"S�o Paulo",3539905,"Poloni",122050,5884,20742.68
+"S�o Paulo",3540002,"Pomp�ia",1070880,21526,49748.23
+"S�o Paulo",3540101,"Ponga�",75099,3494,21493.65
+"S�o Paulo",3540200,"Pontal",1034414,46818,22094.38
+"S�o Paulo",3540259,"Pontalinda",74206,4476,16578.68
+"S�o Paulo",3540309,"Pontes Gestal",151083,2593,58265.54
+"S�o Paulo",3540408,"Populina",92105,4254,21651.45
+"S�o Paulo",3540507,"Porangaba",170534,9434,18076.57
+"S�o Paulo",3540606,"Porto Feliz",1639061,52221,31387.01
+"S�o Paulo",3540705,"Porto Ferreira",1745289,55100,31674.93
+"S�o Paulo",3540754,"Potim",187880,22911,8200.44
+"S�o Paulo",3540804,"Potirendaba",507078,16857,30081.16
+"S�o Paulo",3540853,"Pracinha",26746,3659,7309.6
+"S�o Paulo",3540903,"Prad�polis",736529,20169,36517.85
+"S�o Paulo",3541000,"Praia Grande",6181076,304705,20285.44
+"S�o Paulo",3541059,"Prat�nia",101120,5074,19929.08
+"S�o Paulo",3541109,"Presidente Alves",76266,4167,18302.47
+"S�o Paulo",3541208,"Presidente Bernardes",253328,13494,18773.35
+"S�o Paulo",3541307,"Presidente Epit�cio",1041395,43718,23820.74
+"S�o Paulo",3541406,"Presidente Prudente",7406410,223749,33101.42
+"S�o Paulo",3541505,"Presidente Venceslau",701395,39476,17767.62
+"S�o Paulo",3541604,"Promiss�o",2803097,39139,71619.02
+"S�o Paulo",3541653,"Quadra",90695,3634,24957.37
+"S�o Paulo",3541703,"Quat�",452459,13798,32791.62
+"S�o Paulo",3541802,"Queiroz",427977,3217,133036.07
+"S�o Paulo",3541901,"Queluz",237969,12777,18624.79
+"S�o Paulo",3542008,"Quintana",152374,6484,23500.04
+"S�o Paulo",3542107,"Rafard",306235,9030,33913.11
+"S�o Paulo",3542206,"Rancharia",1152273,29799,38668.19
+"S�o Paulo",3542305,"Reden��o da Serra",53758,3919,13717.38
+"S�o Paulo",3542404,"Regente Feij�",611871,19860,30809.19
+"S�o Paulo",3542503,"Regin�polis",129574,8844,14651.05
+"S�o Paulo",3542602,"Registro",1823615,56356,32358.84
+"S�o Paulo",3542701,"Restinga",175335,7304,24005.35
+"S�o Paulo",3542800,"Ribeira",50579,3399,14880.43
+"S�o Paulo",3542909,"Ribeir�o Bonito",226251,12986,17422.7
+"S�o Paulo",3543006,"Ribeir�o Branco",407477,17430,23377.9
+"S�o Paulo",3543105,"Ribeir�o Corrente",112561,4612,24406.16
+"S�o Paulo",3543204,"Ribeir�o do Sul",130749,4572,28597.68
+"S�o Paulo",3543238,"Ribeir�o dos �ndios",39945,2244,17800.82
+"S�o Paulo",3543253,"Ribeir�o Grande",166381,7690,21635.97
+"S�o Paulo",3543303,"Ribeir�o Pires",3021839,121130,24947.07
+"S�o Paulo",3543402,"Ribeir�o Preto",29986609,674405,44463.8
+"S�o Paulo",3543501,"Riversul",59368,5866,10120.74
+"S�o Paulo",3543600,"Rifaina",86402,3608,23947.27
+"S�o Paulo",3543709,"Rinc�o",174151,10809,16111.67
+"S�o Paulo",3543808,"Rin�polis",219212,10116,21669.79
+"S�o Paulo",3543907,"Rio Claro",8858141,201473,43966.89
+"S�o Paulo",3544004,"Rio das Pedras",1114580,33464,33306.82
+"S�o Paulo",3544103,"Rio Grande da Serra",578087,48861,11831.25
+"S�o Paulo",3544202,"Riol�ndia",204548,11928,17148.57
+"S�o Paulo",3544251,"Rosana",2232363,18124,123171.63
+"S�o Paulo",3544301,"Roseira",269309,10429,25823.08
+"S�o Paulo",3544400,"Rubi�cea",56847,3015,18854.87
+"S�o Paulo",3544509,"Rubin�ia",67892,3081,22035.61
+"S�o Paulo",3544608,"Sabino",118549,5526,21452.92
+"S�o Paulo",3544707,"Sagres",40944,2454,16684.57
+"S�o Paulo",3544806,"Sales",130286,6074,21449.82
+"S�o Paulo",3544905,"Sales Oliveira",320499,11541,27770.45
+"S�o Paulo",3545001,"Sales�polis",196020,16797,11669.96
+"S�o Paulo",3545100,"Salmour�o",69714,5187,13440.12
+"S�o Paulo",3545159,"Saltinho",197475,7919,24936.83
+"S�o Paulo",3545209,"Salto",6204762,115193,53864.05
+"S�o Paulo",3545308,"Salto de Pirapora",1263910,43990,28731.77
+"S�o Paulo",3545407,"Salto Grande",216574,9255,23400.79
+"S�o Paulo",3545506,"Sandovalina",592799,4126,143674.04
+"S�o Paulo",3545605,"Santa Ad�lia",299404,15255,19626.61
+"S�o Paulo",3545704,"Santa Albertina",190217,5985,31782.25
+"S�o Paulo",3545803,"Santa B�rbara d'Oeste",5079379,191024,26590.27
+"S�o Paulo",3546009,"Santa Branca",251490,14601,17224.14
+"S�o Paulo",3546108,"Santa Clara d'Oeste",51419,2136,24072.47
+"S�o Paulo",3546207,"Santa Cruz da Concei��o",131443,4371,30071.5
+"S�o Paulo",3546256,"Santa Cruz da Esperan�a",50426,2097,24046.86
+"S�o Paulo",3546306,"Santa Cruz das Palmeiras",453167,33106,13688.36
+"S�o Paulo",3546405,"Santa Cruz do Rio Pardo",1970531,46893,42021.86
+"S�o Paulo",3546504,"Santa Ernestina",89108,5672,15710.17
+"S�o Paulo",3546603,"Santa F� do Sul",955478,31578,30257.7
+"S�o Paulo",3546702,"Santa Gertrudes",1300024,25192,51604.64
+"S�o Paulo",3546801,"Santa Isabel",1238723,55476,22328.98
+"S�o Paulo",3546900,"Santa L�cia",100239,8723,11491.33
+"S�o Paulo",3547007,"Santa Maria da Serra",113636,5962,19060.12
+"S�o Paulo",3547106,"Santa Mercedes",61268,2941,20832.47
+"S�o Paulo",3547205,"Santana da Ponte Pensa",33948,1573,21581.49
+"S�o Paulo",3547304,"Santana de Parna�ba",8485338,129261,65644.99
+"S�o Paulo",3547403,"Santa Rita d'Oeste",55812,2554,21852.83
+"S�o Paulo",3547502,"Santa Rita do Passa Quatro",621985,27546,22579.86
+"S�o Paulo",3547601,"Santa Rosa de Viterbo",729411,25869,28196.33
+"S�o Paulo",3547650,"Santa Salete",31933,1530,20871.31
+"S�o Paulo",3547700,"Santo Anast�cio",397048,21037,18873.78
+"S�o Paulo",3547809,"Santo Andr�",25837046,712749,36249.85
+"S�o Paulo",3547908,"Santo Ant�nio da Alegria",149910,6785,22094.3
+"S�o Paulo",3548005,"Santo Ant�nio de Posse",887954,22597,39295.21
+"S�o Paulo",3548054,"Santo Ant�nio do Aracangu�",319417,8228,38820.77
+"S�o Paulo",3548104,"Santo Ant�nio do Jardim",151151,6041,25020.88
+"S�o Paulo",3548203,"Santo Ant�nio do Pinhal",96484,6784,14222.23
+"S�o Paulo",3548302,"Santo Expedito",33300,3035,10971.88
+"S�o Paulo",3548401,"Sant�polis do Aguape�",60763,4650,13067.33
+"S�o Paulo",3548500,"Santos",21954557,434359,50544.73
+"S�o Paulo",3548609,"S�o Bento do Sapuca�",178593,10880,16414.83
+"S�o Paulo",3548708,"S�o Bernardo do Campo",42131380,822242,51239.64
+"S�o Paulo",3548807,"S�o Caetano do Sul",13286711,158825,83656.3
+"S�o Paulo",3548906,"S�o Carlos",10063062,243765,41281.81
+"S�o Paulo",3549003,"S�o Francisco",46814,2854,16403.07
+"S�o Paulo",3549102,"S�o Jo�o da Boa Vista",2751092,89564,30716.49
+"S�o Paulo",3549201,"S�o Jo�o das Duas Pontes",35564,2607,13641.75
+"S�o Paulo",3549250,"S�o Jo�o de Iracema",30390,1894,16045.26
+"S�o Paulo",3549300,"S�o Jo�o do Pau d'Alho",48473,2136,22693.37
+"S�o Paulo",3549409,"S�o Joaquim da Barra",1464259,50520,28983.75
+"S�o Paulo",3549508,"S�o Jos� da Bela Vista",150891,8854,17042.14
+"S�o Paulo",3549607,"S�o Jos� do Barreiro",48499,4183,11594.27
+"S�o Paulo",3549706,"S�o Jos� do Rio Pardo",1689896,54563,30971.46
+"S�o Paulo",3549805,"S�o Jos� do Rio Preto",15735652,446649,35230.47
+"S�o Paulo",3549904,"S�o Jos� dos Campos",37315783,695992,53615.25
+"S�o Paulo",3549953,"S�o Louren�o da Serra",196331,15323,12812.82
+"S�o Paulo",3550001,"S�o Lu�s do Paraitinga",143813,10735,13396.68
+"S�o Paulo",3550100,"S�o Manuel",1115217,40532,27514.47
+"S�o Paulo",3550209,"S�o Miguel Arcanjo",648708,32840,19753.6
+"S�o Paulo",3550308,"S�o Paulo",687035890,12038175,57071.43
+"S�o Paulo",3550407,"S�o Pedro",678081,34595,19600.54
+"S�o Paulo",3550506,"S�o Pedro do Turvo",194315,7596,25581.29
+"S�o Paulo",3550605,"S�o Roque",2530729,87506,28920.64
+"S�o Paulo",3550704,"S�o Sebasti�o",3517128,84294,41724.54
+"S�o Paulo",3550803,"S�o Sebasti�o da Grama",313908,12335,25448.6
+"S�o Paulo",3550902,"S�o Sim�o",445653,15165,29386.95
+"S�o Paulo",3551009,"S�o Vicente",5046457,357989,14096.68
+"S�o Paulo",3551108,"Sarapu�",133110,9936,13396.77
+"S�o Paulo",3551207,"Sarutai�",63304,3687,17169.58
+"S�o Paulo",3551306,"Sebastian�polis do Sul",853866,3373,253147.24
+"S�o Paulo",3551405,"Serra Azul",143963,13516,10651.27
+"S�o Paulo",3551504,"Serrana",882843,43293,20392.27
+"S�o Paulo",3551603,"Serra Negra",668012,28534,23411.1
+"S�o Paulo",3551702,"Sert�ozinho",5119743,121412,42168.34
+"S�o Paulo",3551801,"Sete Barras",367439,13098,28053.09
+"S�o Paulo",3551900,"Sever�nia",611863,16962,36072.58
+"S�o Paulo",3552007,"Silveiras",63119,6193,10192
+"S�o Paulo",3552106,"Socorro",747443,39896,18734.78
+"S�o Paulo",3552205,"Sorocaba",30593861,652481,46888.51
+"S�o Paulo",3552304,"Sud Mennucci",291720,7723,37772.91
+"S�o Paulo",3552403,"Sumar�",12061113,269522,44750.01
+"S�o Paulo",3552502,"Suzano",9468888,288056,32871.69
+"S�o Paulo",3552551,"Suzan�polis",310647,3790,81964.79
+"S�o Paulo",3552601,"Tabapu�",255914,12178,21014.42
+"S�o Paulo",3552700,"Tabatinga",235917,16021,14725.46
+"S�o Paulo",3552809,"Tabo�o da Serra",8350023,275948,30259.41
+"S�o Paulo",3552908,"Taciba",130239,6152,21170.25
+"S�o Paulo",3553005,"Tagua�",188491,12851,14667.4
+"S�o Paulo",3553104,"Taia�u",79971,6230,12836.38
+"S�o Paulo",3553203,"Tai�va",100596,5604,17950.69
+"S�o Paulo",3553302,"Tamba�",489396,23241,21057.44
+"S�o Paulo",3553401,"Tanabi",1201448,25597,46937.07
+"S�o Paulo",3553500,"Tapira�",144531,8010,18043.86
+"S�o Paulo",3553609,"Tapiratiba",290820,13069,22252.66
+"S�o Paulo",3553658,"Taquaral",39700,2821,14072.9
+"S�o Paulo",3553708,"Taquaritinga",1365758,56771,24057.32
+"S�o Paulo",3553807,"Taquarituba",624712,23202,26924.91
+"S�o Paulo",3553856,"Taquariva�",202555,5660,35787.04
+"S�o Paulo",3553906,"Tarabai",97438,7236,13465.76
+"S�o Paulo",3553955,"Tarum�",1128852,14378,78512.45
+"S�o Paulo",3554003,"Tatu�",3671217,117823,31158.75
+"S�o Paulo",3554102,"Taubat�",14135705,305174,46320.15
+"S�o Paulo",3554201,"Tejup�",85421,4713,18124.58
+"S�o Paulo",3554300,"Teodoro Sampaio",1076268,22795,47215.08
+"S�o Paulo",3554409,"Terra Roxa",128881,9164,14063.82
+"S�o Paulo",3554508,"Tiet�",1734556,40613,42709.38
+"S�o Paulo",3554607,"Timburi",48848,2695,18125.32
+"S�o Paulo",3554656,"Torre de Pedra",22805,2385,9561.64
+"S�o Paulo",3554706,"Torrinha",199848,9890,20207.05
+"S�o Paulo",3554755,"Trabiju",43319,1677,25831.15
+"S�o Paulo",3554805,"Trememb�",656524,45414,14456.43
+"S�o Paulo",3554904,"Tr�s Fronteiras",93610,5743,16299.91
+"S�o Paulo",3554953,"Tuiuti",109998,6612,16636.12
+"S�o Paulo",3555000,"Tup�",1670492,65705,25424.12
+"S�o Paulo",3555109,"Tupi Paulista",260852,15238,17118.53
+"S�o Paulo",3555208,"Turi�ba",39075,2013,19411.11
+"S�o Paulo",3555307,"Turmalina",54058,1854,29157.67
+"S�o Paulo",3555356,"Ubarana",441481,5996,73629.22
+"S�o Paulo",3555406,"Ubatuba",1786358,87364,20447.3
+"S�o Paulo",3555505,"Ubirajara",91882,4711,19503.65
+"S�o Paulo",3555604,"Uchoa",311435,10008,31118.59
+"S�o Paulo",3555703,"Uni�o Paulista",44988,1773,25374.17
+"S�o Paulo",3555802,"Ur�nia",181976,9141,19907.64
+"S�o Paulo",3555901,"Uru",47517,1218,39012.15
+"S�o Paulo",3556008,"Urup�s",338378,13580,24917.4
+"S�o Paulo",3556107,"Valentim Gentil",339246,12610,26902.92
+"S�o Paulo",3556206,"Valinhos",5095635,122163,41711.77
+"S�o Paulo",3556305,"Valpara�so",1149009,25316,45386.68
+"S�o Paulo",3556354,"Vargem",103107,10000,10310.74
+"S�o Paulo",3556404,"Vargem Grande do Sul",891383,42061,21192.61
+"S�o Paulo",3556453,"Vargem Grande Paulista",1745432,49542,35231.35
+"S�o Paulo",3556503,"V�rzea Paulista",2360681,117772,20044.5
+"S�o Paulo",3556602,"Vera Cruz",123294,10980,11228.93
+"S�o Paulo",3556701,"Vinhedo",7830624,73855,106027
+"S�o Paulo",3556800,"Viradouro",292404,18542,15769.82
+"S�o Paulo",3556909,"Vista Alegre do Alto",347786,8171,42563.46
+"S�o Paulo",3556958,"Vit�ria Brasil",31995,1827,17512.27
+"S�o Paulo",3557006,"Votorantim",4387884,118858,36917.03
+"S�o Paulo",3557105,"Votuporanga",2680060,92032,29120.96
+"S�o Paulo",3557154,"Zacarias",75935,2605,29149.67
+"S�o Paulo",3557204,"Chavantes",200611,12486,16066.88
+"S�o Paulo",3557303,"Estiva Gerbi",234026,10971,21331.37
+
