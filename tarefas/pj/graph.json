@@ -1,0 +1,581 @@
+{
+    "nodes": [{
+            "name": "Caminho de Aprendizagem",
+            "label": "",
+            "id": 1
+        },
+        {
+            "name": "ROTA",
+            "label": "A",
+            "id": 2
+        },
+        {
+            "name": "ROTA",
+            "label": "B",
+            "id": 3
+        },
+        {
+            "name": "ROTA",
+            "label": "C",
+            "id": 4
+        },
+        {
+            "name": "ROTA",
+            "label": "D",
+            "id": 5
+        },
+        {
+            "name": "Institucional",
+            "label": "A",
+            "id": 6
+        },
+        {
+            "name": "BNCC",
+            "label": "B",
+            "id": 7
+        },
+        {
+            "name": "Cosmovisão",
+            "label": "C",
+            "id": 8
+        },
+        {
+            "name": "Método Fônico",
+            "label": "D",
+            "id": 9
+        },
+        {
+            "name": "BNCC",
+            "label": "A",
+            "id": 10
+        },
+        {
+            "name": "Institucional",
+            "label": "B",
+            "id": 11
+        },
+        {
+            "name": "Método Fônico",
+            "label": "C",
+            "id": 12
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "D",
+            "id": 13
+        },
+        {
+            "name": "BNCC",
+            "label": "A",
+            "id": 14
+        },
+        {
+            "name": "Institucional",
+            "label": "B",
+            "id": 15
+        },
+        {
+            "name": "CosmoVisão",
+            "label": "C",
+            "id": 16
+        },
+        {
+            "name": "Método Fônico",
+            "label": "D",
+            "id": 17
+        },
+        {
+            "name": "CosmoVisão",
+            "label": "A",
+            "id": 18
+        },
+        {
+            "name": "BNCC",
+            "label": "D",
+            "id": 19
+        },
+        {
+            "name": "Institucional",
+            "label": "Dez_razoes",
+            "id": 20
+        },
+        {
+            "name": "Institucional",
+            "label": "Diretrizes",
+            "id": 21
+        },
+        {
+            "name": "Institucional",
+            "label": "Material",
+            "id": 22
+        },
+        {
+            "name": "BNCC",
+            "label": "Mais_que_Bncc",
+            "id": 23
+        },
+        {
+            "name": "BNCC",
+            "label": "Plano_Curricular",
+            "id": 24
+        },
+        {
+            "name": "BNCC",
+            "label": "Modulos_Bncc",
+            "id": 25
+        },
+        {
+            "name": "Método Fônico",
+            "label": "Textos",
+            "id": 26
+        },
+        {
+            "name": "Método Fônico",
+            "label": "Vídeos",
+            "id": 27
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Textos",
+            "id": 28
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Vídeos",
+            "id": 29
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Cursos",
+            "id": 30
+        },
+        {
+            "name": "Institucional",
+            "label": "Dez_razoes",
+            "id": 31
+        },
+        {
+            "name": "Institucional",
+            "label": "Diretrizes",
+            "id": 32
+        },
+        {
+            "name": "Institucional",
+            "label": "Material",
+            "id": 33
+        },
+        {
+            "name": "BNCC",
+            "label": "Mais_que_Bncc",
+            "id": 34
+        },
+        {
+            "name": "BNCC",
+            "label": "Plano_Curricular",
+            "id": 35
+        },
+        {
+            "name": "BNCC",
+            "label": "Modulos_Bncc",
+            "id": 36
+        },
+        {
+            "name": "Método Fônico",
+            "label": "Textos",
+            "id": 37
+        },
+        {
+            "name": "Método Fônico",
+            "label": "Vídeos",
+            "id": 38
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Textos",
+            "id": 39
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Vídeos",
+            "id": 40
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Cursos",
+            "id": 41
+        },
+        {
+            "name": "Institucional",
+            "label": "Dez_razoes",
+            "id": 42
+        },
+        {
+            "name": "Institucional",
+            "label": "Diretrizes",
+            "id": 43
+        },
+        {
+            "name": "Institucional",
+            "label": "Material",
+            "id": 44
+        },
+        {
+            "name": "BNCC",
+            "label": "Mais_que_Bncc",
+            "id": 45
+        },
+        {
+            "name": "BNCC",
+            "label": "Plano_Curricular",
+            "id": 46
+        },
+        {
+            "name": "BNCC",
+            "label": "Modulos_Bncc",
+            "id": 47
+        },
+        {
+            "name": "Método Fônico",
+            "label": "Textos",
+            "id": 48
+        },
+        {
+            "name": "Método Fônico",
+            "label": "Vídeos",
+            "id": 49
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Textos",
+            "id": 50
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Vídeos",
+            "id": 51
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Cursos",
+            "id": 52
+        },
+        {
+            "name": "BNCC",
+            "label": "Mais_que_Bncc",
+            "id": 53
+        },
+        {
+            "name": "BNCC",
+            "label": "Plano_Curricular",
+            "id": 54
+        },
+        {
+            "name": "BNCC",
+            "label": "Modulos_Bncc",
+            "id": 55
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Textos",
+            "id": 56
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Vídeos",
+            "id": 57
+        },
+        {
+            "name": "CosmoVisao",
+            "label": "Cursos",
+            "id": 58
+        }
+
+    ],
+    "links": [{
+            "source": 1,
+            "target": 2,
+            "type": "TemRota",
+            "since": 2010
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "type": "TemRota"
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "type": "TemRota"
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "type": "TemRota"
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "type": "TemModuloA"
+        },
+        {
+            "source": 2,
+            "target": 7,
+            "type": "TemModuloB"
+        },
+        {
+            "source": 2,
+            "target": 8,
+            "type": "TemModuloC"
+        },
+        {
+            "source": 2,
+            "target": 9,
+            "type": "TemModuloD"
+        },
+        {
+            "source": 3,
+            "target": 10,
+            "type": "TemModuloA"
+        },
+        {
+            "source": 3,
+            "target": 11,
+            "type": "TemModuloB"
+        },
+        {
+            "source": 3,
+            "target": 12,
+            "type": "TemModuloC"
+        },
+        {
+            "source": 3,
+            "target": 13,
+            "type": "TemModuloD"
+        },
+        {
+            "source": 4,
+            "target": 14,
+            "type": "TemModuloA"
+        },
+        {
+            "source": 4,
+            "target": 15,
+            "type": "TemModuloB"
+        },
+        {
+            "source": 4,
+            "target": 16,
+            "type": "TemModuloC"
+        },
+        {
+            "source": 4,
+            "target": 17,
+            "type": "TemModuloD"
+        },
+        {
+            "source": 5,
+            "target": 18,
+            "type": "TemModuloA"
+        },
+        {
+            "source": 5,
+            "target": 19,
+            "type": "TemModuloB"
+        },
+        {
+            "source": 6,
+            "target": 20,
+            "type": "TemModuloC"
+        },
+        {
+            "source": 6,
+            "target": 21,
+            "type": "TemModuloD"
+        },
+        {
+            "source": 6,
+            "target": 22,
+            "type": "TemModuloA"
+        },
+        {
+            "source": 7,
+            "target": 23,
+            "type": "TemModuloB"
+        },
+        {
+            "source": 7,
+            "target": 24,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 7,
+            "target": 25,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 8,
+            "target": 26,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 8,
+            "target": 27,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 9,
+            "target": 28,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 9,
+            "target": 29,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 9,
+            "target": 30,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 10,
+            "target": 34,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 10,
+            "target": 35,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 10,
+            "target": 36,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 11,
+            "target": 31,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 11,
+            "target": 32,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 11,
+            "target": 33,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 12,
+            "target": 37,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 12,
+            "target": 38,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 13,
+            "target": 39,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 13,
+            "target": 40,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 13,
+            "target": 41,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 14,
+            "target": 45,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 14,
+            "target": 46,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 14,
+            "target": 47,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 15,
+            "target": 42,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 15,
+            "target": 43,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 15,
+            "target": 44,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 16,
+            "target": 50,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 16,
+            "target": 51,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 16,
+            "target": 52,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 17,
+            "target": 48,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 17,
+            "target": 49,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 18,
+            "target": 56,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 18,
+            "target": 57,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 18,
+            "target": 58,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 19,
+            "target": 53,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 19,
+            "target": 54,
+            "type": "TemConteudo"
+        },
+        {
+            "source": 19,
+            "target": 55,
+            "type": "TemConteudo"
+        }
+    ]
+}

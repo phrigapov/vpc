@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Projeto de Ontologia</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v4.min.js" type="text/javascript"></script>
+    <script src="https://d3js.org/d3-selection-multi.v1.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+        .node {}
+        
+        .link {
+            stroke: #999;
+            stroke-opacity: .6;
+            stroke-width: 1px;
+        }
+        
+        .nodeCaminho {
+            fill: darkorange!important;
+        }
+        
+        .nodeRota {
+            fill: red!important;
+        }
+        
+        .nodeModulo {
+            fill: darkcyan!important;
+        }
+        
+        .nodeConteudo {
+            fill: cornflowerblue!important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-10">
+                <div class="d-flex align-items-center p-3 my-3 text-white-50 rounded box-shadow" style="background-color: #274b7b;">
+                    <img class="mr-3" src="../logo.png" alt="" width="48" height="48">
+                    <div class="lh-100">
+                        <h6 class="mb-0 text-white lh-100">Projeto de Ontologia : Visualização 2 - Grafos</h6>
+                        <small>Visualização e Processamento do Conhecimento - Prof. Ismar Frango Silveira</small>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-2">
+                <div class="d-flex align-items-center p-3 my-3 text-white-50 rounded box-shadow" style="background-color: #274b7b; height:80px;">
+                    <div class="lh-100">
+                        <h6 class="mb-0 text-white lh-100">Legendas</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-10">
+                <div id="my_dataviz"></div>
+            </div>
+            <div class="col-md-2">
+                <div class="row">
+                    <div style="width: 20px; height: 20px; border-radius:40px; background-color:darkorange;margin-bottom: 10px;"></div>
+                    <div style="font-size: 1vw;    line-height: 1.8;
+                    padding-left: 5px">Caminho de Aprendizagem</div>
+                </div>
+
+                <div class="row">
+                    <div style="width: 20px; height: 20px; border-radius:40px; background-color: red;margin-bottom: 10px;"></div>
+                    <div style="font-size: 1vw;    line-height: 1.8;
+                    padding-left: 5px">Rota</div>
+                </div>
+
+                <div class="row">
+                    <div style="width: 20px; height: 20px; border-radius:40px; background-color: darkcyan;margin-bottom: 10px;"></div>
+                    <div style="font-size: 1vw;    line-height: 1.8;
+                    padding-left: 5px">Módulos</div>
+                </div>
+
+                <div class="row">
+                    <div style="width: 20px; height: 20px; border-radius:40px; background-color: cornflowerblue;margin-bottom: 10px;"></div>
+                    <div style="font-size: 1vw;    line-height: 1.8;
+                    padding-left: 5px">Conteúdo</div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+
+
+
+
+
+<script type="text/javascript">
+    const heightValue = 500;
+    const widthValue = 700;
+
+    //var colors = d3.scaleOrdinal(d3.schemeCategory10);
+
+    var svg = d3.select("#my_dataviz");
+
+    var vis = svg
+        .append("svg")
+        .attr("viewBox", `-40 -20 ${widthValue} ${heightValue}`);
+
+    const strokeWidth = 1.5;
+    const margin = {
+        top: 0,
+        bottom: 20,
+        left: 30,
+        right: 20
+    };
+
+    const chart = svg.append("g").attr("transform", `translate(${margin.left},0)`);
+    const width = 600 - margin.left - margin.right - (strokeWidth * 2);
+    const height = 300 - margin.top - margin.bottom;
+    const grp = chart
+        .append("g")
+        .attr("transform", `translate(-${margin.left - strokeWidth},-${margin.top})`);
+
+    vis.append('defs').append('marker')
+        .attrs({
+            'id': 'arrowhead',
+            'viewBox': '-0 -5 10 10',
+            'refX': 13,
+            'refY': 0,
+            'orient': 'auto',
+            'markerWidth': 6,
+            'markerHeight': 6,
+            'xoverflow': 'visible'
+        })
+        .append('svg:path')
+        .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
+        .attr('fill', '#999')
+        .style('stroke', 'none');
+
+    var simulation = d3.forceSimulation()
+        .force("link", d3.forceLink().id(function(d) {
+            return d.id;
+        }).distance(100).strength(1))
+        .force("charge", d3.forceManyBody())
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+    d3.json("graph.json", function(error, graph) {
+        if (error) throw error;
+        update(graph.links, graph.nodes);
+    })
+
+    function update(links, nodes) {
+        link = vis.selectAll(".link")
+            .data(links)
+            .enter()
+            .append("line")
+            .attr("class", "link")
+            .attr('marker-end', 'url(#arrowhead)')
+
+        link.append("title")
+            .text(function(d) {
+                return d.type;
+            });
+
+        edgepaths = vis.selectAll(".edgepath")
+            .data(links)
+            .enter()
+            .append('path')
+            .attrs({
+                'class': 'edgepath',
+                'fill-opacity': 0,
+                'stroke-opacity': 0,
+                'id': function(d, i) {
+                    return 'edgepath' + i
+                }
+            })
+            .style("pointer-events", "none");
+
+        edgelabels = vis.selectAll(".edgelabel")
+            .data(links)
+            .enter()
+            .append('text')
+            .style("pointer-events", "none")
+            .attrs({
+                'class': 'edgelabel',
+                'id': function(d, i) {
+                    return 'edgelabel' + i
+                },
+                'font-size': 6,
+                'fill': '#aaa'
+            });
+
+        edgelabels.append('textPath')
+            .attr('xlink:href', function(d, i) {
+                return '#edgepath' + i
+            })
+            .style("text-anchor", "middle")
+            .style("pointer-events", "none")
+            .attr("startOffset", "50%")
+            .text(function(d) {
+                return d.type
+            });
+
+        node = vis.selectAll(".node")
+            .data(nodes)
+            .enter()
+            .append("g")
+            .attr("class", "node")
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                //.on("end", dragended)
+            );
+
+        node.append("circle")
+            .attr("r", function(d) {
+                if ((d.id == 1)) {
+                    return 15
+                } else if ((d.id > 1) && (d.id < 6)) {
+                    return 8
+                } else if ((d.id > 5) && (d.id < 20)) {
+                    return 5
+                } else {
+                    return 3
+                };
+            })
+            .attr("class", function(d) {
+                if ((d.id == 1)) {
+                    return 'nodeCaminho'
+                } else if ((d.id > 1) && (d.id < 6)) {
+                    return 'nodeRota'
+                } else if ((d.id > 5) && (d.id < 20)) {
+                    return 'nodeModulo'
+                } else {
+                    return 'nodeConteudo'
+                };
+            })
+            /*.style("fill", function(d, i) {
+                return colors(1);
+            })*/
+
+        node.append("title")
+            .text(function(d) {
+                return d.id;
+            });
+
+        node.append("text")
+            .attr("dy", -3)
+            .attr("font-size", 8)
+            .text(function(d) {
+                return d.name + ":" + d.label;
+            });
+
+        simulation
+            .nodes(nodes)
+            .on("tick", ticked);
+
+        simulation.force("link")
+            .links(links);
+    }
+
+    function ticked() {
+        link
+            .attr("x1", function(d) {
+                return d.source.x;
+            })
+            .attr("y1", function(d) {
+                return d.source.y;
+            })
+            .attr("x2", function(d) {
+                return d.target.x;
+            })
+            .attr("y2", function(d) {
+                return d.target.y;
+            });
+
+        node
+            .attr("transform", function(d) {
+                return "translate(" + d.x + ", " + d.y + ")";
+            });
+
+        edgepaths.attr('d', function(d) {
+            return 'M ' + d.source.x + ' ' + d.source.y + ' L ' + d.target.x + ' ' + d.target.y;
+        });
+
+        edgelabels.attr('transform', function(d) {
+            if (d.target.x < d.source.x) {
+                var bbox = vis;
+
+                rx = bbox.x + bbox.width / 2;
+                ry = bbox.y + bbox.height / 2;
+                return 'rotate(180 ' + rx + ' ' + ry + ')';
+            } else {
+                return 'rotate(0)';
+            }
+        });
+    }
+
+    function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.3).restart()
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+    }
+
+    //    function dragended(d) {
+    //        if (!d3.event.active) simulation.alphaTarget(0);
+    //        d.fx = undefined;
+    //        d.fy = undefined;
+    //    }
+</script>
