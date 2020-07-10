@@ -7,7 +7,7 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/histograma.html">Tarefa #2 - Histograma</a><br>
 <hr />
-<a href="tarefas/barras_empilhadas.html">Tarefa #3 - Barras Empilhadas</a><br>
+<a href="tarefas/barras_empilhadas/index.html">Tarefa #3 - Barras Empilhadas</a><br>
 <hr />
 <a href="tarefas/boxplot/boxplot.html">Tarefa #4 - Boxplot</a><br>
 <hr />
