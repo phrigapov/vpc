@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>d3.js learning</title>
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <style type="text/css">
+        svg {
+            font: 10px sans-serif;
+            shape-rendering: crispEdges;
+        }
+        
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000;
+        }
+        
+        path.domain {
+            stroke: none;
+        }
+        
+        .y .tick line {
+            stroke: #ddd;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div style="font-size:20px;margin-left:30px;">Cadastros realizados na plataforma educacional no ano de 2019 - Por Perfil.</div>
+    <div id="my_dataviz"></div>
+</body>
+
+</html>
+
+<script type="text/javascript">
+    // Setup svg using Bostock's margin convention
+
+    const heightValue = 500;
+    const widthValue = 700;
+
+    //var colors = d3.scaleOrdinal(d3.schemeCategory10);
+
+    var svg = d3.select("#my_dataviz");
+
+    var vis = svg
+        .append("svg")
+        .attr("viewBox", `-40 -20 ${widthValue} ${heightValue}`);
+
+    const strokeWidth = 1.5;
+    const margin = {
+        top: 0,
+        bottom: 20,
+        left: 30,
+        right: 20
+    };
+
+    const chart = svg.append("g").attr("transform", `translate(${margin.left},0)`);
+    const width = 600 - margin.left - margin.right - (strokeWidth * 2);
+    const height = 300 - margin.top - margin.bottom;
+    const grp = chart
+        .append("g")
+        .attr("transform", `translate(-${margin.left - strokeWidth},-${margin.top})`);
+
+
+    /* Data in strings like it would be if imported from a csv */
+
+    var data = [{
+        mes: "1",
+        Diretores: "10",
+        Coordenadores: "15",
+        Professores: "9",
+        Secretarias: "6"
+    }, {
+        mes: "2",
+        Diretores: "12",
+        Coordenadores: "18",
+        Professores: "9",
+        Secretarias: "4"
+    }, {
+        mes: "3",
+        Diretores: "05",
+        Coordenadores: "20",
+        Professores: "8",
+        Secretarias: "2"
+    }, {
+        mes: "4",
+        Diretores: "01",
+        Coordenadores: "15",
+        Professores: "5",
+        Secretarias: "4"
+    }, {
+        mes: "5",
+        Diretores: "02",
+        Coordenadores: "10",
+        oranProfessoresges: "4",
+        Secretarias: "2"
+    }, {
+        mes: "6",
+        Diretores: "03",
+        Coordenadores: "12",
+        Professores: "6",
+        Secretarias: "3"
+    }, {
+        mes: "7",
+        Diretores: "04",
+        Coordenadores: "15",
+        Professores: "8",
+        Secretarias: "1"
+    }, {
+        mes: "9",
+        Diretores: "06",
+        Coordenadores: "11",
+        Professores: "9",
+        Secretarias: "4"
+    }, {
+        mes: "10",
+        Diretores: "10",
+        Coordenadores: "13",
+        Professores: "9",
+        Secretarias: "5"
+    }, {
+        mes: "11",
+        Diretores: "16",
+        Coordenadores: "19",
+        Professores: "6",
+        Secretarias: "9"
+    }, {
+        mes: "12",
+        Diretores: "19",
+        Coordenadores: "17",
+        Professores: "5",
+        Secretarias: "7"
+    }, ];
+
+    var parse = d3.time.format("%Y").parse;
+
+
+    // Transpose the data into layers
+    var dataset = d3.layout.stack()(["Diretores", "Coordenadores", "Professores", "Secretarias"].map(function(fruit) {
+        return data.map(function(d) {
+            return {
+                x: parse(d.mes),
+                y: +d[fruit]
+            };
+        });
+    }));
+
+
+    // Set x, y and colors
+    var x = d3.scale.ordinal()
+        .domain(dataset[0].map(function(d) {
+            return d.x;
+        }))
+        .rangeRoundBands([10, width - 10], 0.02);
+
+    var y = d3.scale.linear()
+        .domain([0, d3.max(dataset, function(d) {
+            return d3.max(d, function(d) {
+                return d.y0 + d.y;
+            });
+        })])
+        .range([height, 0]);
+
+    var colors = ["#3F51B5", "#6e9c84", "#f20447", "#00000"];
+
+
+    // Define and draw axes
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+        .ticks(5)
+        .tickSize(-width, 0, 0)
+        .tickFormat(function(d) {
+            return d
+        });
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom")
+        .tickFormat(d3.time.format("%y"));
+
+    vis.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+
+    vis.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+
+
+    // Create groups for each series, rects for each segment 
+    var groups = vis.selectAll("g.cost")
+        .data(dataset)
+        .enter().append("g")
+        .attr("class", "cost")
+        .style("fill", function(d, i) {
+            return colors[i];
+        });
+
+    var rect = groups.selectAll("rect")
+        .data(function(d) {
+            return d;
+        })
+        .enter()
+        .append("rect")
+        .attr("x", function(d) {
+            return x(d.x);
+        })
+        .attr("y", function(d) {
+            return y(d.y0 + d.y);
+        })
+        .attr("height", function(d) {
+            return y(d.y0) - y(d.y0 + d.y);
+        })
+        .attr("width", x.rangeBand())
+        .on("mouseover", function() {
+            tooltip.style("display", null);
+        })
+        .on("mouseout", function() {
+            tooltip.style("display", "none");
+        })
+        .on("mousemove", function(d) {
+            var xPosition = d3.mouse(this)[0] - 15;
+            var yPosition = d3.mouse(this)[1] - 25;
+            tooltip.attr("transform", "translate(" + xPosition + "," + yPosition + ")");
+            tooltip.select("text").text(d.y);
+        });
+
+
+    // Draw legend
+    var legend = vis.selectAll(".legend")
+        .data(colors)
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", function(d, i) {
+            return "translate(30," + i * 19 + ")";
+        });
+
+    legend.append("rect")
+        .attr("x", width - 18)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", function(d, i) {
+            return colors.slice().reverse()[i];
+        });
+
+    legend.append("text")
+        .attr("x", width + 5)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "start")
+        .text(function(d, i) {
+            switch (i) {
+                case 0:
+                    return "Diretores";
+                case 1:
+                    return "Coordenadores";
+                case 2:
+                    return "Professores";
+                case 3:
+                    return "Secretarias";
+            }
+        });
+
+
+    // Prep the tooltip bits, initial display is hidden
+    var tooltip = vis.append("g")
+        .attr("class", "tooltip")
+        .style("display", "none");
+
+    tooltip.append("rect")
+        .attr("width", 30)
+        .attr("height", 20)
+        .attr("fill", "white")
+        .style("opacity", 0.5);
+
+    tooltip.append("text")
+        .attr("x", 15)
+        .attr("dy", "1.2em")
+        .style("text-anchor", "middle")
+        .attr("font-size", "12px")
+        .attr("font-weight", "bold");
+</script>
