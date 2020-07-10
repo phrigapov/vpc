@@ -9,7 +9,7 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/barras_empilhadas.html">Tarefa #3 - Barras Empilhadas</a><br>
 <hr />
-<a href="tarefas/boxplot.html">Tarefa #4 - Boxplot</a><br>
+<a href="tarefas/boxplot/boxplot.html">Tarefa #4 - Boxplot</a><br>
 <hr />
 <a href="tarefas/scatterplot/trafego_total.html">Tarefa #5 - Dispersão (Conectado)</a><br>
 <hr />
