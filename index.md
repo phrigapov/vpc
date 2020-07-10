@@ -26,12 +26,8 @@ Professor: Ismar Frango
 <hr />
 <a href="tarefas/temporal_map/sme_map.html">Tarefa #11 - Visualização espaço-temporal</a><br>
 <hr />
-<a href="tarefas/temporal/temporal.html">Tarefa #12 - !!FALTOU!!</a><br>
-Gere uma visualização sobre um corpus de texto (preferencialmente
-aderente à sua área de pesquisa). A estratégia e o objetivo da
-visualização ficam à sua escolha (exceto wordcloud) .
-Recomenda-se inspirar-se no catálogo de técnicas de visualização de
-texto http://textvis.lnu.se/.
+<a href="tarefas/texto/index.html">Tarefa #12 - Visualização de
+texto (Bubbles)</a><br>
 <hr />
 <a href="tarefas/Treemap/tree.html">Tarefa #13 - TreeMap</a><br>
 <hr />
