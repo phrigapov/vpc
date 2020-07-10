@@ -30,7 +30,7 @@
             "translate(" + margin.left + "," + margin.top + ")");
 
     // read json data
-    d3.json("https://sistemasdeensino.mackenzie.br/integracao/Treemap/data.json", function(data) {
+    d3.json("data.json", function(data) {
 
         // Give the data to this cluster layout:
         var root = d3.hierarchy(data).sum(function(d) {
