@@ -51,5 +51,5 @@ com uma ferramenta à sua escolha (sugere-se o Conexp)
 <b>(ENTREGUE NO MOODLE)</b>
 <hr /><hr />
 <a href="tarefas/pj/index.html">PROJETO FINAL</a><br>
-Arquivos do protege entregues no moodle.
+Arquivos do protegê entregues no moodle.
 
