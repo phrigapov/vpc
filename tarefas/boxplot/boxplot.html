@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div style="font-size:20px;margin-left:30px;">Uso da plataforma educacional por idade pelos diferentes sexos.</div>
+<div id="my_dataviz"></div>
+
+
+<script>
+    const heightValue = 500;
+    const widthValue = 700;
+
+    //var colors = d3.scaleOrdinal(d3.schemeCategory10);
+
+    var svg = d3.select("#my_dataviz");
+
+    var vis = svg
+        .append("svg")
+        .attr("viewBox", `-40 -20 ${widthValue} ${heightValue}`);
+
+    const strokeWidth = 1.5;
+    const margin = {
+        top: 0,
+        bottom: 20,
+        left: 30,
+        right: 20
+    };
+
+    const chart = svg.append("g").attr("transform", `translate(${margin.left},0)`);
+    const width = 600 - margin.left - margin.right - (strokeWidth * 2);
+    const height = 300 - margin.top - margin.bottom;
+    const grp = chart
+        .append("g")
+        .attr("transform", `translate(-${margin.left - strokeWidth},-${margin.top})`);
+
+    // Read the data and compute summary statistics for each specie
+    d3.csv("dados.csv", function(data) {
+
+        // Compute quartiles, median, inter quantile range min and max --> these info are then used to draw the box.
+        var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
+            .key(function(d) {
+                return d.sexo;
+            })
+            .rollup(function(d) {
+                q1 = d3.quantile(d.map(function(g) {
+                    return g.idade;
+                }).sort(d3.ascending), .25)
+                median = d3.quantile(d.map(function(g) {
+                    return g.idade;
+                }).sort(d3.ascending), .5)
+                q3 = d3.quantile(d.map(function(g) {
+                    return g.idade;
+                }).sort(d3.ascending), .75)
+                interQuantileRange = q3 - q1
+                min = q1 - 1.5 * interQuantileRange
+                max = q3 + 1.5 * interQuantileRange
+                return ({
+                    q1: q1,
+                    median: median,
+                    q3: q3,
+                    interQuantileRange: interQuantileRange,
+                    min: min,
+                    max: max
+                })
+            })
+            .entries(data)
+
+        // Show the X scale
+        var x = d3.scaleBand()
+            .range([0, width])
+            .domain(["Feminino", "Maculino"])
+            .paddingInner(1)
+            .paddingOuter(.5)
+        vis.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x))
+
+        // Show the Y scale
+        var y = d3.scaleLinear()
+            .domain([15, 80])
+            .range([height, 0])
+        vis.append("g").call(d3.axisLeft(y))
+
+        // Show the main vertical line
+        vis
+            .selectAll("vertLines")
+            .data(sumstat)
+            .enter()
+            .append("line")
+            .attr("x1", function(d) {
+                return (x(d.key))
+            })
+            .attr("x2", function(d) {
+                return (x(d.key))
+            })
+            .attr("y1", function(d) {
+                return (y(d.value.min))
+            })
+            .attr("y2", function(d) {
+                return (y(d.value.max))
+            })
+            .attr("stroke", "black")
+            .style("width", 40)
+
+        // rectangle for the main box
+        var boxWidth = 100
+        vis
+            .selectAll("boxes")
+            .data(sumstat)
+            .enter()
+            .append("rect")
+            .attr("x", function(d) {
+                return (x(d.key) - boxWidth / 2)
+            })
+            .attr("y", function(d) {
+                return (y(d.value.q3))
+            })
+            .attr("height", function(d) {
+                return (y(d.value.q1) - y(d.value.q3))
+            })
+            .attr("width", boxWidth)
+            .attr("stroke", "black")
+            .style("fill", function(d) {
+                if (d.key == "Feminino") {
+                    return "#bf86e0";
+                } else {
+                    return "#7777ff";
+                }
+            })
+
+
+        // Show the median
+        vis
+            .selectAll("medianLines")
+            .data(sumstat)
+            .enter()
+            .append("line")
+            .attr("x1", function(d) {
+                return (x(d.key) - boxWidth / 2)
+            })
+            .attr("x2", function(d) {
+                return (x(d.key) + boxWidth / 2)
+            })
+            .attr("y1", function(d) {
+                return (y(d.value.median))
+            })
+            .attr("y2", function(d) {
+                return (y(d.value.median))
+            })
+            .attr("stroke", "black")
+            .style("width", 80)
+
+        // Add individual points with jitter
+        var jitterWidth = 50
+        vis
+            .selectAll("indPoints")
+            .data(data)
+            .enter()
+            .append("circle")
+            .attr("cx", function(d) {
+                return (x(d.sexo) - jitterWidth / 2 + Math.random() * jitterWidth)
+            })
+            .attr("cy", function(d) {
+                return (y(d.idade))
+            })
+            .attr("r", 4)
+            .style("fill", "white")
+            .attr("stroke", "black")
+
+
+    })
+</script>
